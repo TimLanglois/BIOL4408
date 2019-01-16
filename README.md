@@ -1,2 +1,2 @@
-# biol4408
+# BIOL4408
 Marine Ecology Rottnest field trip
