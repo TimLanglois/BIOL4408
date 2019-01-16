@@ -1,3 +1,8 @@
+# User created folders
+Analysis_Lobster_density/Data/
+Analysis_Lobster_density/Plots/
+
+
 # History files
 .Rhistory
 .Rapp.history
@@ -16,6 +21,9 @@
 
 # RStudio files
 .Rproj.user/
+.Rproj
+
+
 
 # produced vignettes
 vignettes/*.html
