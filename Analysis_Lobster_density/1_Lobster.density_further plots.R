@@ -43,7 +43,7 @@ se.max <- function(x) (mean(x)) + se(x)
 # Set work directory----
 # Set your own to match where the data sits on your computer
 
-work.dir=("~/Google Drive/Teaching/BIOL4408/BIOL4408 2018/Analysis/Analysis_Lobster density") #for Tim
+work.dir=("~/GitHub/BIOL4408/Analysis_Lobster_density") #for Tim
 
 #work.dir=("") #set this for your computer work directory
 
