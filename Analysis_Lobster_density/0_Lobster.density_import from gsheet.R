@@ -37,7 +37,7 @@ study<-"lobster.density"
 # Set work directory----
 # Set your own to match where the data sits on your computer
 
-work.dir=("~/Google Drive/Teaching/BIOL4408/BIOL4408 2018/Analysis/Analysis_Lobster density") #for Tim
+work.dir=("~/GitHub/BIOL4408/Analysis_Lobster_density") #for Tim
 
 #work.dir=("") #set this for your computer work directory
 
@@ -94,7 +94,7 @@ table(dat$site,dat$status)
 dat <- gs_title("BIOL4408.lobster.density")%>% 
     gs_read_csv(ws = "lobster.density") %>%
 #recode the site names
-    dplyr::dplyr::mutate(site = fct_recode(site,
+    dplyr::mutate(site = fct_recode(site,
                            "Salmon Bay" = "eastsalmon"))%>%
     
   #filter out sites only done once
@@ -111,7 +111,7 @@ dat <- gs_title("BIOL4408.lobster.density")%>%
     droplevels()%>%
   
   # Make a new unique Site namename
-  dplyr::dplyr::mutate(site.new=paste(site,status,sep="."))%>%
+  dplyr::mutate(site.new=paste(site,status,sep="."))%>%
   
     glimpse()
 
@@ -122,7 +122,7 @@ dat <- gs_title("BIOL4408.lobster.density")%>%
 # Use dat and make new varialbes for sum of legal and sub.legal-----
 dat<-gs_title("BIOL4408.lobster.density")%>% 
   gs_read_csv(ws = "lobster.density") %>%
-  dplyr::dplyr::mutate(site = fct_recode(site,"Salmon Bay" = "eastsalmon"))%>%
+  dplyr::mutate(site = fct_recode(site,"Salmon Bay" = "eastsalmon"))%>%
   filter(!site%in%c(
     "Armstrong Point",
     "Longreach",
