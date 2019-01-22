@@ -1,17 +1,13 @@
 # BIOL4408 Marine Ecology field trip
 
 
-###### Format lobster density data for PRIMER ######
+###### Format western king wrasse data for PRIMER ######
 ### Written by Tim Langlois 
-
 
 
 ##  What are we going to do ?----
 
 # 1. Format data to PRIMER format - with samples as Rows and Species as coloums
-    # for both 
-    # a. Lobster data
-    # b. Covariates
 # 2. With Factors, to the right, seperated by blank columns .
 
 
@@ -27,7 +23,7 @@ library(readr)
 
 
 # Set name for study--
-study<-"lobster.density"
+study<-"wester.king.wrasse"
 
 
 # Functions----
@@ -52,7 +48,7 @@ append_col <- function(x, cols, after=length(x)) {
 # Set work directory----
 # Set your own to match where the data sits on your computer
 
-work.dir=("~/GitHub/BIOL4408/Analysis_Lobster_density") #for Tim
+work.dir=("~/GitHub/BIOL4408/Analysis_Western_king_wrasse") #for Tim
 
 #work.dir=("") #set this for your computer work directory
 
@@ -71,7 +67,7 @@ primer.dir=paste(work.dir,"Primer",sep="/")
 # Read in the checked data-----
 setwd(data.dir)
 dir()
-dat<-read.csv("lobster.density.2019-01-20.csv")%>%
+dat<-read.csv("wester.king.wrasse.summary.2019-01-22.csv")%>%
   glimpse()
 
 
@@ -81,48 +77,34 @@ dat<-read.csv("lobster.density.2019-01-20.csv")%>%
 glimpse(dat)
 
 response<-dat%>%
-  select(sample.no,count,size.class)%>%
-  spread(size.class,count, fill = 0)%>% #to make the data wide for PRIMER
+  select(sample.no,count,metric)%>%
+  spread(metric,count, fill = 0)%>% #to make the data wide for PRIMER
   glimpse()
 
 
 # Make the factor data----
 factors<-dat%>%
-  select(c(sample.no,sanctuary,status,site.new,year))%>%
+  select(c(sample.no,sanctuary,status,site))%>%
   distinct()%>% #only unique combinations - to match the wide data
   glimpse()
 
 
 
-# Make the covariate data----
-covariates<-dat%>%
-  select(sample.no,complexity,algal.cover)%>%
-  distinct()%>%
-  glimpse()
-
-
 
 response.factors<-factors%>%
   inner_join(response,by="sample.no")%>% #join the data
-  select(sample.no,legal,sub.legal,everything())%>% #orders the colums
-  append_col(., list(blank=NA), after="sub.legal")%>% #appends blank colum
+  select(sample.no,M,`F`,J,MtoF,school.count,everything())%>% #orders the colums
+  append_col(., list(blank=NA), after="school.count")%>% #appends blank colum
   plyr::rename(.,replace =c("blank"="") )%>% #makes the column name blank
   glimpse()
 
 
-covariate.factors<-covariates%>%
-  inner_join(factors,by="sample.no")%>%
-  append_col(., list(blank=NA), after="algal.cover")%>%
-  plyr::rename(.,replace =c("blank"="") )%>%
-  glimpse()
-  
 
 
 # Write the data----
 setwd(primer.dir)
 dir()
-write.csv(response.factors,file=paste("response.factors",Sys.Date(),"csv",sep = "."), row.names=FALSE)
+write.csv(response.factors,file=paste(study,"response.factors",Sys.Date(),"csv",sep = "."), row.names=FALSE)
 
-write.csv(covariate.factors,file=paste("covariate.factors",Sys.Date(),"csv",sep = "."), row.names=FALSE)
 
 

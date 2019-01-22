@@ -1,0 +1,696 @@
+sanctuary,status,site,transect.id,metric,count,sample.no
+Armstrong,Fished,Geordie_Bay,AT.1,F,0,1
+Armstrong,Fished,Geordie_Bay,AT.2,F,3,2
+Armstrong,Fished,Geordie_Bay,AT.3,F,2,3
+Armstrong,Fished,Geordie_Bay,AT.4,F,1,4
+Armstrong,Fished,Geordie_Bay,AT.5,F,6,5
+Armstrong,Fished,Geordie_Bay,EPJ.1,F,0,6
+Armstrong,Fished,Geordie_Bay,EPJ.2,F,0,7
+Armstrong,Fished,Geordie_Bay,EPJ.3,F,3,8
+Armstrong,Fished,Geordie_Bay,EPJ.4,F,0,9
+Armstrong,Fished,Geordie_Bay,EPJ.5,F,0,10
+Armstrong,Fished,Geordie_Bay,ST.1,F,4,11
+Armstrong,Fished,Geordie_Bay,ST.2,F,0,12
+Armstrong,Fished,Geordie_Bay,ST.3,F,0,13
+Armstrong,Fished,Geordie_Bay,ST.4,F,0,14
+Armstrong,Fished,Longreach_Bay,AAE.1,F,3,15
+Armstrong,Fished,Longreach_Bay,AAE.2,F,0,16
+Armstrong,Fished,Longreach_Bay,AAE.3,F,3,17
+Armstrong,Fished,Longreach_Bay,AAE.4,F,7,18
+Armstrong,Fished,Longreach_Bay,AAE.5,F,0,19
+Armstrong,Fished,Longreach_Bay,HA.1,F,2,20
+Armstrong,Fished,Longreach_Bay,HA.2,F,0,21
+Armstrong,Fished,Longreach_Bay,HA.3,F,3,22
+Armstrong,Fished,Longreach_Bay,HA.4,F,0,23
+Armstrong,Fished,Longreach_Bay,HA.5,F,7,24
+Armstrong,Fished,Longreach_Bay,JH.1,F,1,25
+Armstrong,Fished,Longreach_Bay,JH.2,F,2,26
+Armstrong,Fished,Longreach_Bay,JH.3,F,3,27
+Armstrong,Fished,Longreach_Bay,JH.4,F,0,28
+Armstrong,Fished,Longreach_Bay,JH.5,F,0,29
+Armstrong,Fished,Parakeet_Bay,AAE.1,F,0,30
+Armstrong,Fished,Parakeet_Bay,AAE.2,F,22,31
+Armstrong,Fished,Parakeet_Bay,AAE.3,F,0,32
+Armstrong,Fished,Parakeet_Bay,AAE.4,F,7,33
+Armstrong,Fished,Parakeet_Bay,AAE.5,F,2,34
+Armstrong,Fished,Parakeet_Bay,HA.1,F,3,35
+Armstrong,Fished,Parakeet_Bay,HA.2,F,1,36
+Armstrong,Fished,Parakeet_Bay,HA.3,F,8,37
+Armstrong,Fished,Parakeet_Bay,HA.4,F,1,38
+Armstrong,Fished,Parakeet_Bay,HA.5,F,0,39
+Armstrong,Fished,Parakeet_Bay,JH.1,F,1,40
+Armstrong,Fished,Parakeet_Bay,JH.2,F,1,41
+Armstrong,Fished,Parakeet_Bay,JH.3,F,3,42
+Armstrong,Fished,Parakeet_Bay,JH.4,F,1,43
+Armstrong,Fished,Parakeet_Bay,JH.5,F,7,44
+Armstrong,Fished,Ricey_Beach,AT.1,F,5,45
+Armstrong,Fished,Ricey_Beach,AT.2,F,2,46
+Armstrong,Fished,Ricey_Beach,AT.3,F,8,47
+Armstrong,Fished,Ricey_Beach,AT.4,F,0,48
+Armstrong,Fished,Ricey_Beach,AT.5,F,5,49
+Armstrong,Fished,Ricey_Beach,EPJ.1,F,17,50
+Armstrong,Fished,Ricey_Beach,EPJ.2,F,18,51
+Armstrong,Fished,Ricey_Beach,EPJ.3,F,2,52
+Armstrong,Fished,Ricey_Beach,EPJ.4,F,32,53
+Armstrong,Fished,Ricey_Beach,EPJ.5,F,14,54
+Armstrong,Fished,Ricey_Beach,ST.1,F,5,55
+Armstrong,Fished,Ricey_Beach,ST.2,F,29,56
+Armstrong,Fished,Ricey_Beach,ST.3,F,7,57
+Armstrong,Fished,Ricey_Beach,ST.4,F,6,58
+Armstrong,Fished,Ricey_Beach,ST.5,F,0,59
+Armstrong,No-take,Little_Armstrong_Bay,AAE.1,F,5,60
+Armstrong,No-take,Little_Armstrong_Bay,AAE.10,F,0,61
+Armstrong,No-take,Little_Armstrong_Bay,AAE.2,F,9,62
+Armstrong,No-take,Little_Armstrong_Bay,AAE.3,F,8,63
+Armstrong,No-take,Little_Armstrong_Bay,AAE.4,F,2,64
+Armstrong,No-take,Little_Armstrong_Bay,AAE.5,F,2,65
+Armstrong,No-take,Little_Armstrong_Bay,AAE.6,F,100,66
+Armstrong,No-take,Little_Armstrong_Bay,AAE.7,F,50,67
+Armstrong,No-take,Little_Armstrong_Bay,AAE.8,F,1,68
+Armstrong,No-take,Little_Armstrong_Bay,AAE.9,F,8,69
+Armstrong,No-take,Little_Armstrong_Bay,THJ.1,F,0,70
+Armstrong,No-take,Little_Armstrong_Bay,THJ.10,F,10,71
+Armstrong,No-take,Little_Armstrong_Bay,THJ.2,F,0,72
+Armstrong,No-take,Little_Armstrong_Bay,THJ.3,F,0,73
+Armstrong,No-take,Little_Armstrong_Bay,THJ.4,F,2,74
+Armstrong,No-take,Little_Armstrong_Bay,THJ.5,F,5,75
+Armstrong,No-take,Little_Armstrong_Bay,THJ.6,F,6,76
+Armstrong,No-take,Little_Armstrong_Bay,THJ.7,F,3,77
+Armstrong,No-take,Little_Armstrong_Bay,THJ.8,F,8,78
+Armstrong,No-take,Little_Armstrong_Bay,THJ.9,F,4,79
+Green_Island,Fished,East_Strickland,AT.1,F,1,80
+Green_Island,Fished,East_Strickland,AT.2,F,1,81
+Green_Island,Fished,East_Strickland,AT.3,F,1,82
+Green_Island,Fished,East_Strickland,AT.4,F,1,83
+Green_Island,Fished,East_Strickland,AT.5,F,6,84
+Green_Island,Fished,East_Strickland,EPJ.1,F,4,85
+Green_Island,Fished,East_Strickland,EPJ.2,F,2,86
+Green_Island,Fished,East_Strickland,EPJ.3,F,2,87
+Green_Island,Fished,East_Strickland,EPJ.4,F,8,88
+Green_Island,Fished,East_Strickland,EPJ.5,F,2,89
+Green_Island,Fished,East_Strickland,ST.1,F,15,90
+Green_Island,Fished,East_Strickland,ST.2,F,1,91
+Green_Island,Fished,East_Strickland,ST.3,F,4,92
+Green_Island,Fished,East_Strickland,ST.4,F,2,93
+Green_Island,Fished,East_Strickland,ST.5,F,9,94
+Green_Island,No-take,Green_Island,AT.1,F,6,95
+Green_Island,No-take,Green_Island,AT.2,F,2,96
+Green_Island,No-take,Green_Island,AT.3,F,14,97
+Green_Island,No-take,Green_Island,AT.4,F,1,98
+Green_Island,No-take,Green_Island,AT.5,F,5,99
+Green_Island,No-take,Green_Island,EPJ.1,F,8,100
+Green_Island,No-take,Green_Island,EPJ.2,F,5,101
+Green_Island,No-take,Green_Island,EPJ.3,F,4,102
+Green_Island,No-take,Green_Island,EPJ.4,F,10,103
+Green_Island,No-take,Green_Island,EPJ.5,F,4,104
+Green_Island,No-take,Green_Island,ST.1,F,3,105
+Green_Island,No-take,Green_Island,ST.2,F,0,106
+Green_Island,No-take,Green_Island,ST.3,F,1,107
+Green_Island,No-take,Green_Island,ST.4,F,15,108
+Green_Island,No-take,Green_Island,ST.5,F,4,109
+Parker_Pt,No-take,East_Salmon,EP.1,F,3,110
+Parker_Pt,No-take,East_Salmon,EP.2,F,6,111
+Parker_Pt,No-take,East_Salmon,EP.3,F,6,112
+Parker_Pt,No-take,East_Salmon,EP.4,F,7,113
+Parker_Pt,No-take,East_Salmon,EP.5,F,13,114
+Parker_Pt,No-take,East_Salmon,JAT.1,F,6,115
+Parker_Pt,No-take,East_Salmon,JAT.2,F,7,116
+Parker_Pt,No-take,East_Salmon,JAT.3,F,4,117
+Parker_Pt,No-take,East_Salmon,JAT.4,F,19,118
+Parker_Pt,No-take,East_Salmon,JAT.5,F,14,119
+Parker_Pt,No-take,East_Salmon,ST.1,F,5,120
+Parker_Pt,No-take,East_Salmon,ST.2,F,4,121
+Parker_Pt,No-take,East_Salmon,ST.3,F,8,122
+Parker_Pt,No-take,East_Salmon,ST.4,F,1,123
+Parker_Pt,No-take,East_Salmon,ST.5,F,12,124
+Parker_Pt,No-take,Little Salmon_Bay,AH.1,F,32,125
+Parker_Pt,No-take,Little Salmon_Bay,AH.2,F,9,126
+Parker_Pt,No-take,Little Salmon_Bay,AH.3,F,5,127
+Parker_Pt,No-take,Little Salmon_Bay,AH.4,F,17,128
+Parker_Pt,No-take,Little Salmon_Bay,AH.5,F,5,129
+Parker_Pt,No-take,Little Salmon_Bay,EAA.1,F,2,130
+Parker_Pt,No-take,Little Salmon_Bay,EAA.2,F,5,131
+Parker_Pt,No-take,Little Salmon_Bay,EAA.3,F,6,132
+Parker_Pt,No-take,Little Salmon_Bay,EAA.4,F,7,133
+Parker_Pt,No-take,Little Salmon_Bay,EAA.5,F,9,134
+Parker_Pt,No-take,Little Salmon_Bay,JH.1,F,7,135
+Parker_Pt,No-take,Little Salmon_Bay,JH.2,F,10,136
+Parker_Pt,No-take,Little Salmon_Bay,JH.3,F,6,137
+Parker_Pt,No-take,Little Salmon_Bay,JH.4,F,5,138
+Parker_Pt,No-take,Little Salmon_Bay,JH.5,F,3,139
+Armstrong,Fished,Geordie_Bay,AT.1,M,0,140
+Armstrong,Fished,Geordie_Bay,AT.2,M,0,141
+Armstrong,Fished,Geordie_Bay,AT.3,M,0,142
+Armstrong,Fished,Geordie_Bay,AT.4,M,1,143
+Armstrong,Fished,Geordie_Bay,AT.5,M,0,144
+Armstrong,Fished,Geordie_Bay,EPJ.1,M,0,145
+Armstrong,Fished,Geordie_Bay,EPJ.2,M,0,146
+Armstrong,Fished,Geordie_Bay,EPJ.3,M,0,147
+Armstrong,Fished,Geordie_Bay,EPJ.4,M,0,148
+Armstrong,Fished,Geordie_Bay,EPJ.5,M,0,149
+Armstrong,Fished,Geordie_Bay,ST.1,M,0,150
+Armstrong,Fished,Geordie_Bay,ST.2,M,0,151
+Armstrong,Fished,Geordie_Bay,ST.3,M,0,152
+Armstrong,Fished,Geordie_Bay,ST.4,M,0,153
+Armstrong,Fished,Longreach_Bay,AAE.1,M,0,154
+Armstrong,Fished,Longreach_Bay,AAE.2,M,0,155
+Armstrong,Fished,Longreach_Bay,AAE.3,M,0,156
+Armstrong,Fished,Longreach_Bay,AAE.4,M,0,157
+Armstrong,Fished,Longreach_Bay,AAE.5,M,0,158
+Armstrong,Fished,Longreach_Bay,HA.1,M,0,159
+Armstrong,Fished,Longreach_Bay,HA.2,M,0,160
+Armstrong,Fished,Longreach_Bay,HA.3,M,1,161
+Armstrong,Fished,Longreach_Bay,HA.4,M,0,162
+Armstrong,Fished,Longreach_Bay,HA.5,M,0,163
+Armstrong,Fished,Longreach_Bay,JH.1,M,0,164
+Armstrong,Fished,Longreach_Bay,JH.2,M,0,165
+Armstrong,Fished,Longreach_Bay,JH.3,M,0,166
+Armstrong,Fished,Longreach_Bay,JH.4,M,0,167
+Armstrong,Fished,Longreach_Bay,JH.5,M,0,168
+Armstrong,Fished,Parakeet_Bay,AAE.1,M,0,169
+Armstrong,Fished,Parakeet_Bay,AAE.2,M,0,170
+Armstrong,Fished,Parakeet_Bay,AAE.3,M,0,171
+Armstrong,Fished,Parakeet_Bay,AAE.4,M,0,172
+Armstrong,Fished,Parakeet_Bay,AAE.5,M,0,173
+Armstrong,Fished,Parakeet_Bay,HA.1,M,0,174
+Armstrong,Fished,Parakeet_Bay,HA.2,M,0,175
+Armstrong,Fished,Parakeet_Bay,HA.3,M,0,176
+Armstrong,Fished,Parakeet_Bay,HA.4,M,0,177
+Armstrong,Fished,Parakeet_Bay,HA.5,M,0,178
+Armstrong,Fished,Parakeet_Bay,JH.1,M,0,179
+Armstrong,Fished,Parakeet_Bay,JH.2,M,0,180
+Armstrong,Fished,Parakeet_Bay,JH.3,M,0,181
+Armstrong,Fished,Parakeet_Bay,JH.4,M,0,182
+Armstrong,Fished,Parakeet_Bay,JH.5,M,0,183
+Armstrong,Fished,Ricey_Beach,AT.1,M,0,184
+Armstrong,Fished,Ricey_Beach,AT.2,M,0,185
+Armstrong,Fished,Ricey_Beach,AT.3,M,1,186
+Armstrong,Fished,Ricey_Beach,AT.4,M,0,187
+Armstrong,Fished,Ricey_Beach,AT.5,M,0,188
+Armstrong,Fished,Ricey_Beach,EPJ.1,M,1,189
+Armstrong,Fished,Ricey_Beach,EPJ.2,M,0,190
+Armstrong,Fished,Ricey_Beach,EPJ.3,M,0,191
+Armstrong,Fished,Ricey_Beach,EPJ.4,M,0,192
+Armstrong,Fished,Ricey_Beach,EPJ.5,M,0,193
+Armstrong,Fished,Ricey_Beach,ST.1,M,0,194
+Armstrong,Fished,Ricey_Beach,ST.2,M,0,195
+Armstrong,Fished,Ricey_Beach,ST.3,M,2,196
+Armstrong,Fished,Ricey_Beach,ST.4,M,2,197
+Armstrong,Fished,Ricey_Beach,ST.5,M,1,198
+Armstrong,No-take,Little_Armstrong_Bay,AAE.1,M,0,199
+Armstrong,No-take,Little_Armstrong_Bay,AAE.10,M,0,200
+Armstrong,No-take,Little_Armstrong_Bay,AAE.2,M,1,201
+Armstrong,No-take,Little_Armstrong_Bay,AAE.3,M,1,202
+Armstrong,No-take,Little_Armstrong_Bay,AAE.4,M,0,203
+Armstrong,No-take,Little_Armstrong_Bay,AAE.5,M,0,204
+Armstrong,No-take,Little_Armstrong_Bay,AAE.6,M,0,205
+Armstrong,No-take,Little_Armstrong_Bay,AAE.7,M,0,206
+Armstrong,No-take,Little_Armstrong_Bay,AAE.8,M,0,207
+Armstrong,No-take,Little_Armstrong_Bay,AAE.9,M,1,208
+Armstrong,No-take,Little_Armstrong_Bay,THJ.1,M,0,209
+Armstrong,No-take,Little_Armstrong_Bay,THJ.10,M,0,210
+Armstrong,No-take,Little_Armstrong_Bay,THJ.2,M,1,211
+Armstrong,No-take,Little_Armstrong_Bay,THJ.3,M,1,212
+Armstrong,No-take,Little_Armstrong_Bay,THJ.4,M,0,213
+Armstrong,No-take,Little_Armstrong_Bay,THJ.5,M,1,214
+Armstrong,No-take,Little_Armstrong_Bay,THJ.6,M,1,215
+Armstrong,No-take,Little_Armstrong_Bay,THJ.7,M,0,216
+Armstrong,No-take,Little_Armstrong_Bay,THJ.8,M,0,217
+Armstrong,No-take,Little_Armstrong_Bay,THJ.9,M,0,218
+Green_Island,Fished,East_Strickland,AT.1,M,0,219
+Green_Island,Fished,East_Strickland,AT.2,M,0,220
+Green_Island,Fished,East_Strickland,AT.3,M,1,221
+Green_Island,Fished,East_Strickland,AT.4,M,0,222
+Green_Island,Fished,East_Strickland,AT.5,M,0,223
+Green_Island,Fished,East_Strickland,EPJ.1,M,0,224
+Green_Island,Fished,East_Strickland,EPJ.2,M,0,225
+Green_Island,Fished,East_Strickland,EPJ.3,M,0,226
+Green_Island,Fished,East_Strickland,EPJ.4,M,0,227
+Green_Island,Fished,East_Strickland,EPJ.5,M,1,228
+Green_Island,Fished,East_Strickland,ST.1,M,0,229
+Green_Island,Fished,East_Strickland,ST.2,M,1,230
+Green_Island,Fished,East_Strickland,ST.3,M,0,231
+Green_Island,Fished,East_Strickland,ST.4,M,0,232
+Green_Island,Fished,East_Strickland,ST.5,M,0,233
+Green_Island,No-take,Green_Island,AT.1,M,0,234
+Green_Island,No-take,Green_Island,AT.2,M,1,235
+Green_Island,No-take,Green_Island,AT.3,M,2,236
+Green_Island,No-take,Green_Island,AT.4,M,1,237
+Green_Island,No-take,Green_Island,AT.5,M,1,238
+Green_Island,No-take,Green_Island,EPJ.1,M,0,239
+Green_Island,No-take,Green_Island,EPJ.2,M,0,240
+Green_Island,No-take,Green_Island,EPJ.3,M,0,241
+Green_Island,No-take,Green_Island,EPJ.4,M,0,242
+Green_Island,No-take,Green_Island,EPJ.5,M,0,243
+Green_Island,No-take,Green_Island,ST.1,M,1,244
+Green_Island,No-take,Green_Island,ST.2,M,0,245
+Green_Island,No-take,Green_Island,ST.3,M,0,246
+Green_Island,No-take,Green_Island,ST.4,M,0,247
+Green_Island,No-take,Green_Island,ST.5,M,1,248
+Parker_Pt,No-take,East_Salmon,EP.1,M,0,249
+Parker_Pt,No-take,East_Salmon,EP.2,M,0,250
+Parker_Pt,No-take,East_Salmon,EP.3,M,0,251
+Parker_Pt,No-take,East_Salmon,EP.4,M,0,252
+Parker_Pt,No-take,East_Salmon,EP.5,M,0,253
+Parker_Pt,No-take,East_Salmon,JAT.1,M,0,254
+Parker_Pt,No-take,East_Salmon,JAT.2,M,0,255
+Parker_Pt,No-take,East_Salmon,JAT.3,M,0,256
+Parker_Pt,No-take,East_Salmon,JAT.4,M,1,257
+Parker_Pt,No-take,East_Salmon,JAT.5,M,1,258
+Parker_Pt,No-take,East_Salmon,ST.1,M,0,259
+Parker_Pt,No-take,East_Salmon,ST.2,M,0,260
+Parker_Pt,No-take,East_Salmon,ST.3,M,1,261
+Parker_Pt,No-take,East_Salmon,ST.4,M,0,262
+Parker_Pt,No-take,East_Salmon,ST.5,M,5,263
+Parker_Pt,No-take,Little Salmon_Bay,AH.1,M,0,264
+Parker_Pt,No-take,Little Salmon_Bay,AH.2,M,0,265
+Parker_Pt,No-take,Little Salmon_Bay,AH.3,M,2,266
+Parker_Pt,No-take,Little Salmon_Bay,AH.4,M,1,267
+Parker_Pt,No-take,Little Salmon_Bay,AH.5,M,1,268
+Parker_Pt,No-take,Little Salmon_Bay,EAA.1,M,0,269
+Parker_Pt,No-take,Little Salmon_Bay,EAA.2,M,1,270
+Parker_Pt,No-take,Little Salmon_Bay,EAA.3,M,2,271
+Parker_Pt,No-take,Little Salmon_Bay,EAA.4,M,0,272
+Parker_Pt,No-take,Little Salmon_Bay,EAA.5,M,0,273
+Parker_Pt,No-take,Little Salmon_Bay,JH.1,M,1,274
+Parker_Pt,No-take,Little Salmon_Bay,JH.2,M,0,275
+Parker_Pt,No-take,Little Salmon_Bay,JH.3,M,0,276
+Parker_Pt,No-take,Little Salmon_Bay,JH.4,M,0,277
+Parker_Pt,No-take,Little Salmon_Bay,JH.5,M,0,278
+Armstrong,Fished,Geordie_Bay,AT.1,J,0,279
+Armstrong,Fished,Geordie_Bay,AT.2,J,0,280
+Armstrong,Fished,Geordie_Bay,AT.3,J,0,281
+Armstrong,Fished,Geordie_Bay,AT.4,J,0,282
+Armstrong,Fished,Geordie_Bay,AT.5,J,0,283
+Armstrong,Fished,Geordie_Bay,EPJ.1,J,0,284
+Armstrong,Fished,Geordie_Bay,EPJ.2,J,0,285
+Armstrong,Fished,Geordie_Bay,EPJ.3,J,0,286
+Armstrong,Fished,Geordie_Bay,EPJ.4,J,0,287
+Armstrong,Fished,Geordie_Bay,EPJ.5,J,0,288
+Armstrong,Fished,Geordie_Bay,ST.1,J,0,289
+Armstrong,Fished,Geordie_Bay,ST.2,J,0,290
+Armstrong,Fished,Geordie_Bay,ST.3,J,0,291
+Armstrong,Fished,Geordie_Bay,ST.4,J,0,292
+Armstrong,Fished,Longreach_Bay,AAE.1,J,0,293
+Armstrong,Fished,Longreach_Bay,AAE.2,J,0,294
+Armstrong,Fished,Longreach_Bay,AAE.3,J,0,295
+Armstrong,Fished,Longreach_Bay,AAE.4,J,0,296
+Armstrong,Fished,Longreach_Bay,AAE.5,J,0,297
+Armstrong,Fished,Longreach_Bay,HA.1,J,0,298
+Armstrong,Fished,Longreach_Bay,HA.2,J,0,299
+Armstrong,Fished,Longreach_Bay,HA.3,J,0,300
+Armstrong,Fished,Longreach_Bay,HA.4,J,0,301
+Armstrong,Fished,Longreach_Bay,HA.5,J,0,302
+Armstrong,Fished,Longreach_Bay,JH.1,J,0,303
+Armstrong,Fished,Longreach_Bay,JH.2,J,0,304
+Armstrong,Fished,Longreach_Bay,JH.3,J,0,305
+Armstrong,Fished,Longreach_Bay,JH.4,J,0,306
+Armstrong,Fished,Longreach_Bay,JH.5,J,0,307
+Armstrong,Fished,Parakeet_Bay,AAE.1,J,0,308
+Armstrong,Fished,Parakeet_Bay,AAE.2,J,0,309
+Armstrong,Fished,Parakeet_Bay,AAE.3,J,0,310
+Armstrong,Fished,Parakeet_Bay,AAE.4,J,0,311
+Armstrong,Fished,Parakeet_Bay,AAE.5,J,0,312
+Armstrong,Fished,Parakeet_Bay,HA.1,J,0,313
+Armstrong,Fished,Parakeet_Bay,HA.2,J,0,314
+Armstrong,Fished,Parakeet_Bay,HA.3,J,0,315
+Armstrong,Fished,Parakeet_Bay,HA.4,J,0,316
+Armstrong,Fished,Parakeet_Bay,HA.5,J,0,317
+Armstrong,Fished,Parakeet_Bay,JH.1,J,0,318
+Armstrong,Fished,Parakeet_Bay,JH.2,J,0,319
+Armstrong,Fished,Parakeet_Bay,JH.3,J,0,320
+Armstrong,Fished,Parakeet_Bay,JH.4,J,0,321
+Armstrong,Fished,Parakeet_Bay,JH.5,J,0,322
+Armstrong,Fished,Ricey_Beach,AT.1,J,1,323
+Armstrong,Fished,Ricey_Beach,AT.2,J,0,324
+Armstrong,Fished,Ricey_Beach,AT.3,J,0,325
+Armstrong,Fished,Ricey_Beach,AT.4,J,0,326
+Armstrong,Fished,Ricey_Beach,AT.5,J,0,327
+Armstrong,Fished,Ricey_Beach,EPJ.1,J,0,328
+Armstrong,Fished,Ricey_Beach,EPJ.2,J,0,329
+Armstrong,Fished,Ricey_Beach,EPJ.3,J,0,330
+Armstrong,Fished,Ricey_Beach,EPJ.4,J,1,331
+Armstrong,Fished,Ricey_Beach,EPJ.5,J,0,332
+Armstrong,Fished,Ricey_Beach,ST.1,J,0,333
+Armstrong,Fished,Ricey_Beach,ST.2,J,0,334
+Armstrong,Fished,Ricey_Beach,ST.3,J,6,335
+Armstrong,Fished,Ricey_Beach,ST.4,J,0,336
+Armstrong,Fished,Ricey_Beach,ST.5,J,0,337
+Armstrong,No-take,Little_Armstrong_Bay,AAE.1,J,1,338
+Armstrong,No-take,Little_Armstrong_Bay,AAE.10,J,0,339
+Armstrong,No-take,Little_Armstrong_Bay,AAE.2,J,0,340
+Armstrong,No-take,Little_Armstrong_Bay,AAE.3,J,0,341
+Armstrong,No-take,Little_Armstrong_Bay,AAE.4,J,0,342
+Armstrong,No-take,Little_Armstrong_Bay,AAE.5,J,0,343
+Armstrong,No-take,Little_Armstrong_Bay,AAE.6,J,0,344
+Armstrong,No-take,Little_Armstrong_Bay,AAE.7,J,0,345
+Armstrong,No-take,Little_Armstrong_Bay,AAE.8,J,0,346
+Armstrong,No-take,Little_Armstrong_Bay,AAE.9,J,0,347
+Armstrong,No-take,Little_Armstrong_Bay,THJ.1,J,0,348
+Armstrong,No-take,Little_Armstrong_Bay,THJ.10,J,0,349
+Armstrong,No-take,Little_Armstrong_Bay,THJ.2,J,0,350
+Armstrong,No-take,Little_Armstrong_Bay,THJ.3,J,0,351
+Armstrong,No-take,Little_Armstrong_Bay,THJ.4,J,0,352
+Armstrong,No-take,Little_Armstrong_Bay,THJ.5,J,0,353
+Armstrong,No-take,Little_Armstrong_Bay,THJ.6,J,0,354
+Armstrong,No-take,Little_Armstrong_Bay,THJ.7,J,1,355
+Armstrong,No-take,Little_Armstrong_Bay,THJ.8,J,1,356
+Armstrong,No-take,Little_Armstrong_Bay,THJ.9,J,0,357
+Green_Island,Fished,East_Strickland,AT.1,J,0,358
+Green_Island,Fished,East_Strickland,AT.2,J,0,359
+Green_Island,Fished,East_Strickland,AT.3,J,0,360
+Green_Island,Fished,East_Strickland,AT.4,J,0,361
+Green_Island,Fished,East_Strickland,AT.5,J,0,362
+Green_Island,Fished,East_Strickland,EPJ.1,J,0,363
+Green_Island,Fished,East_Strickland,EPJ.2,J,0,364
+Green_Island,Fished,East_Strickland,EPJ.3,J,0,365
+Green_Island,Fished,East_Strickland,EPJ.4,J,0,366
+Green_Island,Fished,East_Strickland,EPJ.5,J,0,367
+Green_Island,Fished,East_Strickland,ST.1,J,0,368
+Green_Island,Fished,East_Strickland,ST.2,J,0,369
+Green_Island,Fished,East_Strickland,ST.3,J,0,370
+Green_Island,Fished,East_Strickland,ST.4,J,0,371
+Green_Island,Fished,East_Strickland,ST.5,J,0,372
+Green_Island,No-take,Green_Island,AT.1,J,0,373
+Green_Island,No-take,Green_Island,AT.2,J,0,374
+Green_Island,No-take,Green_Island,AT.3,J,0,375
+Green_Island,No-take,Green_Island,AT.4,J,0,376
+Green_Island,No-take,Green_Island,AT.5,J,0,377
+Green_Island,No-take,Green_Island,EPJ.1,J,0,378
+Green_Island,No-take,Green_Island,EPJ.2,J,0,379
+Green_Island,No-take,Green_Island,EPJ.3,J,0,380
+Green_Island,No-take,Green_Island,EPJ.4,J,1,381
+Green_Island,No-take,Green_Island,EPJ.5,J,1,382
+Green_Island,No-take,Green_Island,ST.1,J,0,383
+Green_Island,No-take,Green_Island,ST.2,J,0,384
+Green_Island,No-take,Green_Island,ST.3,J,0,385
+Green_Island,No-take,Green_Island,ST.4,J,0,386
+Green_Island,No-take,Green_Island,ST.5,J,0,387
+Parker_Pt,No-take,East_Salmon,EP.1,J,0,388
+Parker_Pt,No-take,East_Salmon,EP.2,J,0,389
+Parker_Pt,No-take,East_Salmon,EP.3,J,0,390
+Parker_Pt,No-take,East_Salmon,EP.4,J,0,391
+Parker_Pt,No-take,East_Salmon,EP.5,J,0,392
+Parker_Pt,No-take,East_Salmon,JAT.1,J,0,393
+Parker_Pt,No-take,East_Salmon,JAT.2,J,0,394
+Parker_Pt,No-take,East_Salmon,JAT.3,J,1,395
+Parker_Pt,No-take,East_Salmon,JAT.4,J,0,396
+Parker_Pt,No-take,East_Salmon,JAT.5,J,0,397
+Parker_Pt,No-take,East_Salmon,ST.1,J,0,398
+Parker_Pt,No-take,East_Salmon,ST.2,J,0,399
+Parker_Pt,No-take,East_Salmon,ST.3,J,0,400
+Parker_Pt,No-take,East_Salmon,ST.4,J,0,401
+Parker_Pt,No-take,East_Salmon,ST.5,J,0,402
+Parker_Pt,No-take,Little Salmon_Bay,AH.1,J,0,403
+Parker_Pt,No-take,Little Salmon_Bay,AH.2,J,0,404
+Parker_Pt,No-take,Little Salmon_Bay,AH.3,J,0,405
+Parker_Pt,No-take,Little Salmon_Bay,AH.4,J,1,406
+Parker_Pt,No-take,Little Salmon_Bay,AH.5,J,0,407
+Parker_Pt,No-take,Little Salmon_Bay,EAA.1,J,0,408
+Parker_Pt,No-take,Little Salmon_Bay,EAA.2,J,0,409
+Parker_Pt,No-take,Little Salmon_Bay,EAA.3,J,0,410
+Parker_Pt,No-take,Little Salmon_Bay,EAA.4,J,0,411
+Parker_Pt,No-take,Little Salmon_Bay,EAA.5,J,0,412
+Parker_Pt,No-take,Little Salmon_Bay,JH.1,J,0,413
+Parker_Pt,No-take,Little Salmon_Bay,JH.2,J,0,414
+Parker_Pt,No-take,Little Salmon_Bay,JH.3,J,0,415
+Parker_Pt,No-take,Little Salmon_Bay,JH.4,J,1,416
+Parker_Pt,No-take,Little Salmon_Bay,JH.5,J,0,417
+Armstrong,Fished,Geordie_Bay,AT.1,MtoF,NaN,418
+Armstrong,Fished,Geordie_Bay,AT.2,MtoF,0,419
+Armstrong,Fished,Geordie_Bay,AT.3,MtoF,0,420
+Armstrong,Fished,Geordie_Bay,AT.4,MtoF,1,421
+Armstrong,Fished,Geordie_Bay,AT.5,MtoF,0,422
+Armstrong,Fished,Geordie_Bay,EPJ.1,MtoF,NaN,423
+Armstrong,Fished,Geordie_Bay,EPJ.2,MtoF,NaN,424
+Armstrong,Fished,Geordie_Bay,EPJ.3,MtoF,0,425
+Armstrong,Fished,Geordie_Bay,EPJ.4,MtoF,NaN,426
+Armstrong,Fished,Geordie_Bay,EPJ.5,MtoF,NaN,427
+Armstrong,Fished,Geordie_Bay,ST.1,MtoF,0,428
+Armstrong,Fished,Geordie_Bay,ST.2,MtoF,NaN,429
+Armstrong,Fished,Geordie_Bay,ST.3,MtoF,NaN,430
+Armstrong,Fished,Geordie_Bay,ST.4,MtoF,NaN,431
+Armstrong,Fished,Longreach_Bay,AAE.1,MtoF,0,432
+Armstrong,Fished,Longreach_Bay,AAE.2,MtoF,NaN,433
+Armstrong,Fished,Longreach_Bay,AAE.3,MtoF,0,434
+Armstrong,Fished,Longreach_Bay,AAE.4,MtoF,0,435
+Armstrong,Fished,Longreach_Bay,AAE.5,MtoF,NaN,436
+Armstrong,Fished,Longreach_Bay,HA.1,MtoF,0,437
+Armstrong,Fished,Longreach_Bay,HA.2,MtoF,NaN,438
+Armstrong,Fished,Longreach_Bay,HA.3,MtoF,0.3333333333333333,439
+Armstrong,Fished,Longreach_Bay,HA.4,MtoF,NaN,440
+Armstrong,Fished,Longreach_Bay,HA.5,MtoF,0,441
+Armstrong,Fished,Longreach_Bay,JH.1,MtoF,0,442
+Armstrong,Fished,Longreach_Bay,JH.2,MtoF,0,443
+Armstrong,Fished,Longreach_Bay,JH.3,MtoF,0,444
+Armstrong,Fished,Longreach_Bay,JH.4,MtoF,NaN,445
+Armstrong,Fished,Longreach_Bay,JH.5,MtoF,NaN,446
+Armstrong,Fished,Parakeet_Bay,AAE.1,MtoF,NaN,447
+Armstrong,Fished,Parakeet_Bay,AAE.2,MtoF,0,448
+Armstrong,Fished,Parakeet_Bay,AAE.3,MtoF,NaN,449
+Armstrong,Fished,Parakeet_Bay,AAE.4,MtoF,0,450
+Armstrong,Fished,Parakeet_Bay,AAE.5,MtoF,0,451
+Armstrong,Fished,Parakeet_Bay,HA.1,MtoF,0,452
+Armstrong,Fished,Parakeet_Bay,HA.2,MtoF,0,453
+Armstrong,Fished,Parakeet_Bay,HA.3,MtoF,0,454
+Armstrong,Fished,Parakeet_Bay,HA.4,MtoF,0,455
+Armstrong,Fished,Parakeet_Bay,HA.5,MtoF,NaN,456
+Armstrong,Fished,Parakeet_Bay,JH.1,MtoF,0,457
+Armstrong,Fished,Parakeet_Bay,JH.2,MtoF,0,458
+Armstrong,Fished,Parakeet_Bay,JH.3,MtoF,0,459
+Armstrong,Fished,Parakeet_Bay,JH.4,MtoF,0,460
+Armstrong,Fished,Parakeet_Bay,JH.5,MtoF,0,461
+Armstrong,Fished,Ricey_Beach,AT.1,MtoF,0,462
+Armstrong,Fished,Ricey_Beach,AT.2,MtoF,0,463
+Armstrong,Fished,Ricey_Beach,AT.3,MtoF,0.125,464
+Armstrong,Fished,Ricey_Beach,AT.4,MtoF,NaN,465
+Armstrong,Fished,Ricey_Beach,AT.5,MtoF,0,466
+Armstrong,Fished,Ricey_Beach,EPJ.1,MtoF,0.058823529411764705,467
+Armstrong,Fished,Ricey_Beach,EPJ.2,MtoF,0,468
+Armstrong,Fished,Ricey_Beach,EPJ.3,MtoF,0,469
+Armstrong,Fished,Ricey_Beach,EPJ.4,MtoF,0,470
+Armstrong,Fished,Ricey_Beach,EPJ.5,MtoF,0,471
+Armstrong,Fished,Ricey_Beach,ST.1,MtoF,0,472
+Armstrong,Fished,Ricey_Beach,ST.2,MtoF,0,473
+Armstrong,Fished,Ricey_Beach,ST.3,MtoF,0.2857142857142857,474
+Armstrong,Fished,Ricey_Beach,ST.4,MtoF,0.3333333333333333,475
+Armstrong,Fished,Ricey_Beach,ST.5,MtoF,Inf,476
+Armstrong,No-take,Little_Armstrong_Bay,AAE.1,MtoF,0,477
+Armstrong,No-take,Little_Armstrong_Bay,AAE.10,MtoF,NaN,478
+Armstrong,No-take,Little_Armstrong_Bay,AAE.2,MtoF,0.1111111111111111,479
+Armstrong,No-take,Little_Armstrong_Bay,AAE.3,MtoF,0.125,480
+Armstrong,No-take,Little_Armstrong_Bay,AAE.4,MtoF,0,481
+Armstrong,No-take,Little_Armstrong_Bay,AAE.5,MtoF,0,482
+Armstrong,No-take,Little_Armstrong_Bay,AAE.6,MtoF,0,483
+Armstrong,No-take,Little_Armstrong_Bay,AAE.7,MtoF,0,484
+Armstrong,No-take,Little_Armstrong_Bay,AAE.8,MtoF,0,485
+Armstrong,No-take,Little_Armstrong_Bay,AAE.9,MtoF,0.125,486
+Armstrong,No-take,Little_Armstrong_Bay,THJ.1,MtoF,NaN,487
+Armstrong,No-take,Little_Armstrong_Bay,THJ.10,MtoF,0,488
+Armstrong,No-take,Little_Armstrong_Bay,THJ.2,MtoF,Inf,489
+Armstrong,No-take,Little_Armstrong_Bay,THJ.3,MtoF,Inf,490
+Armstrong,No-take,Little_Armstrong_Bay,THJ.4,MtoF,0,491
+Armstrong,No-take,Little_Armstrong_Bay,THJ.5,MtoF,0.2,492
+Armstrong,No-take,Little_Armstrong_Bay,THJ.6,MtoF,0.16666666666666666,493
+Armstrong,No-take,Little_Armstrong_Bay,THJ.7,MtoF,0,494
+Armstrong,No-take,Little_Armstrong_Bay,THJ.8,MtoF,0,495
+Armstrong,No-take,Little_Armstrong_Bay,THJ.9,MtoF,0,496
+Green_Island,Fished,East_Strickland,AT.1,MtoF,0,497
+Green_Island,Fished,East_Strickland,AT.2,MtoF,0,498
+Green_Island,Fished,East_Strickland,AT.3,MtoF,1,499
+Green_Island,Fished,East_Strickland,AT.4,MtoF,0,500
+Green_Island,Fished,East_Strickland,AT.5,MtoF,0,501
+Green_Island,Fished,East_Strickland,EPJ.1,MtoF,0,502
+Green_Island,Fished,East_Strickland,EPJ.2,MtoF,0,503
+Green_Island,Fished,East_Strickland,EPJ.3,MtoF,0,504
+Green_Island,Fished,East_Strickland,EPJ.4,MtoF,0,505
+Green_Island,Fished,East_Strickland,EPJ.5,MtoF,0.5,506
+Green_Island,Fished,East_Strickland,ST.1,MtoF,0,507
+Green_Island,Fished,East_Strickland,ST.2,MtoF,1,508
+Green_Island,Fished,East_Strickland,ST.3,MtoF,0,509
+Green_Island,Fished,East_Strickland,ST.4,MtoF,0,510
+Green_Island,Fished,East_Strickland,ST.5,MtoF,0,511
+Green_Island,No-take,Green_Island,AT.1,MtoF,0,512
+Green_Island,No-take,Green_Island,AT.2,MtoF,0.5,513
+Green_Island,No-take,Green_Island,AT.3,MtoF,0.14285714285714285,514
+Green_Island,No-take,Green_Island,AT.4,MtoF,1,515
+Green_Island,No-take,Green_Island,AT.5,MtoF,0.2,516
+Green_Island,No-take,Green_Island,EPJ.1,MtoF,0,517
+Green_Island,No-take,Green_Island,EPJ.2,MtoF,0,518
+Green_Island,No-take,Green_Island,EPJ.3,MtoF,0,519
+Green_Island,No-take,Green_Island,EPJ.4,MtoF,0,520
+Green_Island,No-take,Green_Island,EPJ.5,MtoF,0,521
+Green_Island,No-take,Green_Island,ST.1,MtoF,0.3333333333333333,522
+Green_Island,No-take,Green_Island,ST.2,MtoF,NaN,523
+Green_Island,No-take,Green_Island,ST.3,MtoF,0,524
+Green_Island,No-take,Green_Island,ST.4,MtoF,0,525
+Green_Island,No-take,Green_Island,ST.5,MtoF,0.25,526
+Parker_Pt,No-take,East_Salmon,EP.1,MtoF,0,527
+Parker_Pt,No-take,East_Salmon,EP.2,MtoF,0,528
+Parker_Pt,No-take,East_Salmon,EP.3,MtoF,0,529
+Parker_Pt,No-take,East_Salmon,EP.4,MtoF,0,530
+Parker_Pt,No-take,East_Salmon,EP.5,MtoF,0,531
+Parker_Pt,No-take,East_Salmon,JAT.1,MtoF,0,532
+Parker_Pt,No-take,East_Salmon,JAT.2,MtoF,0,533
+Parker_Pt,No-take,East_Salmon,JAT.3,MtoF,0,534
+Parker_Pt,No-take,East_Salmon,JAT.4,MtoF,0.05263157894736842,535
+Parker_Pt,No-take,East_Salmon,JAT.5,MtoF,0.07142857142857142,536
+Parker_Pt,No-take,East_Salmon,ST.1,MtoF,0,537
+Parker_Pt,No-take,East_Salmon,ST.2,MtoF,0,538
+Parker_Pt,No-take,East_Salmon,ST.3,MtoF,0.125,539
+Parker_Pt,No-take,East_Salmon,ST.4,MtoF,0,540
+Parker_Pt,No-take,East_Salmon,ST.5,MtoF,0.4166666666666667,541
+Parker_Pt,No-take,Little Salmon_Bay,AH.1,MtoF,0,542
+Parker_Pt,No-take,Little Salmon_Bay,AH.2,MtoF,0,543
+Parker_Pt,No-take,Little Salmon_Bay,AH.3,MtoF,0.4,544
+Parker_Pt,No-take,Little Salmon_Bay,AH.4,MtoF,0.058823529411764705,545
+Parker_Pt,No-take,Little Salmon_Bay,AH.5,MtoF,0.2,546
+Parker_Pt,No-take,Little Salmon_Bay,EAA.1,MtoF,0,547
+Parker_Pt,No-take,Little Salmon_Bay,EAA.2,MtoF,0.2,548
+Parker_Pt,No-take,Little Salmon_Bay,EAA.3,MtoF,0.3333333333333333,549
+Parker_Pt,No-take,Little Salmon_Bay,EAA.4,MtoF,0,550
+Parker_Pt,No-take,Little Salmon_Bay,EAA.5,MtoF,0,551
+Parker_Pt,No-take,Little Salmon_Bay,JH.1,MtoF,0.14285714285714285,552
+Parker_Pt,No-take,Little Salmon_Bay,JH.2,MtoF,0,553
+Parker_Pt,No-take,Little Salmon_Bay,JH.3,MtoF,0,554
+Parker_Pt,No-take,Little Salmon_Bay,JH.4,MtoF,0,555
+Parker_Pt,No-take,Little Salmon_Bay,JH.5,MtoF,0,556
+Armstrong,Fished,Geordie_Bay,AT.1,school.count,0,557
+Armstrong,Fished,Geordie_Bay,AT.2,school.count,2,558
+Armstrong,Fished,Geordie_Bay,AT.3,school.count,2,559
+Armstrong,Fished,Geordie_Bay,AT.4,school.count,1,560
+Armstrong,Fished,Geordie_Bay,AT.5,school.count,3,561
+Armstrong,Fished,Geordie_Bay,EPJ.1,school.count,0,562
+Armstrong,Fished,Geordie_Bay,EPJ.2,school.count,0,563
+Armstrong,Fished,Geordie_Bay,EPJ.3,school.count,3,564
+Armstrong,Fished,Geordie_Bay,EPJ.4,school.count,0,565
+Armstrong,Fished,Geordie_Bay,EPJ.5,school.count,0,566
+Armstrong,Fished,Geordie_Bay,ST.1,school.count,4,567
+Armstrong,Fished,Geordie_Bay,ST.2,school.count,0,568
+Armstrong,Fished,Geordie_Bay,ST.3,school.count,0,569
+Armstrong,Fished,Geordie_Bay,ST.4,school.count,0,570
+Armstrong,Fished,Longreach_Bay,AAE.1,school.count,3,571
+Armstrong,Fished,Longreach_Bay,AAE.2,school.count,0,572
+Armstrong,Fished,Longreach_Bay,AAE.3,school.count,1,573
+Armstrong,Fished,Longreach_Bay,AAE.4,school.count,6,574
+Armstrong,Fished,Longreach_Bay,AAE.5,school.count,0,575
+Armstrong,Fished,Longreach_Bay,HA.1,school.count,1,576
+Armstrong,Fished,Longreach_Bay,HA.2,school.count,0,577
+Armstrong,Fished,Longreach_Bay,HA.3,school.count,1,578
+Armstrong,Fished,Longreach_Bay,HA.4,school.count,0,579
+Armstrong,Fished,Longreach_Bay,HA.5,school.count,1,580
+Armstrong,Fished,Longreach_Bay,JH.1,school.count,1,581
+Armstrong,Fished,Longreach_Bay,JH.2,school.count,1,582
+Armstrong,Fished,Longreach_Bay,JH.3,school.count,1,583
+Armstrong,Fished,Longreach_Bay,JH.4,school.count,0,584
+Armstrong,Fished,Longreach_Bay,JH.5,school.count,0,585
+Armstrong,Fished,Parakeet_Bay,AAE.1,school.count,0,586
+Armstrong,Fished,Parakeet_Bay,AAE.2,school.count,3,587
+Armstrong,Fished,Parakeet_Bay,AAE.3,school.count,0,588
+Armstrong,Fished,Parakeet_Bay,AAE.4,school.count,1,589
+Armstrong,Fished,Parakeet_Bay,AAE.5,school.count,2,590
+Armstrong,Fished,Parakeet_Bay,HA.1,school.count,3,591
+Armstrong,Fished,Parakeet_Bay,HA.2,school.count,1,592
+Armstrong,Fished,Parakeet_Bay,HA.3,school.count,2,593
+Armstrong,Fished,Parakeet_Bay,HA.4,school.count,1,594
+Armstrong,Fished,Parakeet_Bay,HA.5,school.count,0,595
+Armstrong,Fished,Parakeet_Bay,JH.1,school.count,1,596
+Armstrong,Fished,Parakeet_Bay,JH.2,school.count,1,597
+Armstrong,Fished,Parakeet_Bay,JH.3,school.count,1,598
+Armstrong,Fished,Parakeet_Bay,JH.4,school.count,1,599
+Armstrong,Fished,Parakeet_Bay,JH.5,school.count,4,600
+Armstrong,Fished,Ricey_Beach,AT.1,school.count,3,601
+Armstrong,Fished,Ricey_Beach,AT.2,school.count,2,602
+Armstrong,Fished,Ricey_Beach,AT.3,school.count,6,603
+Armstrong,Fished,Ricey_Beach,AT.4,school.count,0,604
+Armstrong,Fished,Ricey_Beach,AT.5,school.count,2,605
+Armstrong,Fished,Ricey_Beach,EPJ.1,school.count,3,606
+Armstrong,Fished,Ricey_Beach,EPJ.2,school.count,4,607
+Armstrong,Fished,Ricey_Beach,EPJ.3,school.count,2,608
+Armstrong,Fished,Ricey_Beach,EPJ.4,school.count,3,609
+Armstrong,Fished,Ricey_Beach,EPJ.5,school.count,2,610
+Armstrong,Fished,Ricey_Beach,ST.1,school.count,5,611
+Armstrong,Fished,Ricey_Beach,ST.2,school.count,3,612
+Armstrong,Fished,Ricey_Beach,ST.3,school.count,3,613
+Armstrong,Fished,Ricey_Beach,ST.4,school.count,4,614
+Armstrong,Fished,Ricey_Beach,ST.5,school.count,1,615
+Armstrong,No-take,Little_Armstrong_Bay,AAE.1,school.count,2,616
+Armstrong,No-take,Little_Armstrong_Bay,AAE.10,school.count,0,617
+Armstrong,No-take,Little_Armstrong_Bay,AAE.2,school.count,2,618
+Armstrong,No-take,Little_Armstrong_Bay,AAE.3,school.count,2,619
+Armstrong,No-take,Little_Armstrong_Bay,AAE.4,school.count,1,620
+Armstrong,No-take,Little_Armstrong_Bay,AAE.5,school.count,1,621
+Armstrong,No-take,Little_Armstrong_Bay,AAE.6,school.count,1,622
+Armstrong,No-take,Little_Armstrong_Bay,AAE.7,school.count,1,623
+Armstrong,No-take,Little_Armstrong_Bay,AAE.8,school.count,1,624
+Armstrong,No-take,Little_Armstrong_Bay,AAE.9,school.count,2,625
+Armstrong,No-take,Little_Armstrong_Bay,THJ.1,school.count,0,626
+Armstrong,No-take,Little_Armstrong_Bay,THJ.10,school.count,2,627
+Armstrong,No-take,Little_Armstrong_Bay,THJ.2,school.count,1,628
+Armstrong,No-take,Little_Armstrong_Bay,THJ.3,school.count,1,629
+Armstrong,No-take,Little_Armstrong_Bay,THJ.4,school.count,1,630
+Armstrong,No-take,Little_Armstrong_Bay,THJ.5,school.count,2,631
+Armstrong,No-take,Little_Armstrong_Bay,THJ.6,school.count,2,632
+Armstrong,No-take,Little_Armstrong_Bay,THJ.7,school.count,2,633
+Armstrong,No-take,Little_Armstrong_Bay,THJ.8,school.count,2,634
+Armstrong,No-take,Little_Armstrong_Bay,THJ.9,school.count,2,635
+Green_Island,Fished,East_Strickland,AT.1,school.count,1,636
+Green_Island,Fished,East_Strickland,AT.2,school.count,1,637
+Green_Island,Fished,East_Strickland,AT.3,school.count,2,638
+Green_Island,Fished,East_Strickland,AT.4,school.count,1,639
+Green_Island,Fished,East_Strickland,AT.5,school.count,2,640
+Green_Island,Fished,East_Strickland,EPJ.1,school.count,3,641
+Green_Island,Fished,East_Strickland,EPJ.2,school.count,2,642
+Green_Island,Fished,East_Strickland,EPJ.3,school.count,1,643
+Green_Island,Fished,East_Strickland,EPJ.4,school.count,2,644
+Green_Island,Fished,East_Strickland,EPJ.5,school.count,1,645
+Green_Island,Fished,East_Strickland,ST.1,school.count,1,646
+Green_Island,Fished,East_Strickland,ST.2,school.count,2,647
+Green_Island,Fished,East_Strickland,ST.3,school.count,2,648
+Green_Island,Fished,East_Strickland,ST.4,school.count,2,649
+Green_Island,Fished,East_Strickland,ST.5,school.count,2,650
+Green_Island,No-take,Green_Island,AT.1,school.count,3,651
+Green_Island,No-take,Green_Island,AT.2,school.count,3,652
+Green_Island,No-take,Green_Island,AT.3,school.count,4,653
+Green_Island,No-take,Green_Island,AT.4,school.count,2,654
+Green_Island,No-take,Green_Island,AT.5,school.count,3,655
+Green_Island,No-take,Green_Island,EPJ.1,school.count,6,656
+Green_Island,No-take,Green_Island,EPJ.2,school.count,2,657
+Green_Island,No-take,Green_Island,EPJ.3,school.count,3,658
+Green_Island,No-take,Green_Island,EPJ.4,school.count,3,659
+Green_Island,No-take,Green_Island,EPJ.5,school.count,3,660
+Green_Island,No-take,Green_Island,ST.1,school.count,4,661
+Green_Island,No-take,Green_Island,ST.2,school.count,0,662
+Green_Island,No-take,Green_Island,ST.3,school.count,1,663
+Green_Island,No-take,Green_Island,ST.4,school.count,1,664
+Green_Island,No-take,Green_Island,ST.5,school.count,1,665
+Parker_Pt,No-take,East_Salmon,EP.1,school.count,1,666
+Parker_Pt,No-take,East_Salmon,EP.2,school.count,4,667
+Parker_Pt,No-take,East_Salmon,EP.3,school.count,4,668
+Parker_Pt,No-take,East_Salmon,EP.4,school.count,1,669
+Parker_Pt,No-take,East_Salmon,EP.5,school.count,1,670
+Parker_Pt,No-take,East_Salmon,JAT.1,school.count,1,671
+Parker_Pt,No-take,East_Salmon,JAT.2,school.count,4,672
+Parker_Pt,No-take,East_Salmon,JAT.3,school.count,4,673
+Parker_Pt,No-take,East_Salmon,JAT.4,school.count,9,674
+Parker_Pt,No-take,East_Salmon,JAT.5,school.count,7,675
+Parker_Pt,No-take,East_Salmon,ST.1,school.count,5,676
+Parker_Pt,No-take,East_Salmon,ST.2,school.count,4,677
+Parker_Pt,No-take,East_Salmon,ST.3,school.count,6,678
+Parker_Pt,No-take,East_Salmon,ST.4,school.count,1,679
+Parker_Pt,No-take,East_Salmon,ST.5,school.count,7,680
+Parker_Pt,No-take,Little Salmon_Bay,AH.1,school.count,4,681
+Parker_Pt,No-take,Little Salmon_Bay,AH.2,school.count,2,682
+Parker_Pt,No-take,Little Salmon_Bay,AH.3,school.count,3,683
+Parker_Pt,No-take,Little Salmon_Bay,AH.4,school.count,4,684
+Parker_Pt,No-take,Little Salmon_Bay,AH.5,school.count,2,685
+Parker_Pt,No-take,Little Salmon_Bay,EAA.1,school.count,1,686
+Parker_Pt,No-take,Little Salmon_Bay,EAA.2,school.count,2,687
+Parker_Pt,No-take,Little Salmon_Bay,EAA.3,school.count,2,688
+Parker_Pt,No-take,Little Salmon_Bay,EAA.4,school.count,2,689
+Parker_Pt,No-take,Little Salmon_Bay,EAA.5,school.count,2,690
+Parker_Pt,No-take,Little Salmon_Bay,JH.1,school.count,2,691
+Parker_Pt,No-take,Little Salmon_Bay,JH.2,school.count,2,692
+Parker_Pt,No-take,Little Salmon_Bay,JH.3,school.count,2,693
+Parker_Pt,No-take,Little Salmon_Bay,JH.4,school.count,1,694
+Parker_Pt,No-take,Little Salmon_Bay,JH.5,school.count,1,695
