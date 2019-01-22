@@ -37,3 +37,4 @@ rsconnect/
 .Rproj.user
 BIOL4408.Rproj
 git script
+.DS_Store
