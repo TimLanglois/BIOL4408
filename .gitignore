@@ -3,10 +3,18 @@
 Analysis_Lobster_density/Plots/
 # Analysis_Lobster_density/Primer/
 Analysis_Lobster_density/.DS_Store
+
 #Analysis_Western_king_wrasse/Data/
 Analysis_Western_king_wrasse/Plots/
 #Analysis_Western_king_wrasse/Primer/
 Analysis_Western_king_wrasse/.DS_Store
+
+Analysis_Lobster_por distribution/Plots/
+Analysis_Lobster_por distribution/Functions/
+Analysis_Lobster_por distribution/X_Lobster.pot.distribution_import from shapefiles.R
+
+
+
 # History files
 .Rhistory
 .Rapp.history
