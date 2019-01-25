@@ -7,7 +7,8 @@
 
 ##  What are we going to do ?----
 
-# 1. Format data to PRIMER format - with samples as Rows and Species as coloums
+# 1. Make PRIMER data for Length and abundance of types
+# 2. Format data to PRIMER format - with samples as Rows and variables as coloums
 # 2. With Factors, to the right, seperated by blank columns .
 
 
@@ -23,7 +24,7 @@ library(readr)
 
 
 # Set name for study--
-study<-"wester.king.wrasse"
+study<-"western.king.wrasse"
 
 
 # Functions----
@@ -58,7 +59,7 @@ work.dir=("~/GitHub/BIOL4408/Analysis_Western_king_wrasse") #for Tim
 
 # Set sub-directories----
 data.dir=paste(work.dir,"Data",sep="/")
-primer.dir=paste(work.dir,"Primer",sep="/")
+primer.dir=paste(work.dir,"PrimerData",sep="/")
 
 
 
@@ -67,44 +68,75 @@ primer.dir=paste(work.dir,"Primer",sep="/")
 # Read in the checked data-----
 setwd(data.dir)
 dir()
-dat<-read.csv("wester.king.wrasse.summary.2019-01-22.csv")%>%
+
+
+length.dat<-read.csv("western.king.wrasse.2019-01-25.csv")%>%
+  glimpse()
+
+sum.dat<-read.csv("western.king.wrasse.summary.2019-01-25.csv")%>%
   glimpse()
 
 
 
 
+# Primer data for abundance data-----
 # Makes response variable data----
-glimpse(dat)
+glimpse(sum.dat)
 
-response<-dat%>%
+sum.response<-sum.dat%>%
   select(sample.no,count,metric)%>%
-  spread(metric,count, fill = 0)%>% #to make the data wide for PRIMER
+  spread(metric,count, fill = 0)%>% #to make the dat.suma wide for PRIMER
   glimpse()
 
 
-# Make the factor data----
-factors<-dat%>%
+# Make the factor dat.suma----
+sum.factors<-sum.dat%>%
   select(c(sample.no,sanctuary,status,site))%>%
-  distinct()%>% #only unique combinations - to match the wide data
+  distinct()%>% #only unique combinations - to match the wide dat.suma
   glimpse()
 
 
 
 
-response.factors<-factors%>%
-  inner_join(response,by="sample.no")%>% #join the data
+sum.response.factors<-sum.factors%>%
+  inner_join(sum.response,by="sample.no")%>% #join the data
   select(sample.no,M,`F`,J,MtoF,school.count,everything())%>% #orders the colums
   append_col(., list(blank=NA), after="school.count")%>% #appends blank colum
   plyr::rename(.,replace =c("blank"="") )%>% #makes the column name blank
   glimpse()
 
+# Write the data----
+setwd(primer.dir)
+dir()
+write.csv(sum.response.factors,file=paste("sum.response.factors",study,Sys.Date(),"csv",sep = "."), row.names=FALSE)
 
 
+
+
+# Primer data for length data-----
+# Makes response variable data----
+glimpse(length.dat)
+
+length.response<-length.dat%>%
+  select(row.id,length.mm)%>%
+  filter(!is.na(length.mm))%>%
+  glimpse()
+
+
+# Make the factor dat.suma----
+length.factors<-length.dat%>%
+  select(c(row.id,sanctuary,status,site))%>%
+  distinct()%>% #only unique combinations - to match the wide dat.suma
+  glimpse()
+
+length.response.factors<-length.factors%>%
+  inner_join(length.response,by="row.id")%>% #join the data
+  select(row.id,length.mm,everything())%>% #orders the colums
+  append_col(., list(blank=NA), after="length.mm")%>% #appends blank colum
+  plyr::rename(.,replace =c("blank"="") )%>% #makes the column name blank
+  glimpse()
 
 # Write the data----
 setwd(primer.dir)
 dir()
-write.csv(response.factors,file=paste(study,"response.factors",Sys.Date(),"csv",sep = "."), row.names=FALSE)
-
-
-
+write.csv(length.response.factors,file=paste("length.response.factors",study,Sys.Date(),"csv",sep = "."), row.names=FALSE)

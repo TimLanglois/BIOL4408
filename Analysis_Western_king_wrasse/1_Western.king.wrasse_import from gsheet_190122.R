@@ -99,6 +99,9 @@ dat <- gs_title("BIOL4408.western.king.wrasse")%>%
   # Make a unique school.id
   dplyr::mutate(school.id=paste(site,transect,groupID,school,sep="."))%>%
   
+  # Make a unique row.id
+  dplyr::mutate(row.id=1:nrow(.))%>%
+  
     glimpse()
 
 
@@ -125,27 +128,24 @@ ggplot(dat, aes(x=status, y=length.mm)) +
   
   
 
-#Ratio of males to females per transect.
-  
-  
-
+#Ratio of males to females per transect and count of schools-----
 # Use dat and make new variables of sum Male/Female/Juvenilles per transect and calculate ratios-----
   glimpse(dat)
   
 # Count of schools--
-  dat.schools<-dat %>%
+ schools.dat<-dat %>%
     filter(!is.na(length.mm))%>%
     group_by(sanctuary,status,site,transect.id)%>%
     dplyr::summarise(school.count=n_distinct(school.id))%>%
     glimpse()
   
   # Count of each stage--
-dat.summary<-dat %>%
+sum.dat<-dat %>%
   group_by(sanctuary,status,site,transect.id,stage)%>%
   dplyr::summarise(count=sum(number))%>%
   spread(stage,count, fill = 0)%>%  #make wide
   dplyr::mutate(MtoF = M/`F`)%>%
-  left_join(dat.schools)%>% #bring in the school data 
+  left_join(schools.dat)%>% #bring in the school data 
   mutate(school.count = replace_na(school.count,0))%>% #add in zeros for schools
   select(-`<NA>`)%>% #dropping the NA stage for transect with no fish
   gather(key="metric",value="count",`F`, M,J,MtoF,school.count)%>%
@@ -164,7 +164,7 @@ se.max <- function(x) (mean(x)) + se(x)
 
 
 # Barplot By Status----
-ggplot(dat.summary, aes(x=status, y=count,fill=status)) + 
+ggplot(sum.dat, aes(x=status, y=count,fill=status)) + 
   stat_summary(fun.y=mean, geom="bar") +
   stat_summary(fun.ymin = se.min, fun.ymax = se.max, geom = "errorbar", width = 0.1)+
 facet_grid(metric~sanctuary, scales = "free")
@@ -175,6 +175,6 @@ facet_grid(metric~sanctuary, scales = "free")
 # Write the summary data----
 setwd(data.dir) #set the directory
 dir() #look in the directory
-write_csv(dat.summary,paste(study,"summary",Sys.Date(),"csv",sep = "."))
+write_csv(sum.dat,paste(study,"summary",Sys.Date(),"csv",sep = "."))
 
 
