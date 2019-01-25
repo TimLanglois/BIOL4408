@@ -102,10 +102,53 @@ pot.map.ntr
 
 glimpse(dat)
 
-pot.hist<-ggplot(data=dat, aes(x=dst_sank))+
+# Plot with distance to NTR-
+pot.ntr.hist<-ggplot(data=dat, aes(x=dst_sank))+
   geom_density(alpha=.5)+
   facet_grid( .~ zone)
-pot.hist
+pot.ntr.hist
+
+
+# Plot with depth-
+pot.depth.hist<-ggplot(data=dat, aes(x=depth))+
+  geom_density(alpha=.5)+
+  facet_grid( .~ zone)
+pot.depth.hist
+
+
+# Plot with distance to dst_jettie-
+pot.jetty.hist<-ggplot(data=dat, aes(x=dst_jettie))+
+  geom_density(alpha=.5)+
+  facet_grid( .~ zone)
+pot.jetty.hist
+
+
+# Plot with distance to dst_moorin-
+pot.moor.hist<-ggplot(data=dat, aes(x=dst_moorin))+
+  geom_density(alpha=.5)+
+  facet_grid( .~ zone)
+pot.moor.hist
+
+
+# Plot with distance to dst_moorin-
+pot.cst.hist<-ggplot(data=dat, aes(x=dst_cst))+
+  geom_density(alpha=.5)+
+  facet_grid( .~ zone)
+pot.cst.hist
+
+
+
+# Plots with dat + raster predictions-----
+
+glimpse(dat.ras)
+
+ggplot(data=dat.ras,aes(x=dst_sank,y=predict))+
+  geom_smooth()+
+  facet_grid(zone~year)
+
+
+# Final check of the data-----
+glimpse(dat)
 
 
 

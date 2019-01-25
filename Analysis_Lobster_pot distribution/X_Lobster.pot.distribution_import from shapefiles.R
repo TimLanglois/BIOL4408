@@ -23,15 +23,18 @@ rm(list=ls())
 library(raster)#to read shapefiles
 library(tidyr) #to tody data
 library(dplyr) #to transform data
-library(purrr)
-library(forcats) #to transform catagorical data
+# library(purrr)
+# library(forcats) #to transform catagorical data
 library(readr) #to write data
 library(ggplot2) #to plot data
 # if(!requireNamespace("devtools")) install.packages("devtools")
 # devtools::install_github("dkahle/ggmap", ref = "tidyup",force = TRUE)
 library(ggmap)
-library(tmaptools)
-library(broom)
+# library(tmaptools)
+# library(broom)
+library(rgeos)
+require(rgdal)
+
 
 
 # Functions-----
@@ -58,11 +61,15 @@ data.dir=paste(work.dir,"Data",sep="/")
 plot.dir=paste(work.dir,"Data",sep="/")
 shape.dir=("~/Dropbox/RottnestLobsterPots_190123/covariates")
 polygon.dir=("~/Dropbox/RottnestLobsterPots_190123/Features")
+coastline.dir=("~/Dropbox/RottnestLobsterPots_190123/Coastline")
 
 
 # Read in polygon shapefiles------
 setwd(polygon.dir)
 dir()
+
+ntr.shp <- readOGR(dsn = ".", layer = "sank_WGS84_z50_clean")
+
 
 ntr<-shapefile(x="sank_WGS84_z50_clean.shp")%>%
   fortify()%>%
@@ -71,9 +78,67 @@ ntr<-shapefile(x="sank_WGS84_z50_clean.shp")%>%
   glimpse()
 
 
+
+
 setwd(data.dir)
 dir()
 write_csv(ntr,paste("ntr",Sys.Date(),"csv",sep = "."))
+
+
+
+
+
+
+
+# Read in coastline shapefiles------
+# sudan <- aggregate(rbind(ssudan, nsudan))
+# plot(sudan)
+
+
+setwd(coastline.dir)
+dir()
+
+# rotto<-shapefile(x="Rotto.shp")
+rotto <- readOGR(dsn = ".", layer = "Rotto")
+
+
+rotto.poly<-as(rotto, "SpatialPolygons")
+
+rotto.shp <- spTransform(rotto.poly,
+                         CRS("+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0"))
+
+ntr.shp.new <- spTransform(ntr.shp,
+                         CRS("+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0"))
+
+rotto.ntr <- raster::union(rotto.shp, ntr.shp.new)
+
+# rotto.ntr <- rotto.shp
+
+
+rotto.utm <- spTransform(rotto.ntr,
+                      CRS("+proj=utm +zone=50 +datum=WGS84 +units=km +ellps=WGS84 +towgs84=0,0,0"))
+
+rotto.expand.utm <- gBuffer(rotto.utm,width=1,quadsegs=4)
+
+rotto.coastal <- spTransform(rotto.expand.utm,CRS("+proj=longlat +ellps=WGS84"))
+plot(rotto.coastal,border="red")
+plot(rotto.ntr,add=TRUE)
+
+pts.all <- spsample(rotto.coastal,type="regular",n=1000)%>%
+  glimpse()
+plot(pts.all,pch=".")
+
+pts.all<- spTransform(pts.all,
+                      CRS("+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0"))
+
+rotto.shp.poly<-as(rotto.ntr, "SpatialPolygons")
+
+
+onland <- sp::over(pts.all,rotto.shp.poly)
+pts.wet <- pts.all[is.na(onland),]
+plot(rotto.coastal,border="red")
+plot(rotto.shp.poly,add=TRUE)
+plot(pts.wet,add=TRUE,pch=".",col="blue")
 
 
 
@@ -87,6 +152,8 @@ lobster_2014<-shapefile(x="lobster_2014.shp")%>%
   data.frame()%>%
   mutate(year=2014)%>%
   glimpse()
+
+
 
 # "lobster_2015G1.shp"
 lobster_2015G1<-shapefile(x="lobster_2015G1.shp")%>%
@@ -142,5 +209,139 @@ dat<-bind_rows(lobster_2014,lobster_2015G1,lobster_2015G2,lobster_2016,lobster_2
 
 # Write data-----
 setwd(data.dir)
+glimpse(dat)
 dir()
 write_csv(dat,paste(study,Sys.Date(),"csv",sep = "."))
+
+
+
+# Create raster of pots-----
+library("KernSmooth")
+glimpse(dat)
+
+pot.2014 <- cbind(dat%>%
+             filter(year==2014)%>%
+             dplyr::select(lon),dat%>%
+             filter(year==2014)%>%
+             dplyr::select(lat))%>%
+  bkde2D(bandwidth=c(0.001, 0.001))
+pot.2014.raster = raster(list(x=pot.2014$x1,y=pot.2014$x2,z=pot.2014$fhat))
+plot(pot.2014.raster)
+
+
+pot.2015 <- cbind(dat%>%
+                    filter(year==2015)%>%
+                    dplyr::select(lon),dat%>%
+                    filter(year==2015)%>%
+                    dplyr::select(lat))%>%
+  bkde2D(bandwidth=c(0.001, 0.001))
+pot.2015.raster = raster(list(x=pot.2015$x1,y=pot.2015$x2,z=pot.2015$fhat))
+plot(pot.2015.raster)
+pot.2015.raster_res <- resample(pot.2015.raster, pot.2014.raster)
+
+pot.2016 <- cbind(dat%>%
+                    filter(year==2016)%>%
+                    dplyr::select(lon),dat%>%
+                    filter(year==2016)%>%
+                    dplyr::select(lat))%>%
+  bkde2D(bandwidth=c(0.001, 0.001))
+pot.2016.raster = raster(list(x=pot.2016$x1,y=pot.2016$x2,z=pot.2016$fhat))
+plot(pot.2016.raster)
+pot.2016.raster_res <- resample(pot.2016.raster, pot.2014.raster)
+
+pot.2017 <- cbind(dat%>%
+                    filter(year==2017)%>%
+                    dplyr::select(lon),dat%>%
+                    filter(year==2017)%>%
+                    dplyr::select(lat))%>%
+  bkde2D(bandwidth=c(0.001, 0.001))
+pot.2017.raster = raster(list(x=pot.2017$x1,y=pot.2017$x2,z=pot.2017$fhat))
+plot(pot.2017.raster)
+pot.2017.raster_res <- resample(pot.2017.raster, pot.2014.raster)
+
+pot.2018 <- cbind(dat%>%
+                    filter(year==2018)%>%
+                    dplyr::select(lon),dat%>%
+                    filter(year==2018)%>%
+                    dplyr::select(lat))%>%
+  bkde2D(bandwidth=c(0.001, 0.001))
+pot.2018.raster = raster(list(x=pot.2018$x1,y=pot.2018$x2,z=pot.2018$fhat))
+plot(pot.2018.raster)
+pot.2018.raster_res <- resample(pot.2018.raster, pot.2014.raster)
+
+
+
+# Extract vales from raster stack-----
+
+
+
+rasStack = raster::stack(pot.2014.raster,pot.2015.raster_res,pot.2016.raster_res,pot.2017.raster_res,pot.2018.raster_res,quick=TRUE)
+
+
+pts.pots<-dat%>% #I have used the pot locations
+  select(lon,lat)%>%
+  dplyr::rename(x1=lon,x2=lat)%>%
+  filter(year==2014)
+  glimpse()
+
+
+ras.2014<-raster::extract(pot.2014.raster, dat%>%
+                           filter(year==2014)%>%
+                           select(lon,lat)%>%
+                           dplyr::rename(x1=lon,x2=lat))
+  ras.2014<-as.data.frame(ras.2014)%>%
+  mutate(year=2014)%>%
+  dplyr::rename(predict=ras.2014)%>%
+  glimpse()
+
+
+
+
+ras.2015=raster::extract(pot.2015.raster, dat%>%
+                           filter(year==2015)%>%
+                           select(lon,lat)%>%
+                           dplyr::rename(x1=lon,x2=lat))
+ras.2015<-as.data.frame(ras.2015)%>%
+  mutate(year=2015)%>%
+  dplyr::rename(predict=ras.2015)%>%
+  glimpse()
+
+ras.2016=raster::extract(pot.2016.raster, dat%>%
+                           filter(year==2016)%>%
+                           select(lon,lat)%>%
+                           dplyr::rename(x1=lon,x2=lat))
+ras.2016<-as.data.frame(ras.2016)%>%
+  mutate(year=2016)%>%
+  dplyr::rename(predict=ras.2016)%>%
+  glimpse()
+
+ras.2017=raster::extract(pot.2017.raster, dat%>%
+                           filter(year==2017)%>%
+                           select(lon,lat)%>%
+                           dplyr::rename(x1=lon,x2=lat))
+ras.2017<-as.data.frame(ras.2017)%>%
+  mutate(year=2017)%>%
+  dplyr::rename(predict=ras.2017)%>%
+  glimpse()
+
+ras.2018=raster::extract(pot.2018.raster, dat%>%
+                           filter(year==2018)%>%
+                           select(lon,lat)%>%
+                           dplyr::rename(x1=lon,x2=lat))
+ras.2018<-as.data.frame(ras.2018)%>%
+  mutate(year=2018)%>%
+  dplyr::rename(predict=ras.2018)%>%
+  glimpse()
+
+
+ras<-bind_rows(ras.2014,ras.2015,ras.2016,ras.2017,ras.2018)%>%
+  glimpse()
+
+dat.ras<-dat%>%
+  bind_cols(ras)%>%
+  glimpse()
+
+
+
+
+
