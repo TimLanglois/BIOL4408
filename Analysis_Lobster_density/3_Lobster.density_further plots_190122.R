@@ -16,7 +16,6 @@ rm(list=ls())
 
 
 # librarys----
-library(googlesheets)
 library(tidyr)
 library(dplyr) 
 library(readr)
@@ -60,7 +59,7 @@ plot.dir=paste(work.dir,"Plots",sep="/")
 # Read in the checked data-----
 setwd(data.dir)
 dir()
-dat<-read.csv("lobster.density.2019-01-20.csv")%>%
+dat<-read.csv("lobster.density.2019-01-25.csv")%>%
   glimpse()
 
 

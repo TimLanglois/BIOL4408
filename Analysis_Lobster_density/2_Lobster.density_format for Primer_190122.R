@@ -62,7 +62,7 @@ work.dir=("~/GitHub/BIOL4408/Analysis_Lobster_density") #for Tim
 
 # Set sub-directories----
 data.dir=paste(work.dir,"Data",sep="/")
-primer.dir=paste(work.dir,"Primer",sep="/")
+primer.dir=paste(work.dir,"PrimerData",sep="/")
 
 
 
@@ -71,7 +71,7 @@ primer.dir=paste(work.dir,"Primer",sep="/")
 # Read in the checked data-----
 setwd(data.dir)
 dir()
-dat<-read.csv("lobster.density.2019-01-20.csv")%>%
+dat<-read.csv("lobster.density.2019-01-25.csv")%>%
   glimpse()
 
 
@@ -121,8 +121,8 @@ covariate.factors<-covariates%>%
 # Write the data----
 setwd(primer.dir)
 dir()
-write.csv(response.factors,file=paste("response.factors",Sys.Date(),"csv",sep = "."), row.names=FALSE)
+write.csv(response.factors,file=paste("response.factors",study,Sys.Date(),"csv",sep = "."), row.names=FALSE)
 
-write.csv(covariate.factors,file=paste("covariate.factors",Sys.Date(),"csv",sep = "."), row.names=FALSE)
+write.csv(covariate.factors,file=paste("covariate.factors",study,Sys.Date(),"csv",sep = "."), row.names=FALSE)
 
 
