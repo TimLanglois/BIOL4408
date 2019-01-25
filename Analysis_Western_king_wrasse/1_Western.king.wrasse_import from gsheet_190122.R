@@ -29,7 +29,7 @@ library(ggplot2) #to plot data
 
 
 # Set name for study--
-study<-"wester.king.wrasse"
+study<-"western.king.wrasse"
 
 
 
@@ -78,7 +78,7 @@ unique(dat$stage)
 #does not look consistent - need to change j to J
 
 unique(dat$school)
-#looks OK
+#looks OK - the NA's are no WKW in a transect
 
 
 
