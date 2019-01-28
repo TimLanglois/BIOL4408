@@ -17,6 +17,7 @@ rm(list=ls())
 
 
 # load librarys----
+install.packages("googlesheets")
 library(googlesheets) #to read gsheet
 library(tidyr) #to tody data
 library(dplyr) #to transform data
@@ -37,8 +38,10 @@ study<-"lobster.density"
 # Set work directory----
 # Set your own to match where the data sits on your computer
 
-work.dir=("~/GitHub/BIOL4408/Analysis_Lobster_density") #for Tim
+work.dir=("~/GitHub/BIOL4408/Analysis_Lobster_density") #for Tim's desktop
 
+work.dir=("~/workspace/BIOL4408/Analysis_Lobster_density") #for ecocloud server
+# or
 #work.dir=("") #set this for your computer work directory
 
 
