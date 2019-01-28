@@ -51,6 +51,8 @@ append_col <- function(x, cols, after=length(x)) {
 
 work.dir=("~/GitHub/BIOL4408/Analysis_Western_king_wrasse") #for Tim
 
+work.dir=("~/workspace/BIOL4408/Analysis_Western_king_wrasse") #for ecocloud server
+# or
 #work.dir=("") #set this for your computer work directory
 
 
@@ -70,22 +72,23 @@ setwd(data.dir)
 dir()
 
 
-length.dat<-read.csv("western.king.wrasse.2019-01-25.csv")%>%
+length.dat<-read.csv("western.king.wrasse.2019-01-28.csv")%>%
   glimpse()
 
-sum.dat<-read.csv("western.king.wrasse.summary.2019-01-25.csv")%>%
+sum.dat<-read.csv("western.king.wrasse.summary.2019-01-28.csv")%>%
+  glimpse()
+
+ratio.dat<-read.csv("western.king.wrasse.ratio.2019-01-28.csv")%>%
   glimpse()
 
 
-
-
-# Primer data for abundance data-----
+# Primer data for summary data-----
 # Makes response variable data----
 glimpse(sum.dat)
 
 sum.response<-sum.dat%>%
   select(sample.no,count,metric)%>%
-  spread(metric,count, fill = 0)%>% #to make the dat.suma wide for PRIMER
+  spread(metric,count, fill = 0)%>% #to make the dat.sum wide for PRIMER
   glimpse()
 
 
@@ -96,19 +99,49 @@ sum.factors<-sum.dat%>%
   glimpse()
 
 
-
-
 sum.response.factors<-sum.factors%>%
   inner_join(sum.response,by="sample.no")%>% #join the data
-  select(sample.no,M,`F`,J,MtoF,school.count,everything())%>% #orders the colums
+  select(sample.no,M,`F`,J,school.count,everything())%>% #orders the colums
   append_col(., list(blank=NA), after="school.count")%>% #appends blank colum
   plyr::rename(.,replace =c("blank"="") )%>% #makes the column name blank
   glimpse()
+
 
 # Write the data----
 setwd(primer.dir)
 dir()
 write.csv(sum.response.factors,file=paste("sum.response.factors",study,Sys.Date(),"csv",sep = "."), row.names=FALSE)
+
+
+
+# Primer data for ratio data-----
+# Makes response variable data----
+glimpse(ratio.dat)
+
+ratio.response<-ratio.dat%>%
+  select(transect.id,count)%>%
+  glimpse()
+
+
+# Make the factor dat.suma----
+ratio.factors<-ratio.dat%>%
+  select(c(transect.id,sanctuary,status,site))%>%
+  distinct()%>% #only unique combinations - to match the wide dat.suma
+  glimpse()
+
+
+ratio.response.factors<-ratio.factors%>%
+  inner_join(ratio.response,by="transect.id")%>% #join the data
+  select(transect.id,count,everything())%>% #orders the colums
+  append_col(., list(blank=NA), after="count")%>% #appends blank colum
+  plyr::rename(.,replace =c("blank"="") )%>% #makes the column name blank
+  glimpse()
+
+
+# Write the data----
+setwd(primer.dir)
+dir()
+write.csv(ratio.response.factors,file=paste("ratio.response.factors",study,Sys.Date(),"csv",sep = "."), row.names=FALSE)
 
 
 
@@ -125,7 +158,7 @@ length.response<-length.dat%>%
 
 # Make the factor dat.suma----
 length.factors<-length.dat%>%
-  select(c(row.id,sanctuary,status,site))%>%
+  select(c(row.id,sanctuary,status,site,stage,transect.id))%>% # needs repliacte /transect name in there ALSO need stage in there.
   distinct()%>% #only unique combinations - to match the wide dat.suma
   glimpse()
 
@@ -140,3 +173,4 @@ length.response.factors<-length.factors%>%
 setwd(primer.dir)
 dir()
 write.csv(length.response.factors,file=paste("length.response.factors",study,Sys.Date(),"csv",sep = "."), row.names=FALSE)
+

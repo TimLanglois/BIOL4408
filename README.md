@@ -39,13 +39,20 @@ This step will download and save your data and files to your workspace so that t
 
 Open the Terminal window within RStudio
 Type the following command:
-cd workspace  "hit RETURN""
-git clone https://github.com/TimLanglois/BIOL4408.git <RETURN>
+cd workspace  "press RETURN"
+
+git clone https://github.com/TimLanglois/BIOL4408.git "press RETURN"
+
+
 
 If you need to update the code/data from GitHub
 Type the following command:
-cd BIOL4408 <RETURN>
-git pull <RETURN>
+
+cd BIOL4408 "press RETURN"
+
+git pull "press RETURN"
+
+
 
 BUT BE CAREFUL - git pull will overwrite any changes you have made to the scripts.
 

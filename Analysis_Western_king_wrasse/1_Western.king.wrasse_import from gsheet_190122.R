@@ -40,8 +40,9 @@ study<-"western.king.wrasse"
 
 work.dir=("~/GitHub/BIOL4408/Analysis_Western_king_wrasse") #for Tim
 
+work.dir=("~/workspace/BIOL4408/Analysis_Western_king_wrasse") #for ecocloud server
+# or
 #work.dir=("") #set this for your computer work directory
-
 
 
 # Set sub-directories----
@@ -57,8 +58,8 @@ data.dir=paste(work.dir,"Data",sep="/")
 options(httr_oob_default=FALSE) 
 
 # For Rstudio Server
-options(httr_oob_default=TRUE) 
-gs_auth(new_user = TRUE) 
+# options(httr_oob_default=TRUE) 
+# gs_auth(new_user = TRUE) 
 
 
 gs_ls() #list gsheets you have access to
@@ -103,7 +104,7 @@ dat <- gs_title("BIOL4408.western.king.wrasse")%>%
     droplevels()%>%
   
   # Make a unique transect.id
-  dplyr::mutate(transect.id=paste(groupID,transect,sep="."))%>%
+  dplyr::mutate(transect.id=paste(status,sanctuary,site,groupID,transect,sep="."))%>%
   
   # Make a unique school.id
   dplyr::mutate(school.id=paste(site,transect,groupID,school,sep="."))%>%
@@ -131,37 +132,57 @@ ggplot(dat, aes(x=status, y=length.mm)) +
 
   
   # Save the long data----
-  setwd(data.dir) #set the directory
+glimpse(dat)  
+setwd(data.dir) #set the directory
   dir() #look in the directory
   write_csv(dat,paste(study,Sys.Date(),"csv",sep = "."))
   
   
 
-#Ratio of males to females per transect and count of schools-----
+#Ratio of males to females per transect - only where males present and count of schools-----
 # Use dat and make new variables of sum Male/Female/Juvenilles per transect and calculate ratios-----
   glimpse(dat)
   
-# Count of schools--
- schools.dat<-dat %>%
-    filter(!is.na(length.mm))%>%
-    group_by(sanctuary,status,site,transect.id)%>%
-    dplyr::summarise(school.count=n_distinct(school.id))%>%
-    glimpse()
-  
+
   # Count of each stage--
-sum.dat<-dat %>%
+wide.dat<-dat %>%
   group_by(sanctuary,status,site,transect.id,stage)%>%
   dplyr::summarise(count=sum(number))%>%
   spread(stage,count, fill = 0)%>%  #make wide
-  dplyr::mutate(MtoF = M/`F`)%>%
-  left_join(schools.dat)%>% #bring in the school data 
+  glimpse()
+  
+  
+# Count of schools--
+schools.dat<-dat %>%
+  filter(!is.na(length.mm))%>%
+  group_by(sanctuary,status,site,transect.id)%>%
+  dplyr::summarise(school.count=n_distinct(school.id))%>%
+  glimpse()
+
+
+# Summary data---
+sum.dat<-wide.dat%>%
+left_join(schools.dat)%>% #bring in the school data
   mutate(school.count = replace_na(school.count,0))%>% #add in zeros for schools
   select(-`<NA>`)%>% #dropping the NA stage for transect with no fish
-  gather(key="metric",value="count",`F`, M,J,MtoF,school.count)%>%
+  gather(key="metric",value="count",`F`, M,J,school.count)%>%
   # make a unique sample number
   ungroup()%>%
   dplyr::mutate(sample.no=1:nrow(.))%>%
   glimpse()
+
+unique(sum.dat$metric)
+
+
+# Ratio of F to M---
+ratio.dat<-wide.dat%>%
+  filter(M>0)%>%
+  dplyr::mutate(FtoM = `F`/M)%>%
+  select(-c(`<NA>`,M,J,`F`))%>%
+  dplyr::rename(count=FtoM)%>%
+  glimpse()
+
+
 
 
 # Basic plots to check out the data----
@@ -178,12 +199,15 @@ ggplot(sum.dat, aes(x=status, y=count,fill=status)) +
   stat_summary(fun.ymin = se.min, fun.ymax = se.max, geom = "errorbar", width = 0.1)+
 facet_grid(metric~sanctuary, scales = "free")
 
+ggplot(ratio.dat, aes(x=status, y=count,fill=status)) + 
+  stat_summary(fun.y=mean, geom="bar") +
+  stat_summary(fun.ymin = se.min, fun.ymax = se.max, geom = "errorbar", width = 0.1)+
+  facet_grid(.~sanctuary, scales = "free")
 
 
-
-# Write the summary data----
+# Write the data----
 setwd(data.dir) #set the directory
 dir() #look in the directory
 write_csv(sum.dat,paste(study,"summary",Sys.Date(),"csv",sep = "."))
-
+write_csv(ratio.dat,paste(study,"ratio",Sys.Date(),"csv",sep = "."))
 
