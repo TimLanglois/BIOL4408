@@ -21,6 +21,7 @@ library(tidyr)
 library(plyr) #older R library that has a function we need - can cause conflicts with dplyr()
 library(dplyr)
 library(readr)
+library(RCurl) #needed to download data from GitHub
 
 
 # Set name for study--
@@ -61,7 +62,7 @@ work.dir=("~/workspace/BIOL4408/Analysis_Western_king_wrasse") #for ecocloud ser
 
 # Set sub-directories----
 data.dir=paste(work.dir,"Data",sep="/")
-primer.dir=paste(work.dir,"PrimerData",sep="/")
+primer.dir=paste(work.dir,"Primer",sep="/")
 
 
 
@@ -71,15 +72,28 @@ primer.dir=paste(work.dir,"PrimerData",sep="/")
 setwd(data.dir)
 dir()
 
+# From local files
 
-length.dat<-read.csv("western.king.wrasse.2019-01-28.csv")%>%
+length.dat<-read.csv("western.king.wrasse.csv")%>%
   glimpse()
 
-sum.dat<-read.csv("western.king.wrasse.summary.2019-01-28.csv")%>%
+sum.dat<-read.csv("western.king.wrasse.summary.csv")%>%
   glimpse()
 
-ratio.dat<-read.csv("western.king.wrasse.ratio.2019-01-28.csv")%>%
+ratio.dat<-read.csv("western.king.wrasse.ratio.csv")%>%
   glimpse()
+
+
+# OR
+#Read from github
+length.dat<-read.csv(text=getURL("https://raw.githubusercontent.com/TimLanglois/BIOL4408/master/Analysis_Western_king_wrasse/Data/western.king.wrasse.csv"))
+
+sum.dat<-read.csv(text=getURL("https://raw.githubusercontent.com/TimLanglois/BIOL4408/master/Analysis_Western_king_wrasse/Data/western.king.wrasse.summary.csv"))
+
+ratio.dat<-read.csv(text=getURL("https://raw.githubusercontent.com/TimLanglois/BIOL4408/master/Analysis_Western_king_wrasse/Data/western.king.wrasse.ratio.csv"))
+
+
+
 
 
 # Primer data for summary data-----
@@ -110,7 +124,7 @@ sum.response.factors<-sum.factors%>%
 # Write the data----
 setwd(primer.dir)
 dir()
-write.csv(sum.response.factors,file=paste("sum.response.factors",study,Sys.Date(),"csv",sep = "."), row.names=FALSE)
+write.csv(sum.response.factors,file=paste("sum.response.factors",study,"csv",sep = "."), row.names=FALSE)
 
 
 
@@ -141,7 +155,7 @@ ratio.response.factors<-ratio.factors%>%
 # Write the data----
 setwd(primer.dir)
 dir()
-write.csv(ratio.response.factors,file=paste("ratio.response.factors",study,Sys.Date(),"csv",sep = "."), row.names=FALSE)
+write.csv(ratio.response.factors,file=paste("ratio.response.factors",study,"csv",sep = "."), row.names=FALSE)
 
 
 
@@ -172,5 +186,5 @@ length.response.factors<-length.factors%>%
 # Write the data----
 setwd(primer.dir)
 dir()
-write.csv(length.response.factors,file=paste("length.response.factors",study,Sys.Date(),"csv",sep = "."), row.names=FALSE)
+write.csv(length.response.factors,file=paste("length.response.factors",study,"csv",sep = "."), row.names=FALSE)
 

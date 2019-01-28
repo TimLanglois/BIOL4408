@@ -20,6 +20,8 @@ library(tidyr)
 library(dplyr) 
 library(readr)
 library(ggplot2)
+library(RCurl) #needed to download data from GitHub
+
 
 
 # Set name for study--
@@ -44,6 +46,8 @@ se.max <- function(x) (mean(x)) + se(x)
 
 work.dir=("~/GitHub/BIOL4408/Analysis_Western_king_wrasse") #for Tim
 
+work.dir=("~/workspace/BIOL4408/Analysis_Western_king_wrasse") #for ecocloud server
+# or
 #work.dir=("") #set this for your computer work directory
 
 
@@ -55,21 +59,66 @@ plot.dir=paste(work.dir,"Plots",sep="/")
 
 
 
-
 # Read in the checked data-----
-setwd(data.dir)
-dir()
+# From local files
 
-length.dat<-read.csv("western.king.wrasse.2019-01-25.csv")%>%
+length.dat<-read.csv("western.king.wrasse.csv")%>%
   glimpse()
 
-sum.dat<-read.csv("western.king.wrasse.summary.2019-01-25.csv")%>%
+sum.dat<-read.csv("western.king.wrasse.summary.csv")%>%
+  glimpse()
+
+ratio.dat<-read.csv("western.king.wrasse.ratio.csv")%>%
   glimpse()
 
 
+# OR
+#Read from github
+length.dat<-read.csv(text=getURL("https://raw.githubusercontent.com/TimLanglois/BIOL4408/master/Analysis_Western_king_wrasse/Data/western.king.wrasse.csv"))
+
+sum.dat<-read.csv(text=getURL("https://raw.githubusercontent.com/TimLanglois/BIOL4408/master/Analysis_Western_king_wrasse/Data/western.king.wrasse.summary.csv"))
+
+ratio.dat<-read.csv(text=getURL("https://raw.githubusercontent.com/TimLanglois/BIOL4408/master/Analysis_Western_king_wrasse/Data/western.king.wrasse.ratio.csv"))
 
 
-# # Bar plots - using functions ----
+
+
+
+
+# Basic plots to check out the length data----
+
+# Box plot (looks better with length data)----
+ggplot(length.dat, aes(x=status, y=length.mm)) + 
+  geom_boxplot(outlier.shape = NA, notch=FALSE, width=0.8)+
+  geom_point(position = position_jitter(width = 0.1, h = 0),alpha = 1/4, size=1)+
+  stat_summary(fun.y=mean, geom="point", shape=2, size=4)
+
+ggplot(length.dat, aes(x=status, y=length.mm)) + 
+  geom_boxplot(outlier.shape = NA, notch=FALSE, width=0.8)+
+  geom_point(position = position_jitter(width = 0.1, h = 0),alpha = 1/4, size=1)+
+  stat_summary(fun.y=mean, geom="point", shape=2, size=4)+
+  facet_grid(stage~sanctuary)
+
+
+
+
+# Basic plots to check out the summary and ratio data----
+
+
+# Barplot By Status----
+ggplot(sum.dat, aes(x=status, y=count,fill=status)) + 
+  stat_summary(fun.y=mean, geom="bar") +
+  stat_summary(fun.ymin = se.min, fun.ymax = se.max, geom = "errorbar", width = 0.1)+
+  facet_grid(metric~sanctuary, scales = "free")
+
+ggplot(ratio.dat, aes(x=status, y=count,fill=status)) + 
+  stat_summary(fun.y=mean, geom="bar") +
+  stat_summary(fun.ymin = se.min, fun.ymax = se.max, geom = "errorbar", width = 0.1)+
+  facet_grid(.~sanctuary, scales = "free")
+
+
+
+# # Smarter Bar plots 
 setwd(plot.dir)
 dir()
 
@@ -115,7 +164,7 @@ status.location.sanctuary<-ggplot(sum.dat%>%filter(metric%in%c("M","F")), aes(x=
   facet_grid(metric~sanctuary,scales="free")
 status.location.sanctuary
 
-ggsave(status.year.sanctuary,file="status.year.sanctuary.png",width = 15, height = 8,units = "cm")
+ggsave(status.year.sanctuary,file="status.year.sanctuary.png",width = 15, height = 15,units = "cm")
 
 
 

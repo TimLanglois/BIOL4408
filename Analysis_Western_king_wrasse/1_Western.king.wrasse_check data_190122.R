@@ -59,7 +59,7 @@ dir()
 gsheet.dat <- read_csv("western.king.wrasse.gsheet.dat.csv") 
 # OR
 #Read from github
-gsheet.dat<-read.csv(text=getURL("https://raw.githubusercontent.com/TimLanglois/BIOL4408/master/Analysis_Western_king_wrasse/Data/western.king.wrasse.gsheet.csv"))
+gsheet.dat<-read.csv(text=getURL("https://raw.githubusercontent.com/TimLanglois/BIOL4408/master/Analysis_Western_king_wrasse/Data/western.king.wrasse.gsheet.dat.csv"))
 
 
 
