@@ -52,6 +52,15 @@ data.dir=paste(work.dir,"Data",sep="/")
 
 
 # Read in the data from gsheet and check it----
+
+# For Rstudio Desktop
+options(httr_oob_default=FALSE) 
+
+# For Rstudio Server
+options(httr_oob_default=TRUE) 
+gs_auth(new_user = TRUE) 
+
+
 gs_ls() #list gsheets you have access to
 
 dat <- gs_title("BIOL4408.western.king.wrasse")%>% #select the gsheet
