@@ -24,6 +24,7 @@ library(tidyr)
 library(plyr) #older R library that has a function we need - can cause conflicts with dplyr()
 library(dplyr)
 library(readr)
+library(RCurl) #needed to download data from GitHub
 
 
 # Set name for study--
@@ -76,6 +77,9 @@ dir()
 dat<-read.csv("lobster.density.csv")%>%
   glimpse()
 
+# OR
+#Read from github
+dat<-read.csv(text=getURL("https://raw.githubusercontent.com/TimLanglois/BIOL4408/master/Analysis_Lobster_density/Data/lobster.density.csv"))
 
 
 

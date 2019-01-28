@@ -5,10 +5,9 @@
 
 
 ##  What are we going to do with the data?----
-##  1. Import data
-##  2. Rough-Plot of the data to explore and look for outliers.
-##  3. Calculate counts by stage.
-##  4. Check and save the data
+##  1. Rough-Plot of the data to explore and look for outliers.
+##  2. Calculate counts by stage.
+##  3. Check and save the data
 
 
 
@@ -18,12 +17,12 @@ rm(list=ls())
 
 
 # load librarys----
-library(googlesheets) #to read gsheet
 library(tidyr) #to tody data
 library(dplyr) #to transform data
 library(forcats) #to transform catagorical data
 library(readr) #to write data
 library(ggplot2) #to plot data
+library(RCurl) #needed to download data from GitHub
 
 
 
@@ -52,49 +51,44 @@ data.dir=paste(work.dir,"Data",sep="/")
 
 
 
-# Read in the data from gsheet and check it----
+# Read in the gsheet and check it----
+setwd(data.dir)
+dir()
 
-# For Rstudio Desktop
-options(httr_oob_default=FALSE) 
-
-# For Rstudio Server
-# options(httr_oob_default=TRUE) 
-# gs_auth(new_user = TRUE) 
-
-
-gs_ls() #list gsheets you have access to
-
-dat <- gs_title("BIOL4408.western.king.wrasse")%>% #select the gsheet
-  gs_read_csv(ws = "western.king.wrasse") #select the worksheet within the workbook
+# From local file
+gsheet.dat <- read_csv("western.king.wrasse.gsheet.dat.csv") 
+# OR
+#Read from github
+gsheet.dat<-read.csv(text=getURL("https://raw.githubusercontent.com/TimLanglois/BIOL4408/master/Analysis_Western_king_wrasse/Data/western.king.wrasse.gsheet.csv"))
 
 
-glimpse(dat) #glimpse the data
+
+glimpse(gsheet.dat) #glimpse the data
 #variable names, formats, head of the data
 
 
-unique(dat$status) #unique levels of status
-unique(dat$sanctuary) #unique levels of sanctuary
-unique(dat$site) #unique levels of site
+unique(gsheet.dat$status) #unique levels of status
+unique(gsheet.dat$sanctuary) #unique levels of sanctuary
+unique(gsheet.dat$site) #unique levels of site
 
-unique(dat$group.no) #this is not correct
+unique(gsheet.dat$group.no) #this is not correct
 
-unique(dat$groupID) #this is important to make a unique transect number
+unique(gsheet.dat$groupID) #this is important to make a unique transect number
 
 
-unique(dat$transect)
+unique(gsheet.dat$transect)
 #looks consistent
 
-unique(dat$stage)
+unique(gsheet.dat$stage)
 #does not look consistent - need to change j to J
 
-unique(dat$school)
+unique(gsheet.dat$school)
 #looks OK - the NA's are no WKW in a transect
 
 
 
 # Read in the data from gsheet and make corrections and re-format----
-dat <- gs_title("BIOL4408.western.king.wrasse")%>% 
-  gs_read_csv(ws = "western.king.wrasse") %>%
+dat <- gsheet.dat %>%
 #recode the stage names
     dplyr::mutate(stage = fct_recode(stage,
                            "J" = "j"))%>%
@@ -135,11 +129,12 @@ ggplot(dat, aes(x=status, y=length.mm)) +
 glimpse(dat)  
 setwd(data.dir) #set the directory
   dir() #look in the directory
-  write_csv(dat,paste(study,Sys.Date(),"csv",sep = "."))
+  write_csv(dat,paste(study,"csv",sep = "."))
   
   
 
-#Ratio of males to females per transect - only where males present and count of schools-----
+#Calcualte extra data sets for:
+  #Ratio of males to females per transect - only where males present and count of schools-----
 # Use dat and make new variables of sum Male/Female/Juvenilles per transect and calculate ratios-----
   glimpse(dat)
   
@@ -208,6 +203,6 @@ ggplot(ratio.dat, aes(x=status, y=count,fill=status)) +
 # Write the data----
 setwd(data.dir) #set the directory
 dir() #look in the directory
-write_csv(sum.dat,paste(study,"summary",Sys.Date(),"csv",sep = "."))
-write_csv(ratio.dat,paste(study,"ratio",Sys.Date(),"csv",sep = "."))
+write_csv(sum.dat,paste(study,"summary","csv",sep = "."))
+write_csv(ratio.dat,paste(study,"ratio","csv",sep = "."))
 

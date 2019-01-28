@@ -19,6 +19,7 @@ library(tidyr)
 library(dplyr) 
 library(readr)
 library(ggplot2)
+library(RCurl) #needed to download data from GitHub
 
 
 # Set name for study--
@@ -60,8 +61,50 @@ plot.dir=paste(work.dir,"Plots",sep="/")
 # Read in the checked data-----
 setwd(data.dir)
 dir()
+# From local files
 dat<-read.csv("lobster.density.csv")%>%
   glimpse()
+
+# OR
+#Read from github
+dat<-read.csv(text=getURL("https://raw.githubusercontent.com/TimLanglois/BIOL4408/master/Analysis_Lobster_density/Data/lobster.density.csv"))
+
+
+
+
+# Basic plots to check out the data----
+
+
+# Point plot----
+ggplot(data=dat, aes(x=status, y=count)) + 
+  geom_point()
+
+
+# Jittered point plot (great for checking data)----
+ggplot(dat, aes(x=status, y=count)) + 
+  geom_point(position = position_jitter(),alpha = 1/4) #alpha gives transparency
+
+
+# Jittered point plot with one factor facetted----
+ggplot(dat, aes(x=status, y=count)) + 
+  geom_point(position = position_jitter(),alpha = 1/4)+
+  facet_grid(size.class~.) #facet by factor
+
+
+#jittered point plot with two factors faceted-----
+ggplot(dat, aes(x=status, y=count, colour=status)) + 
+  geom_point(position = position_jitter(width = 0.1, h = 0),alpha = 1/4)+
+  facet_grid(size.class~year)
+
+
+# Box plot (does not look very good!)----
+ggplot(dat, aes(x=status, y=count)) + 
+  geom_boxplot(outlier.shape = NA, notch=FALSE, width=0.8)+
+  geom_point(position = position_jitter(width = 0.1, h = 0),alpha = 1/4, size=1)+
+  stat_summary(fun.y=mean, geom="point", shape=2, size=4)+ #adds mean
+  facet_grid(size.class~sanctuary)
+
+
 
 
 

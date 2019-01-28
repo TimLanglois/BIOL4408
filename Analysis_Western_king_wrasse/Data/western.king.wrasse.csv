@@ -1,0 +1,944 @@
+sanctuary,site,status,date,time,group.no,groupID,transect,length.mm,stage,school,comments,number,transect.id,school.id,row.id
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,1,160,F,1,NA,1,No-take.Parker_Pt.East_Salmon.JAT.1,East_Salmon.1.JAT.1,1
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,1,100,F,1,NA,1,No-take.Parker_Pt.East_Salmon.JAT.1,East_Salmon.1.JAT.1,2
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,1,200,F,1,NA,1,No-take.Parker_Pt.East_Salmon.JAT.1,East_Salmon.1.JAT.1,3
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,1,130,F,1,NA,1,No-take.Parker_Pt.East_Salmon.JAT.1,East_Salmon.1.JAT.1,4
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,1,140,F,1,NA,1,No-take.Parker_Pt.East_Salmon.JAT.1,East_Salmon.1.JAT.1,5
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,1,100,F,1,NA,1,No-take.Parker_Pt.East_Salmon.JAT.1,East_Salmon.1.JAT.1,6
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,2,90,F,2,NA,1,No-take.Parker_Pt.East_Salmon.JAT.2,East_Salmon.2.JAT.2,7
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,2,70,F,3,NA,1,No-take.Parker_Pt.East_Salmon.JAT.2,East_Salmon.2.JAT.3,8
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,2,80,F,4,NA,1,No-take.Parker_Pt.East_Salmon.JAT.2,East_Salmon.2.JAT.4,9
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,2,90,F,4,NA,1,No-take.Parker_Pt.East_Salmon.JAT.2,East_Salmon.2.JAT.4,10
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,2,100,F,4,NA,1,No-take.Parker_Pt.East_Salmon.JAT.2,East_Salmon.2.JAT.4,11
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,2,120,F,5,NA,1,No-take.Parker_Pt.East_Salmon.JAT.2,East_Salmon.2.JAT.5,12
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,2,200,F,5,NA,1,No-take.Parker_Pt.East_Salmon.JAT.2,East_Salmon.2.JAT.5,13
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,3,100,F,6,NA,1,No-take.Parker_Pt.East_Salmon.JAT.3,East_Salmon.3.JAT.6,14
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,3,40,J,7,NA,1,No-take.Parker_Pt.East_Salmon.JAT.3,East_Salmon.3.JAT.7,15
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,3,200,F,8,NA,1,No-take.Parker_Pt.East_Salmon.JAT.3,East_Salmon.3.JAT.8,16
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,3,50,F,9,NA,1,No-take.Parker_Pt.East_Salmon.JAT.3,East_Salmon.3.JAT.9,17
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,3,120,F,9,NA,1,No-take.Parker_Pt.East_Salmon.JAT.3,East_Salmon.3.JAT.9,18
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,130,F,10,NA,1,No-take.Parker_Pt.East_Salmon.JAT.4,East_Salmon.4.JAT.10,19
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,170,F,10,NA,1,No-take.Parker_Pt.East_Salmon.JAT.4,East_Salmon.4.JAT.10,20
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,110,F,10,NA,1,No-take.Parker_Pt.East_Salmon.JAT.4,East_Salmon.4.JAT.10,21
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,70,F,11,NA,1,No-take.Parker_Pt.East_Salmon.JAT.4,East_Salmon.4.JAT.11,22
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,80,F,11,NA,1,No-take.Parker_Pt.East_Salmon.JAT.4,East_Salmon.4.JAT.11,23
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,100,F,11,NA,1,No-take.Parker_Pt.East_Salmon.JAT.4,East_Salmon.4.JAT.11,24
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,130,F,11,NA,1,No-take.Parker_Pt.East_Salmon.JAT.4,East_Salmon.4.JAT.11,25
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,60,F,12,NA,1,No-take.Parker_Pt.East_Salmon.JAT.4,East_Salmon.4.JAT.12,26
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,80,F,12,NA,1,No-take.Parker_Pt.East_Salmon.JAT.4,East_Salmon.4.JAT.12,27
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,250,M,13,NA,1,No-take.Parker_Pt.East_Salmon.JAT.4,East_Salmon.4.JAT.13,28
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,200,F,13,NA,1,No-take.Parker_Pt.East_Salmon.JAT.4,East_Salmon.4.JAT.13,29
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,170,F,13,NA,1,No-take.Parker_Pt.East_Salmon.JAT.4,East_Salmon.4.JAT.13,30
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,80,F,14,NA,1,No-take.Parker_Pt.East_Salmon.JAT.4,East_Salmon.4.JAT.14,31
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,70,F,14,NA,1,No-take.Parker_Pt.East_Salmon.JAT.4,East_Salmon.4.JAT.14,32
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,160,F,15,NA,1,No-take.Parker_Pt.East_Salmon.JAT.4,East_Salmon.4.JAT.15,33
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,60,F,16,NA,1,No-take.Parker_Pt.East_Salmon.JAT.4,East_Salmon.4.JAT.16,34
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,80,F,17,NA,1,No-take.Parker_Pt.East_Salmon.JAT.4,East_Salmon.4.JAT.17,35
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,70,F,17,NA,1,No-take.Parker_Pt.East_Salmon.JAT.4,East_Salmon.4.JAT.17,36
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,90,F,17,NA,1,No-take.Parker_Pt.East_Salmon.JAT.4,East_Salmon.4.JAT.17,37
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,220,F,18,NA,1,No-take.Parker_Pt.East_Salmon.JAT.4,East_Salmon.4.JAT.18,38
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,300,M,19,NA,1,No-take.Parker_Pt.East_Salmon.JAT.5,East_Salmon.5.JAT.19,39
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,250,F,19,NA,1,No-take.Parker_Pt.East_Salmon.JAT.5,East_Salmon.5.JAT.19,40
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,270,F,19,NA,1,No-take.Parker_Pt.East_Salmon.JAT.5,East_Salmon.5.JAT.19,41
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,150,F,19,NA,1,No-take.Parker_Pt.East_Salmon.JAT.5,East_Salmon.5.JAT.19,42
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,100,F,19,NA,1,No-take.Parker_Pt.East_Salmon.JAT.5,East_Salmon.5.JAT.19,43
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,120,F,19,NA,1,No-take.Parker_Pt.East_Salmon.JAT.5,East_Salmon.5.JAT.19,44
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,200,F,20,NA,1,No-take.Parker_Pt.East_Salmon.JAT.5,East_Salmon.5.JAT.20,45
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,120,F,21,NA,1,No-take.Parker_Pt.East_Salmon.JAT.5,East_Salmon.5.JAT.21,46
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,120,F,22,NA,1,No-take.Parker_Pt.East_Salmon.JAT.5,East_Salmon.5.JAT.22,47
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,130,F,23,NA,1,No-take.Parker_Pt.East_Salmon.JAT.5,East_Salmon.5.JAT.23,48
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,300,F,24,NA,1,No-take.Parker_Pt.East_Salmon.JAT.5,East_Salmon.5.JAT.24,49
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,120,F,24,NA,1,No-take.Parker_Pt.East_Salmon.JAT.5,East_Salmon.5.JAT.24,50
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,180,F,24,NA,1,No-take.Parker_Pt.East_Salmon.JAT.5,East_Salmon.5.JAT.24,51
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,120,F,25,NA,1,No-take.Parker_Pt.East_Salmon.JAT.5,East_Salmon.5.JAT.25,52
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,150,F,25,NA,1,No-take.Parker_Pt.East_Salmon.JAT.5,East_Salmon.5.JAT.25,53
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,1,75,F,1,started 9am,1,No-take.Parker_Pt.East_Salmon.EP.1,East_Salmon.1.EP.1,54
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,1,70,F,1,NA,1,No-take.Parker_Pt.East_Salmon.EP.1,East_Salmon.1.EP.1,55
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,1,70,F,1,NA,1,No-take.Parker_Pt.East_Salmon.EP.1,East_Salmon.1.EP.1,56
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,2,50,F,2,NA,1,No-take.Parker_Pt.East_Salmon.EP.2,East_Salmon.2.EP.2,57
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,2,50,F,3,NA,1,No-take.Parker_Pt.East_Salmon.EP.2,East_Salmon.2.EP.3,58
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,2,60,F,4,NA,1,No-take.Parker_Pt.East_Salmon.EP.2,East_Salmon.2.EP.4,59
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,2,50,F,5,NA,1,No-take.Parker_Pt.East_Salmon.EP.2,East_Salmon.2.EP.5,60
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,2,60,F,5,NA,1,No-take.Parker_Pt.East_Salmon.EP.2,East_Salmon.2.EP.5,61
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,2,200,F,5,NA,1,No-take.Parker_Pt.East_Salmon.EP.2,East_Salmon.2.EP.5,62
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,3,60,F,6,NA,1,No-take.Parker_Pt.East_Salmon.EP.3,East_Salmon.3.EP.6,63
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,3,70,F,6,NA,1,No-take.Parker_Pt.East_Salmon.EP.3,East_Salmon.3.EP.6,64
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,3,70,F,6,NA,1,No-take.Parker_Pt.East_Salmon.EP.3,East_Salmon.3.EP.6,65
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,3,100,F,7,NA,1,No-take.Parker_Pt.East_Salmon.EP.3,East_Salmon.3.EP.7,66
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,3,90,F,8,NA,1,No-take.Parker_Pt.East_Salmon.EP.3,East_Salmon.3.EP.8,67
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,3,85,F,9,NA,1,No-take.Parker_Pt.East_Salmon.EP.3,East_Salmon.3.EP.9,68
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,4,80,F,10,NA,1,No-take.Parker_Pt.East_Salmon.EP.4,East_Salmon.4.EP.10,69
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,4,50,F,10,NA,1,No-take.Parker_Pt.East_Salmon.EP.4,East_Salmon.4.EP.10,70
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,4,100,F,10,NA,1,No-take.Parker_Pt.East_Salmon.EP.4,East_Salmon.4.EP.10,71
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,4,150,F,10,NA,1,No-take.Parker_Pt.East_Salmon.EP.4,East_Salmon.4.EP.10,72
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,4,60,F,10,NA,1,No-take.Parker_Pt.East_Salmon.EP.4,East_Salmon.4.EP.10,73
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,4,60,F,10,NA,1,No-take.Parker_Pt.East_Salmon.EP.4,East_Salmon.4.EP.10,74
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,4,60,F,10,NA,1,No-take.Parker_Pt.East_Salmon.EP.4,East_Salmon.4.EP.10,75
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,50,F,11,NA,1,No-take.Parker_Pt.East_Salmon.EP.5,East_Salmon.5.EP.11,76
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,60,F,11,NA,1,No-take.Parker_Pt.East_Salmon.EP.5,East_Salmon.5.EP.11,77
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,60,F,11,NA,1,No-take.Parker_Pt.East_Salmon.EP.5,East_Salmon.5.EP.11,78
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,80,F,11,NA,1,No-take.Parker_Pt.East_Salmon.EP.5,East_Salmon.5.EP.11,79
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,90,F,11,NA,1,No-take.Parker_Pt.East_Salmon.EP.5,East_Salmon.5.EP.11,80
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,100,F,11,NA,1,No-take.Parker_Pt.East_Salmon.EP.5,East_Salmon.5.EP.11,81
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,50,F,11,NA,1,No-take.Parker_Pt.East_Salmon.EP.5,East_Salmon.5.EP.11,82
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,75,F,11,NA,1,No-take.Parker_Pt.East_Salmon.EP.5,East_Salmon.5.EP.11,83
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,60,F,11,NA,1,No-take.Parker_Pt.East_Salmon.EP.5,East_Salmon.5.EP.11,84
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,120,F,11,NA,1,No-take.Parker_Pt.East_Salmon.EP.5,East_Salmon.5.EP.11,85
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,130,F,11,NA,1,No-take.Parker_Pt.East_Salmon.EP.5,East_Salmon.5.EP.11,86
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,40,F,11,NA,1,No-take.Parker_Pt.East_Salmon.EP.5,East_Salmon.5.EP.11,87
+Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,50,F,11,NA,1,No-take.Parker_Pt.East_Salmon.EP.5,East_Salmon.5.EP.11,88
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,1,150,F,1,NA,1,No-take.Parker_Pt.East_Salmon.ST.1,East_Salmon.1.ST.1,89
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,1,120,F,2,NA,1,No-take.Parker_Pt.East_Salmon.ST.1,East_Salmon.1.ST.2,90
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,1,110,F,3,NA,1,No-take.Parker_Pt.East_Salmon.ST.1,East_Salmon.1.ST.3,91
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,1,150,F,4,NA,1,No-take.Parker_Pt.East_Salmon.ST.1,East_Salmon.1.ST.4,92
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,1,120,F,5,NA,1,No-take.Parker_Pt.East_Salmon.ST.1,East_Salmon.1.ST.5,93
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,2,110,F,6,More sandy,1,No-take.Parker_Pt.East_Salmon.ST.2,East_Salmon.2.ST.6,94
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,2,100,F,7,More sandy,1,No-take.Parker_Pt.East_Salmon.ST.2,East_Salmon.2.ST.7,95
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,2,90,F,8,More sandy,1,No-take.Parker_Pt.East_Salmon.ST.2,East_Salmon.2.ST.8,96
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,2,120,F,9,More sandy,1,No-take.Parker_Pt.East_Salmon.ST.2,East_Salmon.2.ST.9,97
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,3,250,F,10,NA,1,No-take.Parker_Pt.East_Salmon.ST.3,East_Salmon.3.ST.10,98
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,3,120,F,11,NA,1,No-take.Parker_Pt.East_Salmon.ST.3,East_Salmon.3.ST.11,99
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,3,220,F,12,NA,1,No-take.Parker_Pt.East_Salmon.ST.3,East_Salmon.3.ST.12,100
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,3,110,F,12,NA,1,No-take.Parker_Pt.East_Salmon.ST.3,East_Salmon.3.ST.12,101
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,3,120,F,12,NA,1,No-take.Parker_Pt.East_Salmon.ST.3,East_Salmon.3.ST.12,102
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,3,130,F,12,NA,1,No-take.Parker_Pt.East_Salmon.ST.3,East_Salmon.3.ST.12,103
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,3,130,F,13,NA,1,No-take.Parker_Pt.East_Salmon.ST.3,East_Salmon.3.ST.13,104
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,3,120,F,14,NA,1,No-take.Parker_Pt.East_Salmon.ST.3,East_Salmon.3.ST.14,105
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,3,280,M,15,NA,1,No-take.Parker_Pt.East_Salmon.ST.3,East_Salmon.3.ST.15,106
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,4,130,F,16,More reef than reef edge,1,No-take.Parker_Pt.East_Salmon.ST.4,East_Salmon.4.ST.16,107
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,300,M,17,Males appeared to increase in abundance with depth,1,No-take.Parker_Pt.East_Salmon.ST.5,East_Salmon.5.ST.17,108
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,120,F,17,Males appeared to increase in abundance with depth,1,No-take.Parker_Pt.East_Salmon.ST.5,East_Salmon.5.ST.17,109
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,120,F,17,Males appeared to increase in abundance with depth,1,No-take.Parker_Pt.East_Salmon.ST.5,East_Salmon.5.ST.17,110
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,120,F,17,Males appeared to increase in abundance with depth,1,No-take.Parker_Pt.East_Salmon.ST.5,East_Salmon.5.ST.17,111
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,110,F,17,Males appeared to increase in abundance with depth,1,No-take.Parker_Pt.East_Salmon.ST.5,East_Salmon.5.ST.17,112
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,140,F,18,Males appeared to increase in abundance with depth,1,No-take.Parker_Pt.East_Salmon.ST.5,East_Salmon.5.ST.18,113
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,310,M,19,Males appeared to increase in abundance with depth,1,No-take.Parker_Pt.East_Salmon.ST.5,East_Salmon.5.ST.19,114
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,150,F,19,Males appeared to increase in abundance with depth,1,No-take.Parker_Pt.East_Salmon.ST.5,East_Salmon.5.ST.19,115
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,130,F,19,Males appeared to increase in abundance with depth,1,No-take.Parker_Pt.East_Salmon.ST.5,East_Salmon.5.ST.19,116
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,310,M,20,Males appeared to increase in abundance with depth,1,No-take.Parker_Pt.East_Salmon.ST.5,East_Salmon.5.ST.20,117
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,290,M,21,Males appeared to increase in abundance with depth,1,No-take.Parker_Pt.East_Salmon.ST.5,East_Salmon.5.ST.21,118
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,250,F,21,Males appeared to increase in abundance with depth,1,No-take.Parker_Pt.East_Salmon.ST.5,East_Salmon.5.ST.21,119
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,240,F,21,Males appeared to increase in abundance with depth,1,No-take.Parker_Pt.East_Salmon.ST.5,East_Salmon.5.ST.21,120
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,140,F,22,Males appeared to increase in abundance with depth,1,No-take.Parker_Pt.East_Salmon.ST.5,East_Salmon.5.ST.22,121
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,330,M,23,Males appeared to increase in abundance with depth,1,No-take.Parker_Pt.East_Salmon.ST.5,East_Salmon.5.ST.23,122
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,240,F,23,Males appeared to increase in abundance with depth,1,No-take.Parker_Pt.East_Salmon.ST.5,East_Salmon.5.ST.23,123
+Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,130,F,23,Males appeared to increase in abundance with depth,1,No-take.Parker_Pt.East_Salmon.ST.5,East_Salmon.5.ST.23,124
+Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,1,NA,NA,NA,NA,0,Fished.Armstrong.Geordie_Bay.AT.1,Geordie_Bay.1.AT.NA,125
+Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,2,160,F,1,NA,1,Fished.Armstrong.Geordie_Bay.AT.2,Geordie_Bay.2.AT.1,126
+Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,2,160,F,1,NA,1,Fished.Armstrong.Geordie_Bay.AT.2,Geordie_Bay.2.AT.1,127
+Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,2,220,F,2,NA,1,Fished.Armstrong.Geordie_Bay.AT.2,Geordie_Bay.2.AT.2,128
+Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,3,200,F,3,NA,1,Fished.Armstrong.Geordie_Bay.AT.3,Geordie_Bay.3.AT.3,129
+Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,3,110,F,4,NA,1,Fished.Armstrong.Geordie_Bay.AT.3,Geordie_Bay.3.AT.4,130
+Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,4,400,M,5,NA,1,Fished.Armstrong.Geordie_Bay.AT.4,Geordie_Bay.4.AT.5,131
+Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,4,250,F,5,NA,1,Fished.Armstrong.Geordie_Bay.AT.4,Geordie_Bay.4.AT.5,132
+Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,5,250,F,6,NA,1,Fished.Armstrong.Geordie_Bay.AT.5,Geordie_Bay.5.AT.6,133
+Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,5,150,F,7,NA,1,Fished.Armstrong.Geordie_Bay.AT.5,Geordie_Bay.5.AT.7,134
+Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,5,150,F,7,NA,1,Fished.Armstrong.Geordie_Bay.AT.5,Geordie_Bay.5.AT.7,135
+Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,5,100,F,8,NA,1,Fished.Armstrong.Geordie_Bay.AT.5,Geordie_Bay.5.AT.8,136
+Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,5,150,F,8,NA,1,Fished.Armstrong.Geordie_Bay.AT.5,Geordie_Bay.5.AT.8,137
+Armstrong,Geordie_Bay,Fished,1/17/2019,1531,1,AT,5,100,F,8,NA,1,Fished.Armstrong.Geordie_Bay.AT.5,Geordie_Bay.5.AT.8,138
+Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,EPJ,1,NA,NA,NA,NA,0,Fished.Armstrong.Geordie_Bay.EPJ.1,Geordie_Bay.1.EPJ.NA,139
+Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,EPJ,2,NA,NA,NA,NA,0,Fished.Armstrong.Geordie_Bay.EPJ.2,Geordie_Bay.2.EPJ.NA,140
+Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,EPJ,3,90,F,1,NA,1,Fished.Armstrong.Geordie_Bay.EPJ.3,Geordie_Bay.3.EPJ.1,141
+Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,EPJ,3,90,F,2,NA,1,Fished.Armstrong.Geordie_Bay.EPJ.3,Geordie_Bay.3.EPJ.2,142
+Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,EPJ,3,50,F,3,NA,1,Fished.Armstrong.Geordie_Bay.EPJ.3,Geordie_Bay.3.EPJ.3,143
+Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,EPJ,4,NA,NA,NA,NA,0,Fished.Armstrong.Geordie_Bay.EPJ.4,Geordie_Bay.4.EPJ.NA,144
+Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,EPJ,5,NA,NA,NA,NA,0,Fished.Armstrong.Geordie_Bay.EPJ.5,Geordie_Bay.5.EPJ.NA,145
+Armstrong,Geordie_Bay,Fished,1/17/2019,1600,1,ST,1,110,F,1,NA,1,Fished.Armstrong.Geordie_Bay.ST.1,Geordie_Bay.1.ST.1,146
+Armstrong,Geordie_Bay,Fished,1/17/2019,1600,1,ST,1,90,F,2,NA,1,Fished.Armstrong.Geordie_Bay.ST.1,Geordie_Bay.1.ST.2,147
+Armstrong,Geordie_Bay,Fished,1/17/2019,1600,1,ST,1,170,F,3,NA,1,Fished.Armstrong.Geordie_Bay.ST.1,Geordie_Bay.1.ST.3,148
+Armstrong,Geordie_Bay,Fished,1/17/2019,1600,1,ST,1,150,F,4,NA,1,Fished.Armstrong.Geordie_Bay.ST.1,Geordie_Bay.1.ST.4,149
+Armstrong,Geordie_Bay,Fished,1/17/2019,1600,1,ST,2,NA,NA,NA,No bare sand,0,Fished.Armstrong.Geordie_Bay.ST.2,Geordie_Bay.2.ST.NA,150
+Armstrong,Geordie_Bay,Fished,1/17/2019,1600,1,ST,3,NA,NA,NA,No bare sand,0,Fished.Armstrong.Geordie_Bay.ST.3,Geordie_Bay.3.ST.NA,151
+Armstrong,Geordie_Bay,Fished,1/17/2019,1600,1,ST,4,NA,NA,NA,No bare sand,0,Fished.Armstrong.Geordie_Bay.ST.4,Geordie_Bay.4.ST.NA,152
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,AT,1,200,F,1,NA,1,Fished.Green_Island.East_Strickland.AT.1,East_Strickland.1.AT.1,153
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,AT,2,100,F,2,NA,1,Fished.Green_Island.East_Strickland.AT.2,East_Strickland.2.AT.2,154
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,AT,3,200,M,3,NA,1,Fished.Green_Island.East_Strickland.AT.3,East_Strickland.3.AT.3,155
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,AT,3,200,F,4,NA,1,Fished.Green_Island.East_Strickland.AT.3,East_Strickland.3.AT.4,156
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,AT,4,110,F,5,NA,1,Fished.Green_Island.East_Strickland.AT.4,East_Strickland.4.AT.5,157
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,AT,5,200,F,6,NA,1,Fished.Green_Island.East_Strickland.AT.5,East_Strickland.5.AT.6,158
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,AT,5,200,F,6,NA,1,Fished.Green_Island.East_Strickland.AT.5,East_Strickland.5.AT.6,159
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,AT,5,200,F,6,NA,1,Fished.Green_Island.East_Strickland.AT.5,East_Strickland.5.AT.6,160
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,AT,5,200,F,6,NA,1,Fished.Green_Island.East_Strickland.AT.5,East_Strickland.5.AT.6,161
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,AT,5,200,F,6,NA,1,Fished.Green_Island.East_Strickland.AT.5,East_Strickland.5.AT.6,162
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,AT,5,150,F,7,NA,1,Fished.Green_Island.East_Strickland.AT.5,East_Strickland.5.AT.7,163
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,1,80,F,1,started 8.30am,1,Fished.Green_Island.East_Strickland.EPJ.1,East_Strickland.1.EPJ.1,164
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,1,200,F,2,NA,1,Fished.Green_Island.East_Strickland.EPJ.1,East_Strickland.1.EPJ.2,165
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,1,110,F,2,NA,1,Fished.Green_Island.East_Strickland.EPJ.1,East_Strickland.1.EPJ.2,166
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,1,190,F,3,NA,1,Fished.Green_Island.East_Strickland.EPJ.1,East_Strickland.1.EPJ.3,167
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,2,180,F,4,NA,1,Fished.Green_Island.East_Strickland.EPJ.2,East_Strickland.2.EPJ.4,168
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,2,120,F,5,NA,1,Fished.Green_Island.East_Strickland.EPJ.2,East_Strickland.2.EPJ.5,169
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,3,90,F,6,NA,1,Fished.Green_Island.East_Strickland.EPJ.3,East_Strickland.3.EPJ.6,170
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,3,100,F,6,NA,1,Fished.Green_Island.East_Strickland.EPJ.3,East_Strickland.3.EPJ.6,171
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,4,200,F,7,NA,1,Fished.Green_Island.East_Strickland.EPJ.4,East_Strickland.4.EPJ.7,172
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,4,100,F,7,NA,1,Fished.Green_Island.East_Strickland.EPJ.4,East_Strickland.4.EPJ.7,173
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,4,60,F,7,NA,1,Fished.Green_Island.East_Strickland.EPJ.4,East_Strickland.4.EPJ.7,174
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,4,80,F,7,NA,1,Fished.Green_Island.East_Strickland.EPJ.4,East_Strickland.4.EPJ.7,175
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,4,40,F,8,NA,1,Fished.Green_Island.East_Strickland.EPJ.4,East_Strickland.4.EPJ.8,176
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,4,75,F,8,NA,1,Fished.Green_Island.East_Strickland.EPJ.4,East_Strickland.4.EPJ.8,177
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,4,60,F,8,NA,1,Fished.Green_Island.East_Strickland.EPJ.4,East_Strickland.4.EPJ.8,178
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,4,55,F,8,NA,1,Fished.Green_Island.East_Strickland.EPJ.4,East_Strickland.4.EPJ.8,179
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,5,50,F,9,transect was a bit short due to conditions,1,Fished.Green_Island.East_Strickland.EPJ.5,East_Strickland.5.EPJ.9,180
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,5,80,F,9,NA,1,Fished.Green_Island.East_Strickland.EPJ.5,East_Strickland.5.EPJ.9,181
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,5,180,M,9,NA,1,Fished.Green_Island.East_Strickland.EPJ.5,East_Strickland.5.EPJ.9,182
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,120,F,1,NA,1,Fished.Green_Island.East_Strickland.ST.1,East_Strickland.1.ST.1,183
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,100,F,1,NA,1,Fished.Green_Island.East_Strickland.ST.1,East_Strickland.1.ST.1,184
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,110,F,1,NA,1,Fished.Green_Island.East_Strickland.ST.1,East_Strickland.1.ST.1,185
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,180,F,1,NA,1,Fished.Green_Island.East_Strickland.ST.1,East_Strickland.1.ST.1,186
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,290,F,1,NA,1,Fished.Green_Island.East_Strickland.ST.1,East_Strickland.1.ST.1,187
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,180,F,1,NA,1,Fished.Green_Island.East_Strickland.ST.1,East_Strickland.1.ST.1,188
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,150,F,1,NA,1,Fished.Green_Island.East_Strickland.ST.1,East_Strickland.1.ST.1,189
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,190,F,1,NA,1,Fished.Green_Island.East_Strickland.ST.1,East_Strickland.1.ST.1,190
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,120,F,1,NA,1,Fished.Green_Island.East_Strickland.ST.1,East_Strickland.1.ST.1,191
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,130,F,1,NA,1,Fished.Green_Island.East_Strickland.ST.1,East_Strickland.1.ST.1,192
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,160,F,1,NA,1,Fished.Green_Island.East_Strickland.ST.1,East_Strickland.1.ST.1,193
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,110,F,1,NA,1,Fished.Green_Island.East_Strickland.ST.1,East_Strickland.1.ST.1,194
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,120,F,1,NA,1,Fished.Green_Island.East_Strickland.ST.1,East_Strickland.1.ST.1,195
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,120,F,1,NA,1,Fished.Green_Island.East_Strickland.ST.1,East_Strickland.1.ST.1,196
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,190,F,1,NA,1,Fished.Green_Island.East_Strickland.ST.1,East_Strickland.1.ST.1,197
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,2,320,M,2,Mostly seagrass,1,Fished.Green_Island.East_Strickland.ST.2,East_Strickland.2.ST.2,198
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,2,180,F,3,Mostly seagrass,1,Fished.Green_Island.East_Strickland.ST.2,East_Strickland.2.ST.3,199
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,3,150,F,4,NA,1,Fished.Green_Island.East_Strickland.ST.3,East_Strickland.3.ST.4,200
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,3,140,F,5,NA,1,Fished.Green_Island.East_Strickland.ST.3,East_Strickland.3.ST.5,201
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,3,130,F,5,NA,1,Fished.Green_Island.East_Strickland.ST.3,East_Strickland.3.ST.5,202
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,3,180,F,5,NA,1,Fished.Green_Island.East_Strickland.ST.3,East_Strickland.3.ST.5,203
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,4,120,F,6,NA,1,Fished.Green_Island.East_Strickland.ST.4,East_Strickland.4.ST.6,204
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,4,120,F,7,NA,1,Fished.Green_Island.East_Strickland.ST.4,East_Strickland.4.ST.7,205
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,5,110,F,8,NA,1,Fished.Green_Island.East_Strickland.ST.5,East_Strickland.5.ST.8,206
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,5,110,F,8,NA,1,Fished.Green_Island.East_Strickland.ST.5,East_Strickland.5.ST.8,207
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,5,110,F,8,NA,1,Fished.Green_Island.East_Strickland.ST.5,East_Strickland.5.ST.8,208
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,5,110,F,8,NA,1,Fished.Green_Island.East_Strickland.ST.5,East_Strickland.5.ST.8,209
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,5,120,F,8,NA,1,Fished.Green_Island.East_Strickland.ST.5,East_Strickland.5.ST.8,210
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,5,120,F,8,NA,1,Fished.Green_Island.East_Strickland.ST.5,East_Strickland.5.ST.8,211
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,5,110,F,8,NA,1,Fished.Green_Island.East_Strickland.ST.5,East_Strickland.5.ST.8,212
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,5,220,F,8,NA,1,Fished.Green_Island.East_Strickland.ST.5,East_Strickland.5.ST.8,213
+Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,5,250,F,9,NA,1,Fished.Green_Island.East_Strickland.ST.5,East_Strickland.5.ST.9,214
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,1,120,F,1,NA,1,No-take.Green_Island.Green_Island.AT.1,Green_Island.1.AT.1,215
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,1,130,F,1,NA,1,No-take.Green_Island.Green_Island.AT.1,Green_Island.1.AT.1,216
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,1,70,F,1,NA,1,No-take.Green_Island.Green_Island.AT.1,Green_Island.1.AT.1,217
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,1,80,F,1,NA,1,No-take.Green_Island.Green_Island.AT.1,Green_Island.1.AT.1,218
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,1,180,F,2,NA,1,No-take.Green_Island.Green_Island.AT.1,Green_Island.1.AT.2,219
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,1,90,F,3,NA,1,No-take.Green_Island.Green_Island.AT.1,Green_Island.1.AT.3,220
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,2,150,F,4,NA,1,No-take.Green_Island.Green_Island.AT.2,Green_Island.2.AT.4,221
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,2,250,F,5,NA,1,No-take.Green_Island.Green_Island.AT.2,Green_Island.2.AT.5,222
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,2,300,M,6,NA,1,No-take.Green_Island.Green_Island.AT.2,Green_Island.2.AT.6,223
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,80,F,7,NA,1,No-take.Green_Island.Green_Island.AT.3,Green_Island.3.AT.7,224
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,90,F,8,NA,1,No-take.Green_Island.Green_Island.AT.3,Green_Island.3.AT.8,225
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,250,M,9,NA,1,No-take.Green_Island.Green_Island.AT.3,Green_Island.3.AT.9,226
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,90,F,9,NA,1,No-take.Green_Island.Green_Island.AT.3,Green_Island.3.AT.9,227
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,80,F,9,NA,1,No-take.Green_Island.Green_Island.AT.3,Green_Island.3.AT.9,228
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,70,F,9,NA,1,No-take.Green_Island.Green_Island.AT.3,Green_Island.3.AT.9,229
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,250,F,9,NA,1,No-take.Green_Island.Green_Island.AT.3,Green_Island.3.AT.9,230
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,120,F,9,NA,1,No-take.Green_Island.Green_Island.AT.3,Green_Island.3.AT.9,231
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,70,F,9,NA,1,No-take.Green_Island.Green_Island.AT.3,Green_Island.3.AT.9,232
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,170,F,10,NA,1,No-take.Green_Island.Green_Island.AT.3,Green_Island.3.AT.10,233
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,110,F,10,NA,1,No-take.Green_Island.Green_Island.AT.3,Green_Island.3.AT.10,234
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,120,F,10,NA,1,No-take.Green_Island.Green_Island.AT.3,Green_Island.3.AT.10,235
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,140,F,10,NA,1,No-take.Green_Island.Green_Island.AT.3,Green_Island.3.AT.10,236
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,60,F,10,NA,1,No-take.Green_Island.Green_Island.AT.3,Green_Island.3.AT.10,237
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,70,F,10,NA,1,No-take.Green_Island.Green_Island.AT.3,Green_Island.3.AT.10,238
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,250,M,10,NA,1,No-take.Green_Island.Green_Island.AT.3,Green_Island.3.AT.10,239
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,4,270,M,11,NA,1,No-take.Green_Island.Green_Island.AT.4,Green_Island.4.AT.11,240
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,4,70,F,12,NA,1,No-take.Green_Island.Green_Island.AT.4,Green_Island.4.AT.12,241
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,5,60,F,13,NA,1,No-take.Green_Island.Green_Island.AT.5,Green_Island.5.AT.13,242
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,5,180,F,14,NA,1,No-take.Green_Island.Green_Island.AT.5,Green_Island.5.AT.14,243
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,5,200,F,15,NA,1,No-take.Green_Island.Green_Island.AT.5,Green_Island.5.AT.15,244
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,5,200,F,15,NA,1,No-take.Green_Island.Green_Island.AT.5,Green_Island.5.AT.15,245
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,5,150,F,15,NA,1,No-take.Green_Island.Green_Island.AT.5,Green_Island.5.AT.15,246
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,5,300,M,15,NA,1,No-take.Green_Island.Green_Island.AT.5,Green_Island.5.AT.15,247
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,1,50,F,1,NA,1,No-take.Green_Island.Green_Island.EPJ.1,Green_Island.1.EPJ.1,248
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,1,40,F,1,NA,1,No-take.Green_Island.Green_Island.EPJ.1,Green_Island.1.EPJ.1,249
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,1,40,F,1,NA,1,No-take.Green_Island.Green_Island.EPJ.1,Green_Island.1.EPJ.1,250
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,1,80,F,2,NA,1,No-take.Green_Island.Green_Island.EPJ.1,Green_Island.1.EPJ.2,251
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,1,70,F,3,NA,1,No-take.Green_Island.Green_Island.EPJ.1,Green_Island.1.EPJ.3,252
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,1,75,F,4,NA,1,No-take.Green_Island.Green_Island.EPJ.1,Green_Island.1.EPJ.4,253
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,1,60,F,5,NA,1,No-take.Green_Island.Green_Island.EPJ.1,Green_Island.1.EPJ.5,254
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,1,75,F,6,NA,1,No-take.Green_Island.Green_Island.EPJ.1,Green_Island.1.EPJ.6,255
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,2,200,F,7,2-2.5 metres deep,1,No-take.Green_Island.Green_Island.EPJ.2,Green_Island.2.EPJ.7,256
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,2,75,F,7,NA,1,No-take.Green_Island.Green_Island.EPJ.2,Green_Island.2.EPJ.7,257
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,2,65,F,7,NA,1,No-take.Green_Island.Green_Island.EPJ.2,Green_Island.2.EPJ.7,258
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,2,50,F,7,NA,1,No-take.Green_Island.Green_Island.EPJ.2,Green_Island.2.EPJ.7,259
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,2,40,F,8,NA,1,No-take.Green_Island.Green_Island.EPJ.2,Green_Island.2.EPJ.8,260
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,3,100,F,9,NA,1,No-take.Green_Island.Green_Island.EPJ.3,Green_Island.3.EPJ.9,261
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,3,180,F,10,NA,1,No-take.Green_Island.Green_Island.EPJ.3,Green_Island.3.EPJ.10,262
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,3,40,F,11,NA,1,No-take.Green_Island.Green_Island.EPJ.3,Green_Island.3.EPJ.11,263
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,3,50,F,11,NA,1,No-take.Green_Island.Green_Island.EPJ.3,Green_Island.3.EPJ.11,264
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,4,190,F,12,NA,1,No-take.Green_Island.Green_Island.EPJ.4,Green_Island.4.EPJ.12,265
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,4,100,F,12,NA,1,No-take.Green_Island.Green_Island.EPJ.4,Green_Island.4.EPJ.12,266
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,4,100,F,13,NA,1,No-take.Green_Island.Green_Island.EPJ.4,Green_Island.4.EPJ.13,267
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,4,80,F,13,NA,1,No-take.Green_Island.Green_Island.EPJ.4,Green_Island.4.EPJ.13,268
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,4,50,F,13,NA,1,No-take.Green_Island.Green_Island.EPJ.4,Green_Island.4.EPJ.13,269
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,4,180,F,13,NA,1,No-take.Green_Island.Green_Island.EPJ.4,Green_Island.4.EPJ.13,270
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,4,200,F,13,NA,1,No-take.Green_Island.Green_Island.EPJ.4,Green_Island.4.EPJ.13,271
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,4,70,F,13,NA,1,No-take.Green_Island.Green_Island.EPJ.4,Green_Island.4.EPJ.13,272
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,4,60,F,13,NA,1,No-take.Green_Island.Green_Island.EPJ.4,Green_Island.4.EPJ.13,273
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,4,60,F,13,NA,1,No-take.Green_Island.Green_Island.EPJ.4,Green_Island.4.EPJ.13,274
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,4,40,J,14,NA,1,No-take.Green_Island.Green_Island.EPJ.4,Green_Island.4.EPJ.14,275
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,5,200,F,15,NA,1,No-take.Green_Island.Green_Island.EPJ.5,Green_Island.5.EPJ.15,276
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,5,190,F,15,NA,1,No-take.Green_Island.Green_Island.EPJ.5,Green_Island.5.EPJ.15,277
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,5,180,F,16,NA,1,No-take.Green_Island.Green_Island.EPJ.5,Green_Island.5.EPJ.16,278
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,5,80,F,16,NA,1,No-take.Green_Island.Green_Island.EPJ.5,Green_Island.5.EPJ.16,279
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,5,40,J,17,NA,1,No-take.Green_Island.Green_Island.EPJ.5,Green_Island.5.EPJ.17,280
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,1,220,F,1,NA,1,No-take.Green_Island.Green_Island.ST.1,Green_Island.1.ST.1,281
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,1,320,M,2,NA,1,No-take.Green_Island.Green_Island.ST.1,Green_Island.1.ST.2,282
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,1,150,F,3,NA,1,No-take.Green_Island.Green_Island.ST.1,Green_Island.1.ST.3,283
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,1,130,F,4,NA,1,No-take.Green_Island.Green_Island.ST.1,Green_Island.1.ST.4,284
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,2,NA,NA,NA,NA,0,No-take.Green_Island.Green_Island.ST.2,Green_Island.2.ST.NA,285
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,3,150,F,5,NA,1,No-take.Green_Island.Green_Island.ST.3,Green_Island.3.ST.5,286
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,280,F,5,NA,1,No-take.Green_Island.Green_Island.ST.4,Green_Island.4.ST.5,287
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,110,F,5,NA,1,No-take.Green_Island.Green_Island.ST.4,Green_Island.4.ST.5,288
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,110,F,5,NA,1,No-take.Green_Island.Green_Island.ST.4,Green_Island.4.ST.5,289
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,110,F,5,NA,1,No-take.Green_Island.Green_Island.ST.4,Green_Island.4.ST.5,290
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,120,F,5,NA,1,No-take.Green_Island.Green_Island.ST.4,Green_Island.4.ST.5,291
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,120,F,5,NA,1,No-take.Green_Island.Green_Island.ST.4,Green_Island.4.ST.5,292
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,120,F,5,NA,1,No-take.Green_Island.Green_Island.ST.4,Green_Island.4.ST.5,293
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,110,F,5,NA,1,No-take.Green_Island.Green_Island.ST.4,Green_Island.4.ST.5,294
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,110,F,5,NA,1,No-take.Green_Island.Green_Island.ST.4,Green_Island.4.ST.5,295
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,110,F,5,NA,1,No-take.Green_Island.Green_Island.ST.4,Green_Island.4.ST.5,296
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,110,F,5,NA,1,No-take.Green_Island.Green_Island.ST.4,Green_Island.4.ST.5,297
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,150,F,5,NA,1,No-take.Green_Island.Green_Island.ST.4,Green_Island.4.ST.5,298
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,130,F,5,NA,1,No-take.Green_Island.Green_Island.ST.4,Green_Island.4.ST.5,299
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,130,F,5,NA,1,No-take.Green_Island.Green_Island.ST.4,Green_Island.4.ST.5,300
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,180,F,5,NA,1,No-take.Green_Island.Green_Island.ST.4,Green_Island.4.ST.5,301
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,5,320,M,6,NA,1,No-take.Green_Island.Green_Island.ST.5,Green_Island.5.ST.6,302
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,5,150,F,6,NA,1,No-take.Green_Island.Green_Island.ST.5,Green_Island.5.ST.6,303
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,5,140,F,6,NA,1,No-take.Green_Island.Green_Island.ST.5,Green_Island.5.ST.6,304
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,5,220,F,6,NA,1,No-take.Green_Island.Green_Island.ST.5,Green_Island.5.ST.6,305
+Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,5,180,F,6,NA,1,No-take.Green_Island.Green_Island.ST.5,Green_Island.5.ST.6,306
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,1,100,J,1,NA,1,Fished.Armstrong.Ricey_Beach.AT.1,Ricey_Beach.1.AT.1,307
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,1,150,F,2,NA,1,Fished.Armstrong.Ricey_Beach.AT.1,Ricey_Beach.1.AT.2,308
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,1,150,F,3,NA,1,Fished.Armstrong.Ricey_Beach.AT.1,Ricey_Beach.1.AT.3,309
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,1,150,F,3,NA,1,Fished.Armstrong.Ricey_Beach.AT.1,Ricey_Beach.1.AT.3,310
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,1,150,F,3,NA,1,Fished.Armstrong.Ricey_Beach.AT.1,Ricey_Beach.1.AT.3,311
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,1,100,F,3,NA,1,Fished.Armstrong.Ricey_Beach.AT.1,Ricey_Beach.1.AT.3,312
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,2,250,F,4,NA,1,Fished.Armstrong.Ricey_Beach.AT.2,Ricey_Beach.2.AT.4,313
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,2,150,F,5,NA,1,Fished.Armstrong.Ricey_Beach.AT.2,Ricey_Beach.2.AT.5,314
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,3,150,F,6,NA,1,Fished.Armstrong.Ricey_Beach.AT.3,Ricey_Beach.3.AT.6,315
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,3,150,F,6,NA,1,Fished.Armstrong.Ricey_Beach.AT.3,Ricey_Beach.3.AT.6,316
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,3,150,F,6,NA,1,Fished.Armstrong.Ricey_Beach.AT.3,Ricey_Beach.3.AT.6,317
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,3,150,F,7,NA,1,Fished.Armstrong.Ricey_Beach.AT.3,Ricey_Beach.3.AT.7,318
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,3,150,F,8,NA,1,Fished.Armstrong.Ricey_Beach.AT.3,Ricey_Beach.3.AT.8,319
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,3,150,F,8,NA,1,Fished.Armstrong.Ricey_Beach.AT.3,Ricey_Beach.3.AT.8,320
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,3,150,F,9,NA,1,Fished.Armstrong.Ricey_Beach.AT.3,Ricey_Beach.3.AT.9,321
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,3,150,F,10,NA,1,Fished.Armstrong.Ricey_Beach.AT.3,Ricey_Beach.3.AT.10,322
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,3,350,M,11,NA,1,Fished.Armstrong.Ricey_Beach.AT.3,Ricey_Beach.3.AT.11,323
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,4,NA,NA,NA,NA,0,Fished.Armstrong.Ricey_Beach.AT.4,Ricey_Beach.4.AT.NA,324
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,5,150,F,12,NA,1,Fished.Armstrong.Ricey_Beach.AT.5,Ricey_Beach.5.AT.12,325
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,5,150,F,12,NA,1,Fished.Armstrong.Ricey_Beach.AT.5,Ricey_Beach.5.AT.12,326
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,5,150,F,12,NA,1,Fished.Armstrong.Ricey_Beach.AT.5,Ricey_Beach.5.AT.12,327
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,5,150,F,13,NA,1,Fished.Armstrong.Ricey_Beach.AT.5,Ricey_Beach.5.AT.13,328
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,5,150,F,13,NA,1,Fished.Armstrong.Ricey_Beach.AT.5,Ricey_Beach.5.AT.13,329
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,220,M,1,2m depth,1,Fished.Armstrong.Ricey_Beach.EPJ.1,Ricey_Beach.1.EPJ.1,330
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,75,F,1,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.1,Ricey_Beach.1.EPJ.1,331
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,70,F,1,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.1,Ricey_Beach.1.EPJ.1,332
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,60,F,1,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.1,Ricey_Beach.1.EPJ.1,333
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,50,F,1,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.1,Ricey_Beach.1.EPJ.1,334
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,90,F,1,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.1,Ricey_Beach.1.EPJ.1,335
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,60,F,1,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.1,Ricey_Beach.1.EPJ.1,336
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,70,F,2,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.1,Ricey_Beach.1.EPJ.2,337
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,100,F,2,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.1,Ricey_Beach.1.EPJ.2,338
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,220,F,3,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.1,Ricey_Beach.1.EPJ.3,339
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,250,F,3,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.1,Ricey_Beach.1.EPJ.3,340
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,150,F,3,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.1,Ricey_Beach.1.EPJ.3,341
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,50,F,3,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.1,Ricey_Beach.1.EPJ.3,342
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,60,F,3,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.1,Ricey_Beach.1.EPJ.3,343
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,70,F,3,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.1,Ricey_Beach.1.EPJ.3,344
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,95,F,3,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.1,Ricey_Beach.1.EPJ.3,345
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,55,F,3,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.1,Ricey_Beach.1.EPJ.3,346
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,100,F,3,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.1,Ricey_Beach.1.EPJ.3,347
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,150,F,4,shallow along reeF 0.5m to 1m,1,Fished.Armstrong.Ricey_Beach.EPJ.2,Ricey_Beach.2.EPJ.4,348
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,75,F,4,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.2,Ricey_Beach.2.EPJ.4,349
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,60,F,4,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.2,Ricey_Beach.2.EPJ.4,350
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,80,F,5,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.2,Ricey_Beach.2.EPJ.5,351
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,75,F,5,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.2,Ricey_Beach.2.EPJ.5,352
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,60,F,5,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.2,Ricey_Beach.2.EPJ.5,353
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,100,F,5,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.2,Ricey_Beach.2.EPJ.5,354
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,65,F,5,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.2,Ricey_Beach.2.EPJ.5,355
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,90,F,6,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.2,Ricey_Beach.2.EPJ.6,356
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,75,F,6,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.2,Ricey_Beach.2.EPJ.6,357
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,100,F,7,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.2,Ricey_Beach.2.EPJ.7,358
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,60,F,7,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.2,Ricey_Beach.2.EPJ.7,359
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,80,F,7,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.2,Ricey_Beach.2.EPJ.7,360
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,50,F,7,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.2,Ricey_Beach.2.EPJ.7,361
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,200,F,7,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.2,Ricey_Beach.2.EPJ.7,362
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,220,F,7,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.2,Ricey_Beach.2.EPJ.7,363
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,75,F,7,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.2,Ricey_Beach.2.EPJ.7,364
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,70,F,7,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.2,Ricey_Beach.2.EPJ.7,365
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,3,55,F,8,1m,1,Fished.Armstrong.Ricey_Beach.EPJ.3,Ricey_Beach.3.EPJ.8,366
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,3,80,F,9,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.3,Ricey_Beach.3.EPJ.9,367
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,30,J,10,rocky,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.10,368
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,120,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,369
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,130,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,370
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,50,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,371
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,60,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,372
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,60,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,373
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,60,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,374
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,50,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,375
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,90,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,376
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,80,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,377
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,85,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,378
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,70,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,379
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,50,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,380
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,55,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,381
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,50,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,382
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,55,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,383
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,150,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,384
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,50,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,385
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,60,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,386
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,70,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,387
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,55,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,388
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,75,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,389
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,65,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,390
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,50,F,11,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.11,391
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,190,F,12,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.12,392
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,55,F,12,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.12,393
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,60,F,12,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.12,394
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,50,F,12,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.12,395
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,70,F,12,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.12,396
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,80,F,12,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.12,397
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,60,F,12,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.12,398
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,80,F,12,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.12,399
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,70,F,12,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.4,Ricey_Beach.4.EPJ.12,400
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,100,F,13,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.5,Ricey_Beach.5.EPJ.13,401
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,90,F,13,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.5,Ricey_Beach.5.EPJ.13,402
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,75,F,13,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.5,Ricey_Beach.5.EPJ.13,403
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,60,F,13,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.5,Ricey_Beach.5.EPJ.13,404
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,50,F,13,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.5,Ricey_Beach.5.EPJ.13,405
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,120,F,14,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.5,Ricey_Beach.5.EPJ.14,406
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,95,F,14,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.5,Ricey_Beach.5.EPJ.14,407
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,80,F,14,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.5,Ricey_Beach.5.EPJ.14,408
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,70,F,14,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.5,Ricey_Beach.5.EPJ.14,409
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,70,F,14,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.5,Ricey_Beach.5.EPJ.14,410
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,60,F,14,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.5,Ricey_Beach.5.EPJ.14,411
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,50,F,14,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.5,Ricey_Beach.5.EPJ.14,412
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,50,F,14,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.5,Ricey_Beach.5.EPJ.14,413
+Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,60,F,14,NA,1,Fished.Armstrong.Ricey_Beach.EPJ.5,Ricey_Beach.5.EPJ.14,414
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,1,220,F,1,NA,1,Fished.Armstrong.Ricey_Beach.ST.1,Ricey_Beach.1.ST.1,415
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,1,200,F,2,NA,1,Fished.Armstrong.Ricey_Beach.ST.1,Ricey_Beach.1.ST.2,416
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,1,120,F,3,NA,1,Fished.Armstrong.Ricey_Beach.ST.1,Ricey_Beach.1.ST.3,417
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,1,110,F,4,NA,1,Fished.Armstrong.Ricey_Beach.ST.1,Ricey_Beach.1.ST.4,418
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,1,120,F,5,NA,1,Fished.Armstrong.Ricey_Beach.ST.1,Ricey_Beach.1.ST.5,419
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,80,F,6,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.6,420
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,90,F,6,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.6,421
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,100,F,6,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.6,422
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,250,F,7,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.7,423
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,180,F,7,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.7,424
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,130,F,7,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.7,425
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,110,F,7,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.7,426
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,150,F,7,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.7,427
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,190,F,8,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.8,428
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,170,F,8,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.8,429
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,180,F,8,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.8,430
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,160,F,8,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.8,431
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,160,F,8,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.8,432
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,160,F,8,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.8,433
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,160,F,8,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.8,434
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,150,F,8,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.8,435
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,150,F,8,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.8,436
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,150,F,8,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.8,437
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,110,F,8,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.8,438
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,110,F,8,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.8,439
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,110,F,8,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.8,440
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,110,F,8,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.8,441
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,100,F,8,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.8,442
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,100,F,8,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.8,443
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,200,F,8,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.8,444
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,200,F,8,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.8,445
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,150,F,8,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.8,446
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,180,F,8,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.8,447
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,180,F,8,NA,1,Fished.Armstrong.Ricey_Beach.ST.2,Ricey_Beach.2.ST.8,448
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,280,M,9,NA,1,Fished.Armstrong.Ricey_Beach.ST.3,Ricey_Beach.3.ST.9,449
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,130,F,9,NA,1,Fished.Armstrong.Ricey_Beach.ST.3,Ricey_Beach.3.ST.9,450
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,130,F,9,NA,1,Fished.Armstrong.Ricey_Beach.ST.3,Ricey_Beach.3.ST.9,451
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,130,F,9,NA,1,Fished.Armstrong.Ricey_Beach.ST.3,Ricey_Beach.3.ST.9,452
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,150,F,9,NA,1,Fished.Armstrong.Ricey_Beach.ST.3,Ricey_Beach.3.ST.9,453
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,150,F,9,NA,1,Fished.Armstrong.Ricey_Beach.ST.3,Ricey_Beach.3.ST.9,454
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,180,F,9,NA,1,Fished.Armstrong.Ricey_Beach.ST.3,Ricey_Beach.3.ST.9,455
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,180,F,9,NA,1,Fished.Armstrong.Ricey_Beach.ST.3,Ricey_Beach.3.ST.9,456
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,300,M,10,NA,1,Fished.Armstrong.Ricey_Beach.ST.3,Ricey_Beach.3.ST.10,457
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,80,J,11,NA,1,Fished.Armstrong.Ricey_Beach.ST.3,Ricey_Beach.3.ST.11,458
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,80,J,11,NA,1,Fished.Armstrong.Ricey_Beach.ST.3,Ricey_Beach.3.ST.11,459
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,70,J,11,NA,1,Fished.Armstrong.Ricey_Beach.ST.3,Ricey_Beach.3.ST.11,460
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,80,J,11,NA,1,Fished.Armstrong.Ricey_Beach.ST.3,Ricey_Beach.3.ST.11,461
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,80,J,11,NA,1,Fished.Armstrong.Ricey_Beach.ST.3,Ricey_Beach.3.ST.11,462
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,80,J,11,NA,1,Fished.Armstrong.Ricey_Beach.ST.3,Ricey_Beach.3.ST.11,463
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,4,90,F,12,NA,1,Fished.Armstrong.Ricey_Beach.ST.4,Ricey_Beach.4.ST.12,464
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,4,290,M,13,NA,1,Fished.Armstrong.Ricey_Beach.ST.4,Ricey_Beach.4.ST.13,465
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,4,220,F,13,NA,1,Fished.Armstrong.Ricey_Beach.ST.4,Ricey_Beach.4.ST.13,466
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,4,130,F,13,NA,1,Fished.Armstrong.Ricey_Beach.ST.4,Ricey_Beach.4.ST.13,467
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,4,140,F,13,NA,1,Fished.Armstrong.Ricey_Beach.ST.4,Ricey_Beach.4.ST.13,468
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,4,180,F,13,NA,1,Fished.Armstrong.Ricey_Beach.ST.4,Ricey_Beach.4.ST.13,469
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,4,170,F,14,NA,1,Fished.Armstrong.Ricey_Beach.ST.4,Ricey_Beach.4.ST.14,470
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,4,290,M,15,NA,1,Fished.Armstrong.Ricey_Beach.ST.4,Ricey_Beach.4.ST.15,471
+Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,5,270,M,16,NA,1,Fished.Armstrong.Ricey_Beach.ST.5,Ricey_Beach.5.ST.16,472
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,1,120,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.1,Little Salmon_Bay.1.EAA.1,473
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,1,250,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.1,Little Salmon_Bay.1.EAA.1,474
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,2,120,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.2,Little Salmon_Bay.2.EAA.1,475
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,2,400,M,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.2,Little Salmon_Bay.2.EAA.1,476
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,2,120,F,2,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.2,Little Salmon_Bay.2.EAA.2,477
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,2,120,F,2,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.2,Little Salmon_Bay.2.EAA.2,478
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,2,100,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.2,Little Salmon_Bay.2.EAA.1,479
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,2,80,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.2,Little Salmon_Bay.2.EAA.1,480
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,3,150,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.3,Little Salmon_Bay.3.EAA.1,481
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,3,380,M,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.3,Little Salmon_Bay.3.EAA.1,482
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,3,60,F,6,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.3,Little Salmon_Bay.3.EAA.6,483
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,3,60,F,6,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.3,Little Salmon_Bay.3.EAA.6,484
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,3,350,F,6,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.3,Little Salmon_Bay.3.EAA.6,485
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,3,420,M,6,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.3,Little Salmon_Bay.3.EAA.6,486
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,3,240,F,6,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.3,Little Salmon_Bay.3.EAA.6,487
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,3,240,F,6,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.3,Little Salmon_Bay.3.EAA.6,488
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,4,210,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.4,Little Salmon_Bay.4.EAA.1,489
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,4,200,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.4,Little Salmon_Bay.4.EAA.1,490
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,4,280,F,2,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.4,Little Salmon_Bay.4.EAA.2,491
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,4,120,F,2,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.4,Little Salmon_Bay.4.EAA.2,492
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,4,150,F,2,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.4,Little Salmon_Bay.4.EAA.2,493
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,4,150,F,2,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.4,Little Salmon_Bay.4.EAA.2,494
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,4,290,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.4,Little Salmon_Bay.4.EAA.1,495
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,5,140,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.5,Little Salmon_Bay.5.EAA.1,496
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,5,100,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.5,Little Salmon_Bay.5.EAA.1,497
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,5,120,F,3,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.5,Little Salmon_Bay.5.EAA.3,498
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,5,110,F,3,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.5,Little Salmon_Bay.5.EAA.3,499
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,5,200,F,3,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.5,Little Salmon_Bay.5.EAA.3,500
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,5,110,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.5,Little Salmon_Bay.5.EAA.1,501
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,5,310,F,3,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.5,Little Salmon_Bay.5.EAA.3,502
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,5,120,F,3,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.5,Little Salmon_Bay.5.EAA.3,503
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,5,100,F,3,NA,1,No-take.Parker_Pt.Little Salmon_Bay.EAA.5,Little Salmon_Bay.5.EAA.3,504
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,180,F,10,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.10,505
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,180,F,10,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.10,506
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,180,F,10,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.10,507
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,180,F,10,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.10,508
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,180,F,10,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.10,509
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,180,F,10,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.10,510
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,180,F,10,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.10,511
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,180,F,10,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.10,512
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,180,F,10,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.10,513
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,180,F,10,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.10,514
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,8,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.8,515
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,8,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.8,516
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,8,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.8,517
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,8,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.8,518
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,8,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.8,519
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,8,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.8,520
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,8,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.8,521
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,8,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.8,522
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.13,523
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.13,524
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.13,525
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.13,526
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.13,527
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.13,528
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.13,529
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.13,530
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.13,531
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.13,532
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.13,533
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.13,534
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.13,535
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,120,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.1,Little Salmon_Bay.1.AH.1,536
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,2,80,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.2,Little Salmon_Bay.2.AH.1,537
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,2,70,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.2,Little Salmon_Bay.2.AH.1,538
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,2,90,F,4,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.2,Little Salmon_Bay.2.AH.4,539
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,2,90,F,4,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.2,Little Salmon_Bay.2.AH.4,540
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,2,90,F,4,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.2,Little Salmon_Bay.2.AH.4,541
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,2,90,F,4,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.2,Little Salmon_Bay.2.AH.4,542
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,2,80,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.2,Little Salmon_Bay.2.AH.1,543
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,2,80,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.2,Little Salmon_Bay.2.AH.1,544
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,2,70,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.2,Little Salmon_Bay.2.AH.1,545
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,3,50,F,3,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.3,Little Salmon_Bay.3.AH.3,546
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,3,50,F,3,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.3,Little Salmon_Bay.3.AH.3,547
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,3,50,F,3,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.3,Little Salmon_Bay.3.AH.3,548
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,3,150,M,2,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.3,Little Salmon_Bay.3.AH.2,549
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,3,100,F,2,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.3,Little Salmon_Bay.3.AH.2,550
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,3,200,M,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.3,Little Salmon_Bay.3.AH.1,551
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,3,140,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.3,Little Salmon_Bay.3.AH.1,552
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,120,F,5,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.4,Little Salmon_Bay.4.AH.5,553
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,120,F,5,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.4,Little Salmon_Bay.4.AH.5,554
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,120,F,5,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.4,Little Salmon_Bay.4.AH.5,555
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,150,F,5,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.4,Little Salmon_Bay.4.AH.5,556
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,150,F,5,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.4,Little Salmon_Bay.4.AH.5,557
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,100,F,9,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.4,Little Salmon_Bay.4.AH.9,558
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,100,F,9,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.4,Little Salmon_Bay.4.AH.9,559
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,100,F,9,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.4,Little Salmon_Bay.4.AH.9,560
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,100,F,9,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.4,Little Salmon_Bay.4.AH.9,561
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,100,F,9,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.4,Little Salmon_Bay.4.AH.9,562
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,100,F,9,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.4,Little Salmon_Bay.4.AH.9,563
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,100,F,9,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.4,Little Salmon_Bay.4.AH.9,564
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,100,F,9,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.4,Little Salmon_Bay.4.AH.9,565
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,100,F,9,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.4,Little Salmon_Bay.4.AH.9,566
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,140,F,3,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.4,Little Salmon_Bay.4.AH.3,567
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,140,F,3,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.4,Little Salmon_Bay.4.AH.3,568
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,140,F,3,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.4,Little Salmon_Bay.4.AH.3,569
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,100,J,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.4,Little Salmon_Bay.4.AH.1,570
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,350,M,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.4,Little Salmon_Bay.4.AH.1,571
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,5,110,M,2,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.5,Little Salmon_Bay.5.AH.2,572
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,5,80,F,2,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.5,Little Salmon_Bay.5.AH.2,573
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,5,90,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.5,Little Salmon_Bay.5.AH.1,574
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,5,60,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.5,Little Salmon_Bay.5.AH.1,575
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,5,80,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.5,Little Salmon_Bay.5.AH.1,576
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,5,70,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.AH.5,Little Salmon_Bay.5.AH.1,577
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,1,100,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.1,Little Salmon_Bay.1.JH.1,578
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,1,100,F,2,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.1,Little Salmon_Bay.1.JH.2,579
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,1,120,F,2,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.1,Little Salmon_Bay.1.JH.2,580
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,1,250,M,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.1,Little Salmon_Bay.1.JH.1,581
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,1,90,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.1,Little Salmon_Bay.1.JH.1,582
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,1,90,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.1,Little Salmon_Bay.1.JH.1,583
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,1,110,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.1,Little Salmon_Bay.1.JH.1,584
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,1,95,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.1,Little Salmon_Bay.1.JH.1,585
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,2,100,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.2,Little Salmon_Bay.2.JH.1,586
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,2,150,F,2,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.2,Little Salmon_Bay.2.JH.2,587
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,2,110,F,2,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.2,Little Salmon_Bay.2.JH.2,588
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,2,90,F,2,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.2,Little Salmon_Bay.2.JH.2,589
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,2,110,F,2,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.2,Little Salmon_Bay.2.JH.2,590
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,2,110,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.2,Little Salmon_Bay.2.JH.1,591
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,2,110,F,2,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.2,Little Salmon_Bay.2.JH.2,592
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,2,100,F,2,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.2,Little Salmon_Bay.2.JH.2,593
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,2,105,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.2,Little Salmon_Bay.2.JH.1,594
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,2,120,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.2,Little Salmon_Bay.2.JH.1,595
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,3,220,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.3,Little Salmon_Bay.3.JH.1,596
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,3,90,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.3,Little Salmon_Bay.3.JH.1,597
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,3,90,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.3,Little Salmon_Bay.3.JH.1,598
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,3,250,F,3,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.3,Little Salmon_Bay.3.JH.3,599
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,3,120,F,3,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.3,Little Salmon_Bay.3.JH.3,600
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,3,110,F,3,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.3,Little Salmon_Bay.3.JH.3,601
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,4,200,F,3,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.4,Little Salmon_Bay.4.JH.3,602
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,4,100,F,3,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.4,Little Salmon_Bay.4.JH.3,603
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,4,110,F,3,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.4,Little Salmon_Bay.4.JH.3,604
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,4,110,F,3,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.4,Little Salmon_Bay.4.JH.3,605
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,4,70,J,3,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.4,Little Salmon_Bay.4.JH.3,606
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,4,110,F,3,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.4,Little Salmon_Bay.4.JH.3,607
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,5,110,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.5,Little Salmon_Bay.5.JH.1,608
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,5,110,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.5,Little Salmon_Bay.5.JH.1,609
+Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,5,130,F,1,NA,1,No-take.Parker_Pt.Little Salmon_Bay.JH.5,Little Salmon_Bay.5.JH.1,610
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,1,130,F,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.1,Little_Armstrong_Bay.1.AAE.1,611
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,1,200,F,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.1,Little_Armstrong_Bay.1.AAE.1,612
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,1,200,F,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.1,Little_Armstrong_Bay.1.AAE.1,613
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,1,200,F,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.1,Little_Armstrong_Bay.1.AAE.1,614
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,1,200,F,2,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.1,Little_Armstrong_Bay.1.AAE.2,615
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,1,100,J,2,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.1,Little_Armstrong_Bay.1.AAE.2,616
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,2,400,M,7,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.2,Little_Armstrong_Bay.2.AAE.7,617
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,2,150,F,7,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.2,Little_Armstrong_Bay.2.AAE.7,618
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,2,150,F,7,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.2,Little_Armstrong_Bay.2.AAE.7,619
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,2,150,F,7,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.2,Little_Armstrong_Bay.2.AAE.7,620
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,2,150,F,7,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.2,Little_Armstrong_Bay.2.AAE.7,621
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,2,150,F,7,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.2,Little_Armstrong_Bay.2.AAE.7,622
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,2,150,F,7,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.2,Little_Armstrong_Bay.2.AAE.7,623
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,2,150,F,7,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.2,Little_Armstrong_Bay.2.AAE.7,624
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,2,100,F,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.2,Little_Armstrong_Bay.2.AAE.1,625
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,2,200,F,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.2,Little_Armstrong_Bay.2.AAE.1,626
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,3,200,F,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.3,Little_Armstrong_Bay.3.AAE.1,627
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,3,200,F,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.3,Little_Armstrong_Bay.3.AAE.1,628
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,3,200,F,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.3,Little_Armstrong_Bay.3.AAE.1,629
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,3,150,F,6,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.3,Little_Armstrong_Bay.3.AAE.6,630
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,3,150,F,6,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.3,Little_Armstrong_Bay.3.AAE.6,631
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,3,150,F,6,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.3,Little_Armstrong_Bay.3.AAE.6,632
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,3,150,F,6,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.3,Little_Armstrong_Bay.3.AAE.6,633
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,3,150,F,6,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.3,Little_Armstrong_Bay.3.AAE.6,634
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,3,300,M,6,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.3,Little_Armstrong_Bay.3.AAE.6,635
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,4,170,F,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.4,Little_Armstrong_Bay.4.AAE.1,636
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,4,170,F,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.4,Little_Armstrong_Bay.4.AAE.1,637
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,5,150,F,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.5,Little_Armstrong_Bay.5.AAE.1,638
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,5,150,F,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.5,Little_Armstrong_Bay.5.AAE.1,639
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,640
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,641
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,642
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,643
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,644
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,645
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,646
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,647
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,648
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,649
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,650
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,651
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,652
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,653
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,654
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,655
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,656
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,657
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,658
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,659
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,660
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,661
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,662
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,663
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,664
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,665
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,666
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,667
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,668
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,669
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,670
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,671
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,672
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,673
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,674
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,675
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,676
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,677
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,678
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,679
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,680
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,681
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,682
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,683
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,684
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,685
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,686
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,687
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,688
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,689
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,690
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,691
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,692
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,693
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,694
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,695
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,696
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,697
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,698
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,699
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,700
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,701
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,702
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,703
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,704
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,705
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,706
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,707
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,708
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,709
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,710
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,711
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,712
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,713
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,714
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,715
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,716
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,717
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,718
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,719
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,720
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,721
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,722
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,723
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,724
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,725
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,726
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,727
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,728
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,729
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,730
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,731
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,732
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,733
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,734
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,735
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,736
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,737
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,738
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.6,Little_Armstrong_Bay.6.AAE.100,739
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,740
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,741
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,742
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,743
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,744
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,745
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,746
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,747
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,748
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,749
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,750
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,751
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,752
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,753
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,754
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,755
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,756
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,757
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,758
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,759
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,760
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,761
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,762
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,763
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,764
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,765
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,766
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,767
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,768
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,769
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,770
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,771
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,772
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,773
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,774
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,775
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,776
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,777
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,778
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,779
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,780
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,781
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,782
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,783
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,784
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,785
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,786
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,787
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,788
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.7,Little_Armstrong_Bay.7.AAE.50,789
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,8,250,F,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.8,Little_Armstrong_Bay.8.AAE.1,790
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,9,100,F,6,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.9,Little_Armstrong_Bay.9.AAE.6,791
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,9,100,F,6,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.9,Little_Armstrong_Bay.9.AAE.6,792
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,9,100,F,6,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.9,Little_Armstrong_Bay.9.AAE.6,793
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,9,100,F,6,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.9,Little_Armstrong_Bay.9.AAE.6,794
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,9,100,F,6,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.9,Little_Armstrong_Bay.9.AAE.6,795
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,9,100,F,6,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.9,Little_Armstrong_Bay.9.AAE.6,796
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,9,100,F,3,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.9,Little_Armstrong_Bay.9.AAE.3,797
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,9,100,F,3,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.9,Little_Armstrong_Bay.9.AAE.3,798
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,9,350,M,3,NA,1,No-take.Armstrong.Little_Armstrong_Bay.AAE.9,Little_Armstrong_Bay.9.AAE.3,799
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,10,NA,NA,NA,NA,0,No-take.Armstrong.Little_Armstrong_Bay.AAE.10,Little_Armstrong_Bay.10.AAE.NA,800
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,1,NA,NA,NA,NA,0,No-take.Armstrong.Little_Armstrong_Bay.THJ.1,Little_Armstrong_Bay.1.THJ.NA,801
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,2,300,M,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.2,Little_Armstrong_Bay.2.THJ.1,802
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,3,300,M,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.3,Little_Armstrong_Bay.3.THJ.1,803
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,4,250,F,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.4,Little_Armstrong_Bay.4.THJ.1,804
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,4,180,F,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.4,Little_Armstrong_Bay.4.THJ.1,805
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,5,100,F,4,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.5,Little_Armstrong_Bay.5.THJ.4,806
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,5,150,F,4,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.5,Little_Armstrong_Bay.5.THJ.4,807
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,5,160,F,4,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.5,Little_Armstrong_Bay.5.THJ.4,808
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,5,200,F,4,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.5,Little_Armstrong_Bay.5.THJ.4,809
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,5,300,M,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.5,Little_Armstrong_Bay.5.THJ.1,810
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,5,180,F,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.5,Little_Armstrong_Bay.5.THJ.1,811
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,6,350,M,4,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.6,Little_Armstrong_Bay.6.THJ.4,812
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,6,180,F,4,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.6,Little_Armstrong_Bay.6.THJ.4,813
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,6,120,F,4,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.6,Little_Armstrong_Bay.6.THJ.4,814
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,6,110,F,4,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.6,Little_Armstrong_Bay.6.THJ.4,815
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,6,280,F,3,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.6,Little_Armstrong_Bay.6.THJ.3,816
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,6,300,F,3,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.6,Little_Armstrong_Bay.6.THJ.3,817
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,6,180,F,3,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.6,Little_Armstrong_Bay.6.THJ.3,818
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,7,110,F,3,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.7,Little_Armstrong_Bay.7.THJ.3,819
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,7,120,F,3,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.7,Little_Armstrong_Bay.7.THJ.3,820
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,7,75,J,3,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.7,Little_Armstrong_Bay.7.THJ.3,821
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,7,100,F,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.7,Little_Armstrong_Bay.7.THJ.1,822
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,8,80,F,7,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.8,Little_Armstrong_Bay.8.THJ.7,823
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,8,80,F,7,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.8,Little_Armstrong_Bay.8.THJ.7,824
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,8,80,F,7,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.8,Little_Armstrong_Bay.8.THJ.7,825
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,8,90,F,7,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.8,Little_Armstrong_Bay.8.THJ.7,826
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,8,90,F,7,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.8,Little_Armstrong_Bay.8.THJ.7,827
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,8,90,F,7,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.8,Little_Armstrong_Bay.8.THJ.7,828
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,8,100,F,7,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.8,Little_Armstrong_Bay.8.THJ.7,829
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,8,70,J,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.8,Little_Armstrong_Bay.8.THJ.1,830
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,8,120,F,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.8,Little_Armstrong_Bay.8.THJ.1,831
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,9,280,F,1,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.9,Little_Armstrong_Bay.9.THJ.1,832
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,9,190,F,3,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.9,Little_Armstrong_Bay.9.THJ.3,833
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,9,150,F,3,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.9,Little_Armstrong_Bay.9.THJ.3,834
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,9,130,F,3,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.9,Little_Armstrong_Bay.9.THJ.3,835
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,10,220,F,3,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.10,Little_Armstrong_Bay.10.THJ.3,836
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,10,150,F,3,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.10,Little_Armstrong_Bay.10.THJ.3,837
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,10,160,F,3,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.10,Little_Armstrong_Bay.10.THJ.3,838
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,10,180,F,3,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.10,Little_Armstrong_Bay.10.THJ.3,839
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,10,150,F,3,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.10,Little_Armstrong_Bay.10.THJ.3,840
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,10,110,F,3,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.10,Little_Armstrong_Bay.10.THJ.3,841
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,10,180,F,4,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.10,Little_Armstrong_Bay.10.THJ.4,842
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,10,150,F,4,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.10,Little_Armstrong_Bay.10.THJ.4,843
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,10,160,F,4,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.10,Little_Armstrong_Bay.10.THJ.4,844
+Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,10,110,F,4,NA,1,No-take.Armstrong.Little_Armstrong_Bay.THJ.10,Little_Armstrong_Bay.10.THJ.4,845
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,1,NA,NA,NA,NA,0,Fished.Armstrong.Parakeet_Bay.AAE.1,Parakeet_Bay.1.AAE.NA,846
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,100,F,1,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.2,Parakeet_Bay.2.AAE.1,847
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,100,F,1,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.2,Parakeet_Bay.2.AAE.1,848
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,100,F,1,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.2,Parakeet_Bay.2.AAE.1,849
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,100,F,1,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.2,Parakeet_Bay.2.AAE.1,850
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,100,F,1,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.2,Parakeet_Bay.2.AAE.1,851
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,100,F,1,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.2,Parakeet_Bay.2.AAE.1,852
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,100,F,1,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.2,Parakeet_Bay.2.AAE.1,853
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,160,F,2,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.2,Parakeet_Bay.2.AAE.2,854
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,160,F,2,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.2,Parakeet_Bay.2.AAE.2,855
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,160,F,2,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.2,Parakeet_Bay.2.AAE.2,856
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.2,Parakeet_Bay.2.AAE.3,857
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.2,Parakeet_Bay.2.AAE.3,858
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.2,Parakeet_Bay.2.AAE.3,859
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.2,Parakeet_Bay.2.AAE.3,860
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.2,Parakeet_Bay.2.AAE.3,861
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.2,Parakeet_Bay.2.AAE.3,862
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.2,Parakeet_Bay.2.AAE.3,863
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.2,Parakeet_Bay.2.AAE.3,864
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.2,Parakeet_Bay.2.AAE.3,865
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.2,Parakeet_Bay.2.AAE.3,866
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.2,Parakeet_Bay.2.AAE.3,867
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.2,Parakeet_Bay.2.AAE.3,868
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,3,NA,NA,NA,NA,0,Fished.Armstrong.Parakeet_Bay.AAE.3,Parakeet_Bay.3.AAE.NA,869
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,4,160,F,4,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.4,Parakeet_Bay.4.AAE.4,870
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,4,160,F,4,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.4,Parakeet_Bay.4.AAE.4,871
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,4,160,F,4,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.4,Parakeet_Bay.4.AAE.4,872
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,4,160,F,4,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.4,Parakeet_Bay.4.AAE.4,873
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,4,160,F,4,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.4,Parakeet_Bay.4.AAE.4,874
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,4,100,F,4,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.4,Parakeet_Bay.4.AAE.4,875
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,4,100,F,4,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.4,Parakeet_Bay.4.AAE.4,876
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,5,200,F,5,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.5,Parakeet_Bay.5.AAE.5,877
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,5,250,F,6,NA,1,Fished.Armstrong.Parakeet_Bay.AAE.5,Parakeet_Bay.5.AAE.6,878
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,1,150,F,1,NA,1,Fished.Armstrong.Longreach_Bay.AAE.1,Longreach_Bay.1.AAE.1,879
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,1,200,F,2,NA,1,Fished.Armstrong.Longreach_Bay.AAE.1,Longreach_Bay.1.AAE.2,880
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,1,180,F,3,NA,1,Fished.Armstrong.Longreach_Bay.AAE.1,Longreach_Bay.1.AAE.3,881
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,2,NA,NA,NA,NA,0,Fished.Armstrong.Longreach_Bay.AAE.2,Longreach_Bay.2.AAE.NA,882
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,3,100,F,4,NA,1,Fished.Armstrong.Longreach_Bay.AAE.3,Longreach_Bay.3.AAE.4,883
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,3,100,F,4,NA,1,Fished.Armstrong.Longreach_Bay.AAE.3,Longreach_Bay.3.AAE.4,884
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,3,180,F,4,NA,1,Fished.Armstrong.Longreach_Bay.AAE.3,Longreach_Bay.3.AAE.4,885
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,4,120,F,5,NA,1,Fished.Armstrong.Longreach_Bay.AAE.4,Longreach_Bay.4.AAE.5,886
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,4,130,F,6,NA,1,Fished.Armstrong.Longreach_Bay.AAE.4,Longreach_Bay.4.AAE.6,887
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,4,100,F,7,NA,1,Fished.Armstrong.Longreach_Bay.AAE.4,Longreach_Bay.4.AAE.7,888
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,4,60,F,8,NA,1,Fished.Armstrong.Longreach_Bay.AAE.4,Longreach_Bay.4.AAE.8,889
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,4,90,F,9,NA,1,Fished.Armstrong.Longreach_Bay.AAE.4,Longreach_Bay.4.AAE.9,890
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,4,250,F,10,NA,1,Fished.Armstrong.Longreach_Bay.AAE.4,Longreach_Bay.4.AAE.10,891
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,4,170,F,10,NA,1,Fished.Armstrong.Longreach_Bay.AAE.4,Longreach_Bay.4.AAE.10,892
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,5,NA,NA,NA,NA,0,Fished.Armstrong.Longreach_Bay.AAE.5,Longreach_Bay.5.AAE.NA,893
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,1,140,F,1,NA,1,Fished.Armstrong.Parakeet_Bay.HA.1,Parakeet_Bay.1.HA.1,894
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,1,120,F,2,NA,1,Fished.Armstrong.Parakeet_Bay.HA.1,Parakeet_Bay.1.HA.2,895
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,1,80,F,3,NA,1,Fished.Armstrong.Parakeet_Bay.HA.1,Parakeet_Bay.1.HA.3,896
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,2,90,F,4,NA,1,Fished.Armstrong.Parakeet_Bay.HA.2,Parakeet_Bay.2.HA.4,897
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,3,50,F,5,NA,1,Fished.Armstrong.Parakeet_Bay.HA.3,Parakeet_Bay.3.HA.5,898
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,3,90,F,5,NA,1,Fished.Armstrong.Parakeet_Bay.HA.3,Parakeet_Bay.3.HA.5,899
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,3,90,F,5,NA,1,Fished.Armstrong.Parakeet_Bay.HA.3,Parakeet_Bay.3.HA.5,900
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,3,90,F,5,NA,1,Fished.Armstrong.Parakeet_Bay.HA.3,Parakeet_Bay.3.HA.5,901
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,3,100,F,5,NA,1,Fished.Armstrong.Parakeet_Bay.HA.3,Parakeet_Bay.3.HA.5,902
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,3,100,F,5,NA,1,Fished.Armstrong.Parakeet_Bay.HA.3,Parakeet_Bay.3.HA.5,903
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,3,90,F,6,NA,1,Fished.Armstrong.Parakeet_Bay.HA.3,Parakeet_Bay.3.HA.6,904
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,3,90,F,6,NA,1,Fished.Armstrong.Parakeet_Bay.HA.3,Parakeet_Bay.3.HA.6,905
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,4,80,F,7,NA,1,Fished.Armstrong.Parakeet_Bay.HA.4,Parakeet_Bay.4.HA.7,906
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,5,NA,NA,NA,NA,0,Fished.Armstrong.Parakeet_Bay.HA.5,Parakeet_Bay.5.HA.NA,907
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,1,200,F,1,NA,1,Fished.Armstrong.Longreach_Bay.HA.1,Longreach_Bay.1.HA.1,908
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,1,200,F,1,NA,1,Fished.Armstrong.Longreach_Bay.HA.1,Longreach_Bay.1.HA.1,909
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,2,NA,NA,NA,NA,0,Fished.Armstrong.Longreach_Bay.HA.2,Longreach_Bay.2.HA.NA,910
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,3,250,F,2,NA,1,Fished.Armstrong.Longreach_Bay.HA.3,Longreach_Bay.3.HA.2,911
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,3,300,M,2,NA,1,Fished.Armstrong.Longreach_Bay.HA.3,Longreach_Bay.3.HA.2,912
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,3,100,F,2,NA,1,Fished.Armstrong.Longreach_Bay.HA.3,Longreach_Bay.3.HA.2,913
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,3,100,F,2,NA,1,Fished.Armstrong.Longreach_Bay.HA.3,Longreach_Bay.3.HA.2,914
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,4,NA,NA,NA,NA,0,Fished.Armstrong.Longreach_Bay.HA.4,Longreach_Bay.4.HA.NA,915
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,5,200,F,3,NA,1,Fished.Armstrong.Longreach_Bay.HA.5,Longreach_Bay.5.HA.3,916
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,5,200,F,3,NA,1,Fished.Armstrong.Longreach_Bay.HA.5,Longreach_Bay.5.HA.3,917
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,5,150,F,3,NA,1,Fished.Armstrong.Longreach_Bay.HA.5,Longreach_Bay.5.HA.3,918
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,5,150,F,3,NA,1,Fished.Armstrong.Longreach_Bay.HA.5,Longreach_Bay.5.HA.3,919
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,5,150,F,3,NA,1,Fished.Armstrong.Longreach_Bay.HA.5,Longreach_Bay.5.HA.3,920
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,5,150,F,3,NA,1,Fished.Armstrong.Longreach_Bay.HA.5,Longreach_Bay.5.HA.3,921
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,5,150,F,3,NA,1,Fished.Armstrong.Longreach_Bay.HA.5,Longreach_Bay.5.HA.3,922
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,1,100,F,1,NA,1,Fished.Armstrong.Parakeet_Bay.JH.1,Parakeet_Bay.1.JH.1,923
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,2,140,F,2,NA,1,Fished.Armstrong.Parakeet_Bay.JH.2,Parakeet_Bay.2.JH.2,924
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,3,140,F,3,NA,1,Fished.Armstrong.Parakeet_Bay.JH.3,Parakeet_Bay.3.JH.3,925
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,3,110,F,3,NA,1,Fished.Armstrong.Parakeet_Bay.JH.3,Parakeet_Bay.3.JH.3,926
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,3,150,F,3,NA,1,Fished.Armstrong.Parakeet_Bay.JH.3,Parakeet_Bay.3.JH.3,927
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,4,130,F,4,NA,1,Fished.Armstrong.Parakeet_Bay.JH.4,Parakeet_Bay.4.JH.4,928
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,5,100,F,5,NA,1,Fished.Armstrong.Parakeet_Bay.JH.5,Parakeet_Bay.5.JH.5,929
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,5,110,F,5,NA,1,Fished.Armstrong.Parakeet_Bay.JH.5,Parakeet_Bay.5.JH.5,930
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,5,130,F,6,NA,1,Fished.Armstrong.Parakeet_Bay.JH.5,Parakeet_Bay.5.JH.6,931
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,5,100,F,7,NA,1,Fished.Armstrong.Parakeet_Bay.JH.5,Parakeet_Bay.5.JH.7,932
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,5,100,F,7,NA,1,Fished.Armstrong.Parakeet_Bay.JH.5,Parakeet_Bay.5.JH.7,933
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,5,140,F,8,NA,1,Fished.Armstrong.Parakeet_Bay.JH.5,Parakeet_Bay.5.JH.8,934
+Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,5,130,F,8,NA,1,Fished.Armstrong.Parakeet_Bay.JH.5,Parakeet_Bay.5.JH.8,935
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,JH,1,120,F,1,NA,1,Fished.Armstrong.Longreach_Bay.JH.1,Longreach_Bay.1.JH.1,936
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,JH,2,110,F,2,NA,1,Fished.Armstrong.Longreach_Bay.JH.2,Longreach_Bay.2.JH.2,937
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,JH,2,110,F,2,NA,1,Fished.Armstrong.Longreach_Bay.JH.2,Longreach_Bay.2.JH.2,938
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,JH,3,110,F,3,NA,1,Fished.Armstrong.Longreach_Bay.JH.3,Longreach_Bay.3.JH.3,939
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,JH,3,110,F,3,NA,1,Fished.Armstrong.Longreach_Bay.JH.3,Longreach_Bay.3.JH.3,940
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,JH,3,110,F,3,NA,1,Fished.Armstrong.Longreach_Bay.JH.3,Longreach_Bay.3.JH.3,941
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,JH,4,NA,NA,NA,NA,0,Fished.Armstrong.Longreach_Bay.JH.4,Longreach_Bay.4.JH.NA,942
+Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,JH,5,NA,NA,NA,NA,0,Fished.Armstrong.Longreach_Bay.JH.5,Longreach_Bay.5.JH.NA,943

@@ -6,9 +6,7 @@
 
 ##  What are we going to do with the data?----
 ##  1. Import data
-##  2. Rough-Plot of the data to explore and look for outliers.
-##  3. Calculate counts by stage.
-##  4. Check and save the data
+
 
 
 
@@ -23,7 +21,7 @@ library(tidyr) #to tody data
 library(dplyr) #to transform data
 library(forcats) #to transform catagorical data
 library(readr) #to write data
-library(ggplot2) #to plot data
+
 
 
 
@@ -54,160 +52,26 @@ data.dir=paste(work.dir,"Data",sep="/")
 
 # Read in the data from gsheet and check it----
 
-# For Rstudio Desktop
-options(httr_oob_default=FALSE) 
+# # For Rstudio Desktop
+# options(httr_oob_default=FALSE) 
 
-# For Rstudio Server
+# # For Rstudio Server
 # options(httr_oob_default=TRUE) 
 # gs_auth(new_user = TRUE) 
 
 
 gs_ls() #list gsheets you have access to
 
-dat <- gs_title("BIOL4408.western.king.wrasse")%>% #select the gsheet
+gsheet.dat <- gs_title("BIOL4408.western.king.wrasse")%>% #select the gsheet
   gs_read_csv(ws = "western.king.wrasse") #select the worksheet within the workbook
 
 
-glimpse(dat) #glimpse the data
+glimpse(gsheet.dat) #glimpse the data
 #variable names, formats, head of the data
 
-
-unique(dat$status) #unique levels of status
-unique(dat$sanctuary) #unique levels of sanctuary
-unique(dat$site) #unique levels of site
-
-unique(dat$group.no) #this is not correct
-
-unique(dat$groupID) #this is important to make a unique transect number
-
-
-unique(dat$transect)
-#looks consistent
-
-unique(dat$stage)
-#does not look consistent - need to change j to J
-
-unique(dat$school)
-#looks OK - the NA's are no WKW in a transect
-
-
-
-# Read in the data from gsheet and make corrections and re-format----
-dat <- gs_title("BIOL4408.western.king.wrasse")%>% 
-  gs_read_csv(ws = "western.king.wrasse") %>%
-#recode the stage names
-    dplyr::mutate(stage = fct_recode(stage,
-                           "J" = "j"))%>%
   
-  dplyr::mutate(number= ifelse(is.na(length.mm), 0, 1))%>%
-  #remove the levels for the filtered facotrs
-    droplevels()%>%
-  
-  # Make a unique transect.id
-  dplyr::mutate(transect.id=paste(status,sanctuary,site,groupID,transect,sep="."))%>%
-  
-  # Make a unique school.id
-  dplyr::mutate(school.id=paste(site,transect,groupID,school,sep="."))%>%
-  
-  # Make a unique row.id
-  dplyr::mutate(row.id=1:nrow(.))%>%
-  
-    glimpse()
-
-
-# Basic plots to check out the data----
-
-# Box plot (looks better with length data)----
-ggplot(dat, aes(x=status, y=length.mm)) + 
-  geom_boxplot(outlier.shape = NA, notch=FALSE, width=0.8)+
-  geom_point(position = position_jitter(width = 0.1, h = 0),alpha = 1/4, size=1)+
-  stat_summary(fun.y=mean, geom="point", shape=2, size=4)
-
-ggplot(dat, aes(x=status, y=length.mm)) + 
-  geom_boxplot(outlier.shape = NA, notch=FALSE, width=0.8)+
-  geom_point(position = position_jitter(width = 0.1, h = 0),alpha = 1/4, size=1)+
-  stat_summary(fun.y=mean, geom="point", shape=2, size=4)+
-  facet_grid(stage~sanctuary)
-
-
-  
-  # Save the long data----
-glimpse(dat)  
+  # Save the gsheet data----
 setwd(data.dir) #set the directory
   dir() #look in the directory
-  write_csv(dat,paste(study,Sys.Date(),"csv",sep = "."))
+  write_csv(gsheet.dat,paste(study,"gsheet.dat","csv",sep = "."))
   
-  
-
-#Ratio of males to females per transect - only where males present and count of schools-----
-# Use dat and make new variables of sum Male/Female/Juvenilles per transect and calculate ratios-----
-  glimpse(dat)
-  
-
-  # Count of each stage--
-wide.dat<-dat %>%
-  group_by(sanctuary,status,site,transect.id,stage)%>%
-  dplyr::summarise(count=sum(number))%>%
-  spread(stage,count, fill = 0)%>%  #make wide
-  glimpse()
-  
-  
-# Count of schools--
-schools.dat<-dat %>%
-  filter(!is.na(length.mm))%>%
-  group_by(sanctuary,status,site,transect.id)%>%
-  dplyr::summarise(school.count=n_distinct(school.id))%>%
-  glimpse()
-
-
-# Summary data---
-sum.dat<-wide.dat%>%
-left_join(schools.dat)%>% #bring in the school data
-  mutate(school.count = replace_na(school.count,0))%>% #add in zeros for schools
-  select(-`<NA>`)%>% #dropping the NA stage for transect with no fish
-  gather(key="metric",value="count",`F`, M,J,school.count)%>%
-  # make a unique sample number
-  ungroup()%>%
-  dplyr::mutate(sample.no=1:nrow(.))%>%
-  glimpse()
-
-unique(sum.dat$metric)
-
-
-# Ratio of F to M---
-ratio.dat<-wide.dat%>%
-  filter(M>0)%>%
-  dplyr::mutate(FtoM = `F`/M)%>%
-  select(-c(`<NA>`,M,J,`F`))%>%
-  dplyr::rename(count=FtoM)%>%
-  glimpse()
-
-
-
-
-# Basic plots to check out the data----
-
-# functions for summarising data in plots
-se <- function(x) sd(x) / sqrt(length(x))
-se.min <- function(x) (mean(x)) - se(x)
-se.max <- function(x) (mean(x)) + se(x)
-
-
-# Barplot By Status----
-ggplot(sum.dat, aes(x=status, y=count,fill=status)) + 
-  stat_summary(fun.y=mean, geom="bar") +
-  stat_summary(fun.ymin = se.min, fun.ymax = se.max, geom = "errorbar", width = 0.1)+
-facet_grid(metric~sanctuary, scales = "free")
-
-ggplot(ratio.dat, aes(x=status, y=count,fill=status)) + 
-  stat_summary(fun.y=mean, geom="bar") +
-  stat_summary(fun.ymin = se.min, fun.ymax = se.max, geom = "errorbar", width = 0.1)+
-  facet_grid(.~sanctuary, scales = "free")
-
-
-# Write the data----
-setwd(data.dir) #set the directory
-dir() #look in the directory
-write_csv(sum.dat,paste(study,"summary",Sys.Date(),"csv",sep = "."))
-write_csv(ratio.dat,paste(study,"ratio",Sys.Date(),"csv",sep = "."))
-

@@ -57,10 +57,12 @@ dir()
 
 # Read from local file
 gsheet.dat<-read_csv("lobster.density.gsheet.csv")
-
+# OR
 #Read from github
-gsheet.dat<- <-read_csv(text=getURL("https://raw.githubusercontent.com/beckyfisher/FSSgam/master/case_study2_dataset.csv?token=AOSO6uyYhat9-Era46nbjALQpTydsTskks5ZY3vhwA%3D%3D"))%>%
+gsheet.dat<-read.csv(text=getURL("https://raw.githubusercontent.com/TimLanglois/BIOL4408/master/Analysis_Lobster_density/Data/lobster.density.gsheet.csv"))
 
+  
+  
 
 glimpse(gsheet.dat) #glimpse the data
 #variable names, formats, head of the data
