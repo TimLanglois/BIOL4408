@@ -96,7 +96,7 @@ factors<-dat%>%
 
 # Make the covariate data----
 covariates<-dat%>%
-  select(sample.no,complexity,algal.cover)%>%
+  select(sample.no,complexity,algal.cover,year)%>%
   distinct()%>%
   glimpse()
 
@@ -112,7 +112,7 @@ response.factors<-factors%>%
 
 covariate.factors<-covariates%>%
   inner_join(factors,by="sample.no")%>%
-  append_col(., list(blank=NA), after="algal.cover")%>%
+  append_col(., list(blank=NA), after="year.x")%>%
   plyr::rename(.,replace =c("blank"="") )%>%
   glimpse()
   
