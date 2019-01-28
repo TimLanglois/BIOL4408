@@ -5,9 +5,8 @@
 
 
 ##  What are we going to do with the data?----
-##  1. Import data
-##  2. Check and save the data
-##  3. Rough-Plot of the data to explore and look for outliers.
+##  1. Check and save the data
+##  2. Rough-Plot of the data to explore and look for outliers.
 
 
 
@@ -17,14 +16,12 @@ rm(list=ls())
 
 
 # load librarys----
-install.packages("googlesheets")
-library(googlesheets) #to read gsheet
 library(tidyr) #to tody data
 library(dplyr) #to transform data
 library(forcats) #to transform catagorical data
 library(readr) #to write data
 library(ggplot2) #to plot data
-
+library(RCurl) #needed to download data from GitHub
 
 
 
@@ -53,58 +50,53 @@ data.dir=paste(work.dir,"Data",sep="/")
 
 
 
-# Read in the data from gsheet and check it----
+# Read in the data and check it----
 
-# For Rstudio Desktop
-options(httr_oob_default=FALSE) 
+setwd(data.dir)
+dir()
 
-# For Rstudio Server
-options(httr_oob_default=TRUE) 
-gs_auth(new_user = TRUE) 
+# Read from local file
+gsheet.dat<-read_csv("lobster.density.gsheet.csv")
 
-
-gs_ls() #list gsheets you have access to
-
-dat <- gs_title("BIOL4408.lobster.density")%>% #select the gsheet
-  gs_read_csv(ws = "lobster.density") #select the worksheet within the workbook
+#Read from github
+gsheet.dat<- <-read_csv(text=getURL("https://raw.githubusercontent.com/beckyfisher/FSSgam/master/case_study2_dataset.csv?token=AOSO6uyYhat9-Era46nbjALQpTydsTskks5ZY3vhwA%3D%3D"))%>%
 
 
-glimpse(dat) #glimpse the data
+glimpse(gsheet.dat) #glimpse the data
 #variable names, formats, head of the data
 
 
-unique(dat$status) #unique levels of status
-unique(dat$sanctuary) #unique levels of sanctuary
-unique(dat$site) #unique levels of site
+unique(gsheet.dat$status) #unique levels of status
+unique(gsheet.dat$sanctuary) #unique levels of sanctuary
+unique(gsheet.dat$site) #unique levels of site
 # "eastsalmon" should be "Salmon Bay"
 
 
-unique(dat$year) #unique levels of year 
+unique(gsheet.dat$year) #unique levels of year 
 # we are worried about 2017 - we should remove it
 
-unique(dat$complexity)
+unique(gsheet.dat$complexity)
 #looks consistent
 
-unique(dat$algal.cover)
+unique(gsheet.dat$algal.cover)
 #does not look consistent - suggest you only use for your year of data
-unique(filter(dat,year=="2018")$algal.cover)
+unique(filter(gsheet.dat,year=="2019")$algal.cover)
 
 
 # Check what sites are missing between years---
-table(dat$site,dat$year)
+table(gsheet.dat$site,gsheet.dat$year)
 # "Armstrong Point","Longreach","Rocky Bay","Stark Bay" - are only sampled once and we should remove them
 
 
 # Check how we have used site names - are they unique between levels of status? 
-table(dat$site,dat$status)
+table(gsheet.dat$site,gsheet.dat$status)
 
 
 
 
 
-# Read in the data from gsheet and make corrections and re-formating----
-dat <- gs_title("BIOL4408.lobster.density")%>% 
-    gs_read_csv(ws = "lobster.density") %>%
+# Make corrections and re-formating----
+dat<-gsheet.dat %>%
 #recode the site names
     dplyr::mutate(site = fct_recode(site,
                            "Salmon Bay" = "eastsalmon"))%>%
@@ -132,8 +124,7 @@ dat <- gs_title("BIOL4408.lobster.density")%>%
 
 
 # Use dat and make new varialbes for sum of legal and sub.legal-----
-dat<-gs_title("BIOL4408.lobster.density")%>% 
-  gs_read_csv(ws = "lobster.density") %>%
+dat<-gsheet.dat%>% 
   dplyr::mutate(site = fct_recode(site,"Salmon Bay" = "eastsalmon"))%>%
   filter(!site%in%c(
     "Armstrong Point",
@@ -164,7 +155,7 @@ dir() #look in the directory
 write.csv(dat,"dat.csv")
 
 # Write dat using study name and system date
-write_csv(dat,paste(study,Sys.Date(),"csv",sep = "."))
+write_csv(dat,paste(study,"csv",sep = "."))
 
 
 

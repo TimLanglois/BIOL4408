@@ -52,8 +52,10 @@ append_col <- function(x, cols, after=length(x)) {
 # Set work directory----
 # Set your own to match where the data sits on your computer
 
-work.dir=("~/GitHub/BIOL4408/Analysis_Lobster_density") #for Tim
+work.dir=("~/GitHub/BIOL4408/Analysis_Lobster_density") #for Tim's desktop
 
+work.dir=("~/workspace/BIOL4408/Analysis_Lobster_density") #for ecocloud server
+# or
 #work.dir=("") #set this for your computer work directory
 
 
@@ -62,7 +64,7 @@ work.dir=("~/GitHub/BIOL4408/Analysis_Lobster_density") #for Tim
 
 # Set sub-directories----
 data.dir=paste(work.dir,"Data",sep="/")
-primer.dir=paste(work.dir,"PrimerData",sep="/")
+primer.dir=paste(work.dir,"Primer",sep="/")
 
 
 
@@ -71,7 +73,7 @@ primer.dir=paste(work.dir,"PrimerData",sep="/")
 # Read in the checked data-----
 setwd(data.dir)
 dir()
-dat<-read.csv("lobster.density.2019-01-25.csv")%>%
+dat<-read.csv("lobster.density.csv")%>%
   glimpse()
 
 
@@ -121,8 +123,8 @@ covariate.factors<-covariates%>%
 # Write the data----
 setwd(primer.dir)
 dir()
-write.csv(response.factors,file=paste("response.factors",study,Sys.Date(),"csv",sep = "."), row.names=FALSE)
+write.csv(response.factors,file=paste("response.factors",study,"csv",sep = "."), row.names=FALSE)
 
-write.csv(covariate.factors,file=paste("covariate.factors",study,Sys.Date(),"csv",sep = "."), row.names=FALSE)
+write.csv(covariate.factors,file=paste("covariate.factors",study,"csv",sep = "."), row.names=FALSE)
 
 

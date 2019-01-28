@@ -41,8 +41,10 @@ se.max <- function(x) (mean(x)) + se(x)
 # Set work directory----
 # Set your own to match where the data sits on your computer
 
-work.dir=("~/GitHub/BIOL4408/Analysis_Lobster_density") #for Tim
+work.dir=("~/GitHub/BIOL4408/Analysis_Lobster_density") #for Tim's desktop
 
+work.dir=("~/workspace/BIOL4408/Analysis_Lobster_density") #for ecocloud server
+# or
 #work.dir=("") #set this for your computer work directory
 
 
@@ -58,7 +60,7 @@ plot.dir=paste(work.dir,"Plots",sep="/")
 # Read in the checked data-----
 setwd(data.dir)
 dir()
-dat<-read.csv("lobster.density.2019-01-25.csv")%>%
+dat<-read.csv("lobster.density.csv")%>%
   glimpse()
 
 
@@ -148,7 +150,7 @@ status.year.sanctuary<-ggplot(dat%>%filter(size.class=="legal"), aes(x=status, y
   facet_grid(year~sanctuary)
 status.year.sanctuary
 
-ggsave(status.year.sanctuary,file="status.year.sanctuary.png",width = 15, height = 8,units = "cm")
+ggsave(status.year.sanctuary,file="status.year.sanctuary.png",width = 15, height = 15,units = "cm")
 
 
 
