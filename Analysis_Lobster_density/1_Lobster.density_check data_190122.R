@@ -96,7 +96,8 @@ table(gsheet.dat$site,gsheet.dat$year)
 table(gsheet.dat$year,gsheet.dat$status)
 
 
-
+gsheet.dat%>%
+  filter()
 
 
 # Make corrections and re-formating----
@@ -152,6 +153,8 @@ unique(dat$site) #unique levels of sanctuary
 
 str(dat)
 
+glimpse(gsheet.dat)
+
 
 # Use dat and make new varialbes for sum of legal and sub.legal-----
 dat<-gsheet.dat%>% 
@@ -195,12 +198,13 @@ dat<-gsheet.dat%>%
   dplyr::mutate(legal=(legal.unsized+x80+x85+x90+x95+x100+x105+x110+x115+x120+x125+x130+x135+x140+x145+x150))%>%
   # make the sub.legal sum
   dplyr::mutate(sub.legal=(sublegal.unsized+x25+x30+x35+x40+x45+x50+x55+x60+x65+x70+x75))%>%
+  dplyr::mutate(all=(legal+sub.legal+unsized))%>%
   # make a unique sample number
   dplyr::mutate(sample.no=1:nrow(.))%>%
   # select the variables of interest
-  select(c(sample.no,year,date,sanctuary,status,site.new,complexity,algal.cover,legal,sub.legal))%>%
+  select(c(sample.no,year,date,sanctuary,status,site.new,complexity,algal.cover,legal,sub.legal,all))%>%
   # # # make the data long again
-  gather(key="size.class",value="count",legal, sub.legal)%>%
+  gather(key="size.class",value="count",legal, sub.legal,all)%>%
   glimpse()
 
 
@@ -234,7 +238,7 @@ ggplot(dat, aes(x=status, y=count)) +
 # Jittered point plot with one factor facetted----
 ggplot(dat, aes(x=status, y=count)) + 
   geom_point(position = position_jitter(),alpha = 1/4)+
-  facet_grid(size.class~.) #facet by factor
+  facet_grid(.~year) #facet by factor
 
 
 #jittered point plot with two factors faceted-----

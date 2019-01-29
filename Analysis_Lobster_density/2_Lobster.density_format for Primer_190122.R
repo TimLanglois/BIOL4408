@@ -110,8 +110,8 @@ covariates<-dat%>%
 
 response.factors<-factors%>%
   inner_join(response,by="sample.no")%>% #join the data
-  select(sample.no,legal,sub.legal,everything())%>% #orders the colums
-  append_col(., list(blank=NA), after="sub.legal")%>% #appends blank colum
+  select(sample.no,legal,sub.legal,all,everything())%>% #orders the colums
+  append_col(., list(blank=NA), after="all")%>% #appends blank colum
   plyr::rename(.,replace =c("blank"="") )%>% #makes the column name blank
   glimpse()
 
