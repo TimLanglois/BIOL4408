@@ -97,6 +97,9 @@ dat <- gsheet.dat %>%
   #remove the levels for the filtered facotrs
     droplevels()%>%
   
+  # Make a unique group.id
+  dplyr::mutate(group.id=paste(status,sanctuary,site,groupID,sep="."))%>%
+  
   # Make a unique transect.id
   dplyr::mutate(transect.id=paste(status,sanctuary,site,groupID,transect,sep="."))%>%
   
@@ -141,7 +144,7 @@ setwd(data.dir) #set the directory
 
   # Count of each stage--
 wide.dat<-dat %>%
-  group_by(sanctuary,status,site,transect.id,stage)%>%
+  group_by(sanctuary,status,group.id,transect.id,stage)%>%
   dplyr::summarise(count=sum(number))%>%
   spread(stage,count, fill = 0)%>%  #make wide
   glimpse()
@@ -150,7 +153,7 @@ wide.dat<-dat %>%
 # Count of schools--
 schools.dat<-dat %>%
   filter(!is.na(length.mm))%>%
-  group_by(sanctuary,status,site,transect.id)%>%
+  group_by(sanctuary,status,group.id,transect.id)%>%
   dplyr::summarise(school.count=n_distinct(school.id))%>%
   glimpse()
 

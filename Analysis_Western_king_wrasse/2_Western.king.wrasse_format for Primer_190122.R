@@ -108,7 +108,7 @@ sum.response<-sum.dat%>%
 
 # Make the factor dat.suma----
 sum.factors<-sum.dat%>%
-  select(c(sample.no,sanctuary,status,site))%>%
+  select(c(sample.no,sanctuary,status,group.id))%>%
   distinct()%>% #only unique combinations - to match the wide dat.suma
   glimpse()
 
@@ -139,7 +139,7 @@ ratio.response<-ratio.dat%>%
 
 # Make the factor dat.suma----
 ratio.factors<-ratio.dat%>%
-  select(c(transect.id,sanctuary,status,site))%>%
+  select(c(transect.id,sanctuary,status,group.id))%>%
   distinct()%>% #only unique combinations - to match the wide dat.suma
   glimpse()
 
@@ -172,7 +172,7 @@ length.response<-length.dat%>%
 
 # Make the factor dat.suma----
 length.factors<-length.dat%>%
-  select(c(row.id,sanctuary,status,site,stage,transect.id))%>% # needs repliacte /transect name in there ALSO need stage in there.
+  select(c(row.id,sanctuary,status,group.id,stage,transect.id))%>% # needs repliacte /transect name in there ALSO need stage in there.
   distinct()%>% #only unique combinations - to match the wide dat.suma
   glimpse()
 

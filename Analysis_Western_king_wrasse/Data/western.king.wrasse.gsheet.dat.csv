@@ -1,944 +1,1632 @@
 sanctuary,site,status,date,time,group.no,groupID,transect,length.mm,stage,school,comments
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,1,160,F,1,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,1,100,F,1,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,1,200,F,1,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,1,130,F,1,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,1,140,F,1,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,1,100,F,1,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,2,90,F,2,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,2,70,F,3,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,2,80,F,4,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,2,90,F,4,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,2,100,F,4,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,2,120,F,5,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,2,200,F,5,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,3,100,F,6,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,3,40,J,7,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,3,200,F,8,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,3,50,F,9,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,3,120,F,9,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,130,F,10,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,170,F,10,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,110,F,10,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,70,F,11,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,80,F,11,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,100,F,11,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,130,F,11,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,60,F,12,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,80,F,12,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,250,M,13,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,200,F,13,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,170,F,13,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,80,F,14,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,70,F,14,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,160,F,15,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,60,F,16,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,80,F,17,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,70,F,17,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,90,F,17,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,4,220,F,18,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,300,M,19,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,250,F,19,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,270,F,19,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,150,F,19,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,100,F,19,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,120,F,19,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,200,F,20,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,120,F,21,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,120,F,22,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,130,F,23,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,300,F,24,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,120,F,24,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,180,F,24,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,120,F,25,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,JAT,5,150,F,25,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,1,75,F,1,started 9am
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,1,70,F,1,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,1,70,F,1,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,2,50,F,2,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,2,50,F,3,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,2,60,F,4,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,2,50,F,5,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,2,60,F,5,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,2,200,F,5,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,3,60,F,6,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,3,70,F,6,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,3,70,F,6,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,3,100,F,7,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,3,90,F,8,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,3,85,F,9,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,4,80,F,10,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,4,50,F,10,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,4,100,F,10,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,4,150,F,10,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,4,60,F,10,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,4,60,F,10,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,4,60,F,10,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,50,F,11,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,60,F,11,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,60,F,11,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,80,F,11,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,90,F,11,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,100,F,11,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,50,F,11,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,75,F,11,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,60,F,11,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,120,F,11,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,130,F,11,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,40,F,11,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,900,1,EP,5,50,F,11,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,1,150,F,1,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,1,120,F,2,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,1,110,F,3,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,1,150,F,4,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,1,120,F,5,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,2,110,F,6,More sandy
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,2,100,F,7,More sandy
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,2,90,F,8,More sandy
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,2,120,F,9,More sandy
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,3,250,F,10,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,3,120,F,11,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,3,220,F,12,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,3,110,F,12,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,3,120,F,12,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,3,130,F,12,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,3,130,F,13,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,3,120,F,14,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,3,280,M,15,NA
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,4,130,F,16,More reef than reef edge
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,300,M,17,Males appeared to increase in abundance with depth
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,120,F,17,Males appeared to increase in abundance with depth
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,120,F,17,Males appeared to increase in abundance with depth
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,120,F,17,Males appeared to increase in abundance with depth
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,110,F,17,Males appeared to increase in abundance with depth
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,140,F,18,Males appeared to increase in abundance with depth
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,310,M,19,Males appeared to increase in abundance with depth
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,150,F,19,Males appeared to increase in abundance with depth
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,130,F,19,Males appeared to increase in abundance with depth
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,310,M,20,Males appeared to increase in abundance with depth
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,290,M,21,Males appeared to increase in abundance with depth
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,250,F,21,Males appeared to increase in abundance with depth
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,240,F,21,Males appeared to increase in abundance with depth
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,140,F,22,Males appeared to increase in abundance with depth
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,330,M,23,Males appeared to increase in abundance with depth
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,240,F,23,Males appeared to increase in abundance with depth
-Parker_Pt,East_Salmon,No-take,1/17/2019,930,1,ST,5,130,F,23,Males appeared to increase in abundance with depth
-Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,1,NA,NA,NA,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,2,160,F,1,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,2,160,F,1,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,2,220,F,2,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,3,200,F,3,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,3,110,F,4,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,4,400,M,5,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,4,250,F,5,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,5,250,F,6,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,5,150,F,7,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,5,150,F,7,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,5,100,F,8,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,AT,5,150,F,8,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1531,1,AT,5,100,F,8,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,EPJ,1,NA,NA,NA,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,EPJ,2,NA,NA,NA,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,EPJ,3,90,F,1,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,EPJ,3,90,F,2,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,EPJ,3,50,F,3,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,EPJ,4,NA,NA,NA,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1530,1,EPJ,5,NA,NA,NA,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1600,1,ST,1,110,F,1,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1600,1,ST,1,90,F,2,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1600,1,ST,1,170,F,3,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1600,1,ST,1,150,F,4,NA
-Armstrong,Geordie_Bay,Fished,1/17/2019,1600,1,ST,2,NA,NA,NA,No bare sand
-Armstrong,Geordie_Bay,Fished,1/17/2019,1600,1,ST,3,NA,NA,NA,No bare sand
-Armstrong,Geordie_Bay,Fished,1/17/2019,1600,1,ST,4,NA,NA,NA,No bare sand
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,AT,1,200,F,1,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,AT,2,100,F,2,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,AT,3,200,M,3,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,AT,3,200,F,4,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,AT,4,110,F,5,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,AT,5,200,F,6,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,AT,5,200,F,6,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,AT,5,200,F,6,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,AT,5,200,F,6,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,AT,5,200,F,6,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,AT,5,150,F,7,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,1,80,F,1,started 8.30am
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,1,200,F,2,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,1,110,F,2,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,1,190,F,3,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,2,180,F,4,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,2,120,F,5,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,3,90,F,6,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,3,100,F,6,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,4,200,F,7,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,4,100,F,7,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,4,60,F,7,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,4,80,F,7,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,4,40,F,8,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,4,75,F,8,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,4,60,F,8,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,4,55,F,8,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,5,50,F,9,transect was a bit short due to conditions
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,5,80,F,9,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,EPJ,5,180,M,9,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,120,F,1,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,100,F,1,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,110,F,1,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,180,F,1,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,290,F,1,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,180,F,1,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,150,F,1,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,190,F,1,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,120,F,1,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,130,F,1,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,160,F,1,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,110,F,1,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,120,F,1,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,120,F,1,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,1,190,F,1,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,2,320,M,2,Mostly seagrass
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,2,180,F,3,Mostly seagrass
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,3,150,F,4,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,3,140,F,5,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,3,130,F,5,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,3,180,F,5,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,4,120,F,6,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,4,120,F,7,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,5,110,F,8,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,5,110,F,8,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,5,110,F,8,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,5,110,F,8,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,5,120,F,8,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,5,120,F,8,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,5,110,F,8,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,5,220,F,8,NA
-Green_Island,East_Strickland,Fished,1/18/2019,815,1,ST,5,250,F,9,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,1,120,F,1,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,1,130,F,1,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,1,70,F,1,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,1,80,F,1,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,1,180,F,2,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,1,90,F,3,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,2,150,F,4,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,2,250,F,5,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,2,300,M,6,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,80,F,7,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,90,F,8,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,250,M,9,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,90,F,9,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,80,F,9,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,70,F,9,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,250,F,9,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,120,F,9,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,70,F,9,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,170,F,10,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,110,F,10,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,120,F,10,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,140,F,10,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,60,F,10,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,70,F,10,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,3,250,M,10,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,4,270,M,11,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,4,70,F,12,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,5,60,F,13,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,5,180,F,14,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,5,200,F,15,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,5,200,F,15,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,5,150,F,15,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,AT,5,300,M,15,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,1,50,F,1,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,1,40,F,1,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,1,40,F,1,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,1,80,F,2,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,1,70,F,3,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,1,75,F,4,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,1,60,F,5,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,1,75,F,6,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,2,200,F,7,2-2.5 metres deep
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,2,75,F,7,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,2,65,F,7,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,2,50,F,7,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,2,40,F,8,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,3,100,F,9,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,3,180,F,10,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,3,40,F,11,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,3,50,F,11,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,4,190,F,12,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,4,100,F,12,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,4,100,F,13,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,4,80,F,13,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,4,50,F,13,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,4,180,F,13,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,4,200,F,13,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,4,70,F,13,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,4,60,F,13,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,4,60,F,13,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,4,40,j,14,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,5,200,F,15,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,5,190,F,15,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,5,180,F,16,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,5,80,F,16,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,EPJ,5,40,J,17,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,1,220,F,1,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,1,320,M,2,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,1,150,F,3,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,1,130,F,4,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,2,NA,NA,NA,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,3,150,F,5,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,280,F,5,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,110,F,5,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,110,F,5,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,110,F,5,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,120,F,5,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,120,F,5,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,120,F,5,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,110,F,5,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,110,F,5,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,110,F,5,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,110,F,5,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,150,F,5,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,130,F,5,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,130,F,5,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,4,180,F,5,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,5,320,M,6,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,5,150,F,6,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,5,140,F,6,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,5,220,F,6,NA
-Green_Island,Green_Island,No-take,1/18/2019,1010,1,ST,5,180,F,6,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,1,100,J,1,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,1,150,F,2,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,1,150,F,3,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,1,150,F,3,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,1,150,F,3,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,1,100,F,3,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,2,250,F,4,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,2,150,F,5,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,3,150,F,6,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,3,150,F,6,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,3,150,F,6,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,3,150,F,7,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,3,150,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,3,150,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,3,150,F,9,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,3,150,F,10,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,3,350,M,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,4,NA,NA,NA,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,5,150,F,12,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,5,150,F,12,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,5,150,F,12,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,5,150,F,13,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,AT,5,150,F,13,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,220,M,1,2m depth
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,75,F,1,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,70,F,1,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,60,F,1,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,50,F,1,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,90,F,1,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,60,F,1,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,70,F,2,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,100,F,2,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,220,F,3,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,250,F,3,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,150,F,3,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,50,F,3,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,60,F,3,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,70,F,3,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,95,F,3,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,55,F,3,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,1,100,F,3,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,150,F,4,shallow along reeF 0.5m to 1m
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,75,F,4,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,60,F,4,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,80,F,5,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,75,F,5,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,60,F,5,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,100,F,5,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,65,F,5,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,90,F,6,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,75,F,6,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,100,F,7,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,60,F,7,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,80,F,7,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,50,F,7,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,200,F,7,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,220,F,7,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,75,F,7,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,2,70,F,7,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,3,55,F,8,1m
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,3,80,F,9,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,30,J,10,rocky
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,120,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,130,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,50,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,60,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,60,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,60,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,50,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,90,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,80,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,85,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,70,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,50,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,55,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,50,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,55,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,150,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,50,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,60,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,70,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,55,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,75,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,65,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,50,F,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,190,F,12,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,55,F,12,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,60,F,12,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,50,F,12,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,70,F,12,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,80,F,12,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,60,F,12,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,80,F,12,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,4,70,F,12,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,100,F,13,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,90,F,13,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,75,F,13,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,60,F,13,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,50,F,13,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,120,F,14,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,95,F,14,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,80,F,14,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,70,F,14,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,70,F,14,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,60,F,14,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,50,F,14,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,50,F,14,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1415,1,EPJ,5,60,F,14,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,1,220,F,1,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,1,200,F,2,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,1,120,F,3,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,1,110,F,4,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,1,120,F,5,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,80,F,6,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,90,F,6,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,100,F,6,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,250,F,7,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,180,F,7,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,130,F,7,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,110,F,7,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,150,F,7,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,190,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,170,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,180,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,160,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,160,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,160,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,160,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,150,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,150,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,150,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,110,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,110,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,110,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,110,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,100,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,100,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,200,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,200,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,150,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,180,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,2,180,F,8,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,280,M,9,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,130,F,9,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,130,F,9,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,130,F,9,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,150,F,9,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,150,F,9,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,180,F,9,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,180,F,9,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,300,M,10,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,80,J,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,80,J,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,70,J,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,80,J,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,80,J,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,3,80,J,11,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,4,90,F,12,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,4,290,M,13,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,4,220,F,13,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,4,130,F,13,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,4,140,F,13,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,4,180,F,13,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,4,170,F,14,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,4,290,M,15,NA
-Armstrong,Ricey_Beach,Fished,1/18/2019,1420,1,ST,5,270,M,16,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,1,120,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,1,250,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,2,120,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,2,400,M,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,2,120,F,2,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,2,120,F,2,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,2,100,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,2,80,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,3,150,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,3,380,M,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,3,60,F,6,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,3,60,F,6,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,3,350,F,6,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,3,420,M,6,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,3,240,F,6,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,3,240,F,6,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,4,210,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,4,200,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,4,280,F,2,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,4,120,F,2,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,4,150,F,2,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,4,150,F,2,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,4,290,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,5,140,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,5,100,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,5,120,F,3,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,5,110,F,3,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,5,200,F,3,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,5,110,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,5,310,F,3,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,5,120,F,3,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,EAA,5,100,F,3,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,180,F,10,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,180,F,10,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,180,F,10,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,180,F,10,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,180,F,10,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,180,F,10,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,180,F,10,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,180,F,10,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,180,F,10,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,180,F,10,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,8,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,8,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,8,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,8,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,8,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,8,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,8,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,8,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,130,F,13,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,1,120,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,2,80,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,2,70,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,2,90,F,4,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,2,90,F,4,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,2,90,F,4,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,2,90,F,4,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,2,80,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,2,80,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,2,70,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,3,50,F,3,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,3,50,F,3,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,3,50,F,3,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,3,150,M,2,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,3,100,F,2,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,3,200,M,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,3,140,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,120,F,5,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,120,F,5,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,120,F,5,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,150,F,5,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,150,F,5,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,100,F,9,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,100,F,9,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,100,F,9,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,100,F,9,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,100,F,9,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,100,F,9,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,100,F,9,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,100,F,9,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,100,F,9,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,140,F,3,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,140,F,3,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,140,F,3,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,100,J,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,4,350,M,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,5,110,M,2,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,5,80,F,2,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,5,90,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,5,60,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,5,80,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,AH,5,70,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,1,100,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,1,100,F,2,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,1,120,F,2,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,1,250,M,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,1,90,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,1,90,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,1,110,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,1,95,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,2,100,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,2,150,F,2,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,2,110,F,2,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,2,90,F,2,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,2,110,F,2,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,2,110,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,2,110,F,2,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,2,100,F,2,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,2,105,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,2,120,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,3,220,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,3,90,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,3,90,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,3,250,F,3,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,3,120,F,3,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,3,110,F,3,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,4,200,F,3,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,4,100,F,3,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,4,110,F,3,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,4,110,F,3,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,4,70,J,3,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,4,110,F,3,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,5,110,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,5,110,F,1,NA
-Parker_Pt,Little Salmon_Bay,No-take,1/20/2019,1120,2,JH,5,130,F,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,1,130,F,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,1,200,F,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,1,200,F,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,1,200,F,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,1,200,F,2,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,1,100,J,2,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,2,400,M,7,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,2,150,F,7,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,2,150,F,7,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,2,150,F,7,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,2,150,F,7,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,2,150,F,7,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,2,150,F,7,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,2,150,F,7,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,2,100,F,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,2,200,F,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,3,200,F,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,3,200,F,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,3,200,F,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,3,150,F,6,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,3,150,F,6,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,3,150,F,6,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,3,150,F,6,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,3,150,F,6,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,3,300,M,6,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,4,170,F,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,4,170,F,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,5,150,F,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,5,150,F,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,6,150,F,100,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,7,150,F,50,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,8,250,F,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,9,100,F,6,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,9,100,F,6,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,9,100,F,6,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,9,100,F,6,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,9,100,F,6,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,9,100,F,6,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,9,100,F,3,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,9,100,F,3,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,9,350,M,3,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:00,1,AAE,10,NA,NA,NA,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,1,NA,NA,NA,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,2,300,M,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,3,300,M,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,4,250,F,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,4,180,F,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,5,100,F,4,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,5,150,F,4,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,5,160,F,4,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,5,200,F,4,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,5,300,M,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,5,180,F,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,6,350,M,4,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,6,180,F,4,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,6,120,F,4,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,6,110,F,4,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,6,280,F,3,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,6,300,F,3,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,6,180,F,3,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,7,110,F,3,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,7,120,F,3,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,7,75,J,3,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,7,100,F,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,8,80,F,7,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,8,80,F,7,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,8,80,F,7,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,8,90,F,7,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,8,90,F,7,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,8,90,F,7,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,8,100,F,7,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,8,70,J,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,8,120,F,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,9,280,F,1,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,9,190,F,3,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,9,150,F,3,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,9,130,F,3,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,10,220,F,3,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,10,150,F,3,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,10,160,F,3,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,10,180,F,3,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,10,150,F,3,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,10,110,F,3,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,10,180,F,4,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,10,150,F,4,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,10,160,F,4,NA
-Armstrong,Little_Armstrong_Bay,No-take,1/21/2019,10:30,2,THJ,10,110,F,4,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,1,NA,NA,NA,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,100,F,1,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,100,F,1,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,100,F,1,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,100,F,1,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,100,F,1,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,100,F,1,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,100,F,1,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,160,F,2,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,160,F,2,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,160,F,2,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,2,150,F,3,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,3,NA,NA,NA,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,4,160,F,4,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,4,160,F,4,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,4,160,F,4,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,4,160,F,4,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,4,160,F,4,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,4,100,F,4,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,4,100,F,4,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,5,200,F,5,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,AAE,5,250,F,6,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,1,150,F,1,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,1,200,F,2,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,1,180,F,3,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,2,NA,NA,NA,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,3,100,F,4,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,3,100,F,4,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,3,180,F,4,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,4,120,F,5,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,4,130,F,6,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,4,100,F,7,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,4,60,F,8,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,4,90,F,9,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,4,250,F,10,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,4,170,F,10,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,AAE,5,NA,NA,NA,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,1,140,F,1,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,1,120,F,2,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,1,80,F,3,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,2,90,F,4,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,3,50,F,5,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,3,90,F,5,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,3,90,F,5,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,3,90,F,5,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,3,100,F,5,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,3,100,F,5,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,3,90,F,6,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,3,90,F,6,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,4,80,F,7,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,HA,5,NA,NA,NA,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,1,200,F,1,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,1,200,F,1,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,2,NA,NA,NA,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,3,250,F,2,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,3,300,M,2,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,3,100,F,2,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,3,100,F,2,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,4,NA,NA,NA,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,5,200,F,3,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,5,200,F,3,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,5,150,F,3,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,5,150,F,3,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,5,150,F,3,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,5,150,F,3,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,HA,5,150,F,3,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,1,100,F,1,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,2,140,F,2,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,3,140,F,3,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,3,110,F,3,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,3,150,F,3,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,4,130,F,4,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,5,100,F,5,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,5,110,F,5,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,5,130,F,6,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,5,100,F,7,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,5,100,F,7,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,5,140,F,8,NA
-Armstrong,Parakeet_Bay,Fished,1/21/2019,1515,2,JH,5,130,F,8,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,JH,1,120,F,1,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,JH,2,110,F,2,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,JH,2,110,F,2,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,JH,3,110,F,3,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,JH,3,110,F,3,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,JH,3,110,F,3,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,JH,4,NA,NA,NA,NA
-Armstrong,Longreach_Bay,Fished,1/21/2019,1614,2,JH,5,NA,NA,NA,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,1,160,F,1,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,1,100,F,1,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,1,200,F,1,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,1,130,F,1,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,1,140,F,1,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,1,100,F,1,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,2,90,F,2,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,2,70,F,3,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,2,80,F,4,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,2,90,F,4,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,2,100,F,4,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,2,120,F,5,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,2,200,F,5,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,3,100,F,6,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,3,40,J,7,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,3,200,F,8,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,3,50,F,9,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,3,120,F,9,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,4,130,F,10,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,4,170,F,10,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,4,110,F,10,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,4,70,F,11,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,4,80,F,11,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,4,100,F,11,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,4,130,F,11,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,4,60,F,12,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,4,80,F,12,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,4,250,M,13,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,4,200,F,13,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,4,170,F,13,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,4,80,F,14,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,4,70,F,14,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,4,160,F,15,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,4,60,F,16,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,4,80,F,17,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,4,70,F,17,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,4,90,F,17,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,4,220,F,18,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,5,300,M,19,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,5,250,F,19,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,5,270,F,19,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,5,150,F,19,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,5,100,F,19,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,5,120,F,19,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,5,200,F,20,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,5,120,F,21,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,5,120,F,22,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,5,130,F,23,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,5,300,F,24,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,5,120,F,24,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,5,180,F,24,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,5,120,F,25,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,JAT,5,150,F,25,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,1,75,F,1,started 9am
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,1,70,F,1,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,1,70,F,1,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,2,50,F,2,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,2,50,F,3,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,2,60,F,4,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,2,50,F,5,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,2,60,F,5,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,2,200,F,5,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,3,60,F,6,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,3,70,F,6,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,3,70,F,6,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,3,100,F,7,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,3,90,F,8,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,3,85,F,9,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,4,80,F,10,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,4,50,F,10,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,4,100,F,10,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,4,150,F,10,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,4,60,F,10,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,4,60,F,10,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,4,60,F,10,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,5,50,F,11,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,5,60,F,11,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,5,60,F,11,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,5,80,F,11,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,5,90,F,11,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,5,100,F,11,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,5,50,F,11,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,5,75,F,11,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,5,60,F,11,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,5,120,F,11,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,5,130,F,11,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,5,40,F,11,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,900,1,EP,5,50,F,11,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,1,150,F,1,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,1,120,F,2,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,1,110,F,3,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,1,150,F,4,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,1,120,F,5,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,2,110,F,6,More sandy
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,2,100,F,7,More sandy
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,2,90,F,8,More sandy
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,2,120,F,9,More sandy
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,3,250,F,10,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,3,120,F,11,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,3,220,F,12,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,3,110,F,12,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,3,120,F,12,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,3,130,F,12,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,3,130,F,13,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,3,120,F,14,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,3,280,M,15,NA
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,4,130,F,16,More reef than reef edge
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,5,300,M,17,Males appeared to increase in abundance with depth
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,5,120,F,17,Males appeared to increase in abundance with depth
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,5,120,F,17,Males appeared to increase in abundance with depth
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,5,120,F,17,Males appeared to increase in abundance with depth
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,5,110,F,17,Males appeared to increase in abundance with depth
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,5,140,F,18,Males appeared to increase in abundance with depth
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,5,310,M,19,Males appeared to increase in abundance with depth
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,5,150,F,19,Males appeared to increase in abundance with depth
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,5,130,F,19,Males appeared to increase in abundance with depth
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,5,310,M,20,Males appeared to increase in abundance with depth
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,5,290,M,21,Males appeared to increase in abundance with depth
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,5,250,F,21,Males appeared to increase in abundance with depth
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,5,240,F,21,Males appeared to increase in abundance with depth
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,5,140,F,22,Males appeared to increase in abundance with depth
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,5,330,M,23,Males appeared to increase in abundance with depth
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,5,240,F,23,Males appeared to increase in abundance with depth
+Parker_Pt,East_Salmon,No-take,17/1/2019,930,1,ST,5,130,F,23,Males appeared to increase in abundance with depth
+Armstrong,Geordie_Bay,Fished,17/1/2019,1530,1,AT,1,NA,NA,NA,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1530,1,AT,2,160,F,1,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1530,1,AT,2,160,F,1,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1530,1,AT,2,220,F,2,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1530,1,AT,3,200,F,3,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1530,1,AT,3,110,F,4,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1530,1,AT,4,400,M,5,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1530,1,AT,4,250,F,5,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1530,1,AT,5,250,F,6,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1530,1,AT,5,150,F,7,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1530,1,AT,5,150,F,7,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1530,1,AT,5,100,F,8,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1530,1,AT,5,150,F,8,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1531,1,AT,5,100,F,8,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1530,1,EPJ,1,NA,NA,NA,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1530,1,EPJ,2,NA,NA,NA,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1530,1,EPJ,3,90,F,1,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1530,1,EPJ,3,90,F,2,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1530,1,EPJ,3,50,F,3,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1530,1,EPJ,4,NA,NA,NA,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1530,1,EPJ,5,NA,NA,NA,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1600,1,ST,1,110,F,1,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1600,1,ST,1,90,F,2,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1600,1,ST,1,170,F,3,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1600,1,ST,1,150,F,4,NA
+Armstrong,Geordie_Bay,Fished,17/1/2019,1600,1,ST,2,NA,NA,NA,No bare sand
+Armstrong,Geordie_Bay,Fished,17/1/2019,1600,1,ST,3,NA,NA,NA,No bare sand
+Armstrong,Geordie_Bay,Fished,17/1/2019,1600,1,ST,4,NA,NA,NA,No bare sand
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,AT,1,200,F,1,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,AT,2,100,F,2,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,AT,3,200,M,3,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,AT,3,200,F,4,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,AT,4,110,F,5,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,AT,5,200,F,6,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,AT,5,200,F,6,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,AT,5,200,F,6,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,AT,5,200,F,6,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,AT,5,200,F,6,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,AT,5,150,F,7,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,EPJ,1,80,F,1,started 8.30am
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,EPJ,1,200,F,2,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,EPJ,1,110,F,2,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,EPJ,1,190,F,3,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,EPJ,2,180,F,4,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,EPJ,2,120,F,5,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,EPJ,3,90,F,6,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,EPJ,3,100,F,6,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,EPJ,4,200,F,7,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,EPJ,4,100,F,7,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,EPJ,4,60,F,7,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,EPJ,4,80,F,7,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,EPJ,4,40,F,8,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,EPJ,4,75,F,8,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,EPJ,4,60,F,8,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,EPJ,4,55,F,8,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,EPJ,5,50,F,9,transect was a bit short due to conditions
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,EPJ,5,80,F,9,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,EPJ,5,180,M,9,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,1,120,F,1,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,1,100,F,1,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,1,110,F,1,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,1,180,F,1,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,1,290,F,1,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,1,180,F,1,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,1,150,F,1,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,1,190,F,1,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,1,120,F,1,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,1,130,F,1,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,1,160,F,1,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,1,110,F,1,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,1,120,F,1,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,1,120,F,1,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,1,190,F,1,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,2,320,M,2,Mostly seagrass
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,2,180,F,3,Mostly seagrass
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,3,150,F,4,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,3,140,F,5,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,3,130,F,5,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,3,180,F,5,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,4,120,F,6,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,4,120,F,7,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,5,110,F,8,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,5,110,F,8,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,5,110,F,8,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,5,110,F,8,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,5,120,F,8,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,5,120,F,8,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,5,110,F,8,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,5,220,F,8,NA
+Green_Island,East_Strickland,Fished,18/1/2019,815,1,ST,5,250,F,9,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,1,120,F,1,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,1,130,F,1,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,1,70,F,1,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,1,80,F,1,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,1,180,F,2,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,1,90,F,3,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,2,150,F,4,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,2,250,F,5,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,2,300,M,6,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,3,80,F,7,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,3,90,F,8,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,3,250,M,9,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,3,90,F,9,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,3,80,F,9,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,3,70,F,9,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,3,250,F,9,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,3,120,F,9,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,3,70,F,9,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,3,170,F,10,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,3,110,F,10,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,3,120,F,10,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,3,140,F,10,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,3,60,F,10,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,3,70,F,10,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,3,250,M,10,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,4,270,M,11,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,4,70,F,12,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,5,60,F,13,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,5,180,F,14,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,5,200,F,15,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,5,200,F,15,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,5,150,F,15,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,AT,5,300,M,15,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,1,50,F,1,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,1,40,F,1,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,1,40,F,1,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,1,80,F,2,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,1,70,F,3,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,1,75,F,4,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,1,60,F,5,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,1,75,F,6,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,2,200,F,7,2-2.5 metres deep
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,2,75,F,7,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,2,65,F,7,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,2,50,F,7,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,2,40,F,8,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,3,100,F,9,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,3,180,F,10,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,3,40,F,11,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,3,50,F,11,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,4,190,F,12,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,4,100,F,12,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,4,100,F,13,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,4,80,F,13,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,4,50,F,13,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,4,180,F,13,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,4,200,F,13,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,4,70,F,13,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,4,60,F,13,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,4,60,F,13,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,4,40,j,14,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,5,200,F,15,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,5,190,F,15,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,5,180,F,16,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,5,80,F,16,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,EPJ,5,40,J,17,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,1,220,F,1,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,1,320,M,2,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,1,150,F,3,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,1,130,F,4,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,2,NA,NA,NA,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,3,150,F,5,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,4,280,F,5,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,4,110,F,5,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,4,110,F,5,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,4,110,F,5,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,4,120,F,5,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,4,120,F,5,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,4,120,F,5,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,4,110,F,5,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,4,110,F,5,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,4,110,F,5,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,4,110,F,5,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,4,150,F,5,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,4,130,F,5,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,4,130,F,5,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,4,180,F,5,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,5,320,M,6,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,5,150,F,6,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,5,140,F,6,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,5,220,F,6,NA
+Green_Island,Green_Island,No-take,18/1/2019,1010,1,ST,5,180,F,6,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,1,100,J,1,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,1,150,F,2,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,1,150,F,3,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,1,150,F,3,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,1,150,F,3,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,1,100,F,3,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,2,250,F,4,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,2,150,F,5,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,3,150,F,6,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,3,150,F,6,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,3,150,F,6,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,3,150,F,7,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,3,150,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,3,150,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,3,150,F,9,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,3,150,F,10,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,3,350,M,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,4,NA,NA,NA,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,5,150,F,12,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,5,150,F,12,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,5,150,F,12,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,5,150,F,13,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,AT,5,150,F,13,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,1,220,M,1,2m depth
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,1,75,F,1,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,1,70,F,1,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,1,60,F,1,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,1,50,F,1,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,1,90,F,1,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,1,60,F,1,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,1,70,F,2,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,1,100,F,2,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,1,220,F,3,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,1,250,F,3,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,1,150,F,3,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,1,50,F,3,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,1,60,F,3,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,1,70,F,3,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,1,95,F,3,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,1,55,F,3,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,1,100,F,3,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,2,150,F,4,shallow along reeF 0.5m to 1m
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,2,75,F,4,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,2,60,F,4,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,2,80,F,5,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,2,75,F,5,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,2,60,F,5,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,2,100,F,5,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,2,65,F,5,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,2,90,F,6,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,2,75,F,6,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,2,100,F,7,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,2,60,F,7,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,2,80,F,7,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,2,50,F,7,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,2,200,F,7,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,2,220,F,7,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,2,75,F,7,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,2,70,F,7,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,3,55,F,8,1m
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,3,80,F,9,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,30,J,10,rocky
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,120,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,130,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,50,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,60,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,60,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,60,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,50,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,90,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,80,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,85,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,70,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,50,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,55,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,50,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,55,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,150,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,50,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,60,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,70,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,55,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,75,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,65,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,50,F,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,190,F,12,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,55,F,12,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,60,F,12,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,50,F,12,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,70,F,12,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,80,F,12,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,60,F,12,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,80,F,12,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,4,70,F,12,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,5,100,F,13,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,5,90,F,13,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,5,75,F,13,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,5,60,F,13,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,5,50,F,13,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,5,120,F,14,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,5,95,F,14,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,5,80,F,14,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,5,70,F,14,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,5,70,F,14,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,5,60,F,14,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,5,50,F,14,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,5,50,F,14,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1415,1,EPJ,5,60,F,14,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,1,220,F,1,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,1,200,F,2,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,1,120,F,3,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,1,110,F,4,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,1,120,F,5,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,80,F,6,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,90,F,6,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,100,F,6,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,250,F,7,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,180,F,7,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,130,F,7,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,110,F,7,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,150,F,7,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,190,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,170,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,180,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,160,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,160,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,160,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,160,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,150,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,150,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,150,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,110,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,110,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,110,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,110,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,100,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,100,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,200,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,200,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,150,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,180,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,2,180,F,8,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,3,280,M,9,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,3,130,F,9,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,3,130,F,9,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,3,130,F,9,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,3,150,F,9,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,3,150,F,9,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,3,180,F,9,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,3,180,F,9,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,3,300,M,10,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,3,80,J,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,3,80,J,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,3,70,J,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,3,80,J,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,3,80,J,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,3,80,J,11,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,4,90,F,12,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,4,290,M,13,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,4,220,F,13,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,4,130,F,13,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,4,140,F,13,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,4,180,F,13,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,4,170,F,14,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,4,290,M,15,NA
+Armstrong,Ricey_Beach,Fished,18/1/2019,1420,1,ST,5,270,M,16,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,1,120,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,1,250,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,2,120,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,2,400,M,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,2,120,F,2,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,2,120,F,2,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,2,100,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,2,80,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,3,150,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,3,380,M,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,3,60,F,6,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,3,60,F,6,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,3,350,F,6,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,3,420,M,6,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,3,240,F,6,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,3,240,F,6,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,4,210,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,4,200,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,4,280,F,2,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,4,120,F,2,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,4,150,F,2,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,4,150,F,2,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,4,290,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,5,140,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,5,100,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,5,120,F,3,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,5,110,F,3,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,5,200,F,3,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,5,110,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,5,310,F,3,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,5,120,F,3,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,EAA,5,100,F,3,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,180,F,10,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,180,F,10,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,180,F,10,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,180,F,10,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,180,F,10,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,180,F,10,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,180,F,10,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,180,F,10,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,180,F,10,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,180,F,10,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,130,F,8,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,130,F,8,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,130,F,8,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,130,F,8,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,130,F,8,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,130,F,8,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,130,F,8,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,130,F,8,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,130,F,13,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,130,F,13,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,130,F,13,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,130,F,13,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,130,F,13,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,130,F,13,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,130,F,13,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,130,F,13,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,130,F,13,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,130,F,13,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,130,F,13,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,130,F,13,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,130,F,13,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,1,120,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,2,80,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,2,70,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,2,90,F,4,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,2,90,F,4,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,2,90,F,4,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,2,90,F,4,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,2,80,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,2,80,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,2,70,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,3,50,F,3,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,3,50,F,3,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,3,50,F,3,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,3,150,M,2,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,3,100,F,2,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,3,200,M,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,3,140,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,4,120,F,5,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,4,120,F,5,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,4,120,F,5,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,4,150,F,5,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,4,150,F,5,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,4,100,F,9,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,4,100,F,9,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,4,100,F,9,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,4,100,F,9,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,4,100,F,9,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,4,100,F,9,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,4,100,F,9,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,4,100,F,9,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,4,100,F,9,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,4,140,F,3,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,4,140,F,3,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,4,140,F,3,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,4,100,J,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,4,350,M,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,5,110,M,2,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,5,80,F,2,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,5,90,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,5,60,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,5,80,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,AH,5,70,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,1,100,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,1,100,F,2,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,1,120,F,2,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,1,250,M,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,1,90,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,1,90,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,1,110,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,1,95,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,2,100,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,2,150,F,2,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,2,110,F,2,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,2,90,F,2,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,2,110,F,2,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,2,110,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,2,110,F,2,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,2,100,F,2,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,2,105,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,2,120,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,3,220,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,3,90,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,3,90,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,3,250,F,3,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,3,120,F,3,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,3,110,F,3,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,4,200,F,3,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,4,100,F,3,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,4,110,F,3,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,4,110,F,3,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,4,70,J,3,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,4,110,F,3,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,5,110,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,5,110,F,1,NA
+Parker_Pt,Little Salmon_Bay,No-take,20/1/2019,1120,2,JH,5,130,F,1,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,1,130,F,1,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,1,200,F,1,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,1,200,F,1,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,1,200,F,1,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,1,200,F,2,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,1,100,J,2,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,2,400,M,7,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,2,150,F,7,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,2,150,F,7,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,2,150,F,7,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,2,150,F,7,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,2,150,F,7,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,2,150,F,7,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,2,150,F,7,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,2,100,F,1,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,2,200,F,1,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,3,200,F,1,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,3,200,F,1,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,3,200,F,1,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,3,150,F,6,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,3,150,F,6,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,3,150,F,6,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,3,150,F,6,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,3,150,F,6,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,3,300,M,6,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,4,170,F,1,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,4,170,F,1,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,5,150,F,1,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE,5,150,F,1,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,1,150,F,100,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,2,150,F,50,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,3,250,F,1,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,4,100,F,6,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,4,100,F,6,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,4,100,F,6,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,4,100,F,6,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,4,100,F,6,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,4,100,F,6,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,4,100,F,3,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,4,100,F,3,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,4,350,M,3,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:00,1,AAE2,5,NA,NA,NA,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,21/1/2019,10:30,2,THJ,1,NA,NA,NA,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,21/1/2019,10:30,2,THJ,2,300,M,1,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,21/1/2019,10:30,2,THJ,3,300,M,1,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,21/1/2019,10:30,2,THJ,4,250,F,1,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,21/1/2019,10:30,2,THJ,4,180,F,1,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,21/1/2019,10:30,2,THJ,5,100,F,4,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,21/1/2019,10:30,2,THJ,5,150,F,4,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,21/1/2019,10:30,2,THJ,5,160,F,4,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,21/1/2019,10:30,2,THJ,5,200,F,4,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,21/1/2019,10:30,2,THJ,5,300,M,1,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,21/1/2019,10:30,2,THJ,5,180,F,1,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,1,350,M,4,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,1,180,F,4,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,1,120,F,4,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,1,110,F,4,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,1,280,F,3,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,1,300,F,3,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,1,180,F,3,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,2,110,F,3,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,2,120,F,3,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,2,75,J,3,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,2,100,F,1,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,3,80,F,7,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,3,80,F,7,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,3,80,F,7,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,3,90,F,7,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,3,90,F,7,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,3,90,F,7,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,3,100,F,7,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,3,70,J,1,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,3,120,F,1,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,4,280,F,1,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,4,190,F,3,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,4,150,F,3,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,4,130,F,3,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,5,220,F,3,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,5,150,F,3,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,5,160,F,3,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,5,180,F,3,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,5,150,F,3,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,5,110,F,3,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,5,180,F,4,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,5,150,F,4,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,5,160,F,4,NA
+Armstrong,Little_Armstrong_Bay_East,No-take,21/1/2019,10:30,2,THJ,5,110,F,4,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,1,NA,NA,NA,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,2,100,F,1,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,2,100,F,1,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,2,100,F,1,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,2,100,F,1,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,2,100,F,1,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,2,100,F,1,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,2,100,F,1,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,2,160,F,2,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,2,160,F,2,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,2,160,F,2,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,2,150,F,3,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,2,150,F,3,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,2,150,F,3,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,2,150,F,3,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,2,150,F,3,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,2,150,F,3,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,2,150,F,3,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,2,150,F,3,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,2,150,F,3,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,2,150,F,3,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,2,150,F,3,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,2,150,F,3,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,3,NA,NA,NA,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,4,160,F,4,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,4,160,F,4,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,4,160,F,4,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,4,160,F,4,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,4,160,F,4,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,4,100,F,4,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,4,100,F,4,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,5,200,F,5,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,AAE,5,250,F,6,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,AAE,1,150,F,1,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,AAE,1,200,F,2,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,AAE,1,180,F,3,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,AAE,2,NA,NA,NA,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,AAE,3,100,F,4,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,AAE,3,100,F,4,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,AAE,3,180,F,4,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,AAE,4,120,F,5,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,AAE,4,130,F,6,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,AAE,4,100,F,7,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,AAE,4,60,F,8,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,AAE,4,90,F,9,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,AAE,4,250,F,10,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,AAE,4,170,F,10,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,AAE,5,NA,NA,NA,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,HA,1,140,F,1,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,HA,1,120,F,2,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,HA,1,80,F,3,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,HA,2,90,F,4,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,HA,3,50,F,5,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,HA,3,90,F,5,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,HA,3,90,F,5,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,HA,3,90,F,5,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,HA,3,100,F,5,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,HA,3,100,F,5,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,HA,3,90,F,6,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,HA,3,90,F,6,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,HA,4,80,F,7,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,HA,5,NA,NA,NA,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,HA,1,200,F,1,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,HA,1,200,F,1,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,HA,2,NA,NA,NA,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,HA,3,250,F,2,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,HA,3,300,M,2,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,HA,3,100,F,2,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,HA,3,100,F,2,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,HA,4,NA,NA,NA,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,HA,5,200,F,3,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,HA,5,200,F,3,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,HA,5,150,F,3,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,HA,5,150,F,3,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,HA,5,150,F,3,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,HA,5,150,F,3,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,HA,5,150,F,3,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,JH,1,100,F,1,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,JH,2,140,F,2,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,JH,3,140,F,3,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,JH,3,110,F,3,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,JH,3,150,F,3,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,JH,4,130,F,4,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,JH,5,100,F,5,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,JH,5,110,F,5,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,JH,5,130,F,6,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,JH,5,100,F,7,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,JH,5,100,F,7,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,JH,5,140,F,8,NA
+Armstrong,Parakeet_Bay,Fished,21/1/2019,1515,2,JH,5,130,F,8,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,JH,1,120,F,1,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,JH,2,110,F,2,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,JH,2,110,F,2,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,JH,3,110,F,3,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,JH,3,110,F,3,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,JH,3,110,F,3,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,JH,4,NA,NA,NA,NA
+Armstrong,Longreach_Bay,Fished,21/1/2019,1614,2,JH,5,NA,NA,NA,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,1,NA,NA,NA,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,2,200,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,2,200,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,2,200,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,2,200,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,2,200,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,2,200,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,2,200,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,2,100,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,3,300,M,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,3,100,J,3,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,3,100,J,3,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,3,100,J,3,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,3,100,J,3,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,3,100,J,3,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,3,100,J,3,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,3,100,J,3,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,3,100,J,3,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,4,100,J,4,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,4,200,F,5,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,5,150,J,6,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,5,150,J,6,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,5,150,J,6,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,5,150,J,6,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,5,150,J,6,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,5,150,J,6,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,5,150,J,6,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,5,100,J,6,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,SRJ,5,250,F,6,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,1,160,M,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,100,M,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,80,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,80,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,80,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,80,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,80,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,80,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,80,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,80,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,80,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,80,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,80,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,80,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,80,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,80,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,95,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,95,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,95,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,95,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,95,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,95,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,95,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,95,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,95,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,95,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,95,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,95,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,95,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,95,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,120,F,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,120,F,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,120,F,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,120,F,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,120,F,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,120,F,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,120,F,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,120,F,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,120,F,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,120,F,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,120,F,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,120,F,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,2,120,F,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,3,60,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,3,100,F,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,4,NA,NA,NA,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,5,150,M,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,5,50,J,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,5,50,J,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,5,50,J,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,5,50,J,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,5,50,J,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,5,50,J,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,5,50,J,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,5,50,J,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,5,50,J,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,5,50,J,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,5,60,J,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,5,60,J,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,5,60,J,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,5,60,J,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,5,60,J,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,5,60,J,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,5,60,J,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,5,60,J,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,5,60,J,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,LS,5,60,J,2,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,BC,1,200,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,BC,1,170,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,BC,2,NA,NA,NA,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,BC,3,140,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,BC,3,150,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,BC,3,170,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,BC,3,150,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,BC,3,140,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,BC,4,180,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,BC,5,140,F,1,NA
+Armstrong,Catherine_Bay,Fished,22/1/2019,1650,3,BC,5,180,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,180,F,1,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,140,F,3,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,140,F,3,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,140,F,3,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,140,F,3,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,140,F,3,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,140,F,3,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,140,F,3,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,140,F,3,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,140,F,3,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,140,F,3,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,140,F,3,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,140,F,3,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,140,F,3,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,140,F,3,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,140,F,3,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,1,140,F,3,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,2,40,J,4,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,3,NA,NA,NA,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,4,NA,NA,NA,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,SRJ,5,NA,NA,NA,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,1,NA,NA,NA,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,2,NA,NA,NA,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,3,180,F,1,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,3,180,F,1,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,3,180,F,1,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,3,180,F,1,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,4,70,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,4,100,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,4,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,4,150,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,4,100,F,3,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,4,150,F,3,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,4,190,F,3,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,5,100,F,4,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,5,100,F,4,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,5,100,F,4,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,5,100,F,4,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,5,100,F,4,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,5,100,F,4,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,5,120,F,5,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,5,100,F,6,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,5,100,F,6,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,5,150,F,6,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,5,180,F,6,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,LC,5,200,F,6,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,1,120,M,1,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,1,120,M,1,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,1,100,M,1,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,1,100,M,1,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,1,160,F,2,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,2,160,M,3,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,2,200,M,3,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,2,80,F,4,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,3,280,M,5,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,3,120,F,6,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,3,160,M,7,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,180,F,8,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,180,F,8,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,180,F,8,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,180,F,8,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,180,F,8,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,180,F,8,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,8,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,8,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,8,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,8,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,8,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,8,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,180,M,8,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,120,M,9,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,120,M,9,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,120,M,9,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,230,F,9,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,230,F,9,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,230,F,9,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,200,M,10,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,180,M,11,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,180,M,11,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,140,M,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,140,M,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,220,M,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,220,M,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,220,M,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,220,M,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,220,M,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,220,M,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,220,M,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,220,M,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,220,M,12,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,230,M,13,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,230,M,13,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,230,F,13,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,230,F,13,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,230,F,13,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,250,F,14,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,250,F,14,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,250,F,14,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,250,F,14,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,250,F,14,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,14,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,14,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,14,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,14,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,14,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,F,14,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,M,14,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,4,160,M,14,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,5,260,M,15,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,5,260,M,15,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,5,200,M,16,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,5,200,M,16,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,5,200,M,16,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,5,260,M,16,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,5,260,M,16,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,5,280,M,17,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,5,260,M,18,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,5,260,M,18,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,5,260,M,18,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,5,260,M,18,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,5,240,M,18,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,5,240,M,18,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,5,240,M,18,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,5,240,M,18,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,5,240,M,18,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,5,300,M,19,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,5,280,M,20,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,5,260,M,21,NA
+Parker_Pt,Parker_Point,Fished,23/1/2019,915,3,BS,5,230,M,21,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,1,120,F,1,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,1,120,F,1,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,1,240,M,1,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,1,220,M,1,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,1,200,M,2,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,1,180,M,3,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,1,120,M,4,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,1,120,M,4,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,1,120,M,4,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,1,120,M,4,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,1,120,M,4,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,1,120,M,4,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,1,100,M,5,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,1,150,M,6,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,1,240,F,6,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,1,200,F,6,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,2,120,F,7,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,2,160,F,8,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,2,120,F,8,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,2,160,F,8,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,2,160,F,8,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,2,100,F,9,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,2,120,J,9,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,2,120,J,9,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,3,120,M,10,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,3,160,M,11,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,3,160,M,11,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,3,120,M,11,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,3,120,M,11,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,3,120,M,11,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,3,240,M,12,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,3,160,M,12,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,3,280,M,13,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,3,140,F,14,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,4,200,M,15,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,4,160,F,16,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,4,180,M,17,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,4,160,F,18,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,4,160,F,18,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,4,160,F,18,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,4,220,F,18,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,4,120,F,19,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,4,120,F,19,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,4,160,F,19,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,4,220,M,20,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,4,100,F,21,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,5,120,F,22,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,5,120,F,22,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,5,120,F,22,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,5,140,F,22,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,5,100,J,23,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,5,140,F,24,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,5,140,F,24,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,5,200,F,24,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,5,220,M,25,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,5,220,M,25,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,5,180,M,25,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,5,200,M,26,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,5,220,M,27,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,5,180,F,28,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,5,200,F,28,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,5,180,F,29,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,BS,5,100,F,29,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,1,250,M,1,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,1,200,F,2,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,1,200,F,2,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,1,300,M,3,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,2,200,F,4,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,2,200,F,4,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,2,200,F,4,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,2,230,F,5,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,3,90,F,6,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,3,230,F,7,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,3,150,F,8,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,3,120,F,9,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,4,120,F,10,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,4,120,F,10,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,4,110,F,11,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,4,130,F,12,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,4,130,F,13,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,4,130,F,13,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,4,130,F,13,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,4,130,F,13,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,4,200,F,13,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,5,160,F,14,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,5,160,F,14,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,5,180,F,15,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,5,180,F,15,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,5,180,F,15,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,5,180,F,15,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,5,180,F,15,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,5,180,F,15,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,5,180,F,15,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,5,180,F,15,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,5,180,F,15,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,5,180,F,15,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,5,180,F,15,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,5,180,F,15,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,5,180,F,15,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,5,180,F,15,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,5,240,M,15,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,5,220,M,16,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,LC,5,180,F,17,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,1,230,F,1,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,1,130,F,2,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,1,130,F,2,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,1,130,F,2,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,2,120,F,3,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,3,NA,NA,NA,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,4,130,F,4,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,4,130,F,4,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,4,130,F,4,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,4,130,F,4,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,4,130,F,4,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,4,130,F,4,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,4,130,F,4,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,4,150,F,4,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,5,350,M,5,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,5,120,F,6,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,5,120,F,6,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,5,120,F,6,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,5,120,F,6,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,5,150,F,7,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,5,150,F,7,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,5,150,F,7,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,5,150,F,7,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,5,150,F,7,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,5,200,F,7,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,5,120,F,7,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,5,120,F,7,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,5,120,F,7,NA
+Green_Island,Mary_Cove,No-take,24/1/2019,915,3,SRJ,5,120,F,7,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,1,120,M,1,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,2,160,M,2,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,2,160,M,2,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,2,160,M,2,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,2,120,F,3,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,2,120,F,3,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,2,220,F,4,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,2,110,F,5,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,2,160,M,6,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,2,120,M,7,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,2,120,F,8,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,2,120,F,8,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,2,120,F,8,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,2,120,F,8,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,2,120,F,8,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,2,160,F,9,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,2,160,F,9,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,2,160,F,9,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,2,130,F,9,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,2,130,F,9,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,2,100,F,9,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,2,100,F,9,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,3,80,J,10,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,3,180,M,11,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,4,220,M,12,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,4,220,M,12,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,4,160,F,12,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SC,5,280,M,13,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,LB,1,120,F,1,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,LB,2,200,F,2,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,LB,2,250,M,2,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,LB,3,NA,NA,NA,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,LB,4,NA,NA,NA,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,LB,5,NA,NA,NA,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,1,200,F,1,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,1,200,F,1,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,1,200,F,1,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,1,200,F,1,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,1,200,F,1,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,1,200,F,1,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,1,200,F,1,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,1,200,F,1,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,1,200,F,1,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,1,200,F,1,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,1,200,F,1,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,1,200,F,1,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,1,200,F,1,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,1,200,F,1,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,1,200,F,1,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,1,200,F,1,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,1,200,F,1,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,1,200,F,1,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,1,200,F,1,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,1,300,M,1,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,1,150,F,2,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,2,NA,NA,NA,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,3,150,F,3,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,4,140,F,4,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,4,380,M,5,NA
+Parker_Pt,East_Salmon_Bay,Fished,24/1/2019,1414,3,SRJ,5,NA,NA,NA,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,1,NA,NA,NA,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,2,NA,NA,NA,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,150,F,1,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,150,F,1,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,150,F,1,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,150,F,1,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,150,F,1,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,150,F,1,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,150,F,1,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,100,F,1,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,2,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,2,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,130,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,140,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,140,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,140,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,140,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,140,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,140,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,140,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,140,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,140,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,120,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,120,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,120,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,120,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,120,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,120,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,120,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,120,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,120,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,M,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,3,180,M,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,4,100,F,5,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,4,100,F,5,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,5,170,F,5,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,5,170,F,5,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,5,170,F,5,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,5,170,F,5,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,5,200,F,6,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,5,210,M,7,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,5,220,M,8,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,LC,5,220,M,8,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,BS,1,160,M,1,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,BS,2,NA,NA,NA,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,BS,3,NA,NA,NA,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,BS,4,120,F,2,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,BS,4,100,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,BS,4,100,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,BS,4,180,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,BS,5,180,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,BS,5,180,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,BS,5,150,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,BS,5,160,F,5,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,BS,5,180,F,5,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,BS,5,100,F,6,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,BS,5,100,F,6,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,BS,5,100,F,6,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,SR,1,140,F,1,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,SR,1,140,F,1,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,SR,1,180,F,1,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,SR,1,250,F,2,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,SR,1,250,F,2,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,SR,1,200,F,2,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,SR,2,150,F,3,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,SR,3,NA,NA,NA,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,SR,4,150,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,SR,4,150,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,SR,4,150,F,4,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,SR,4,100,F,5,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,SR,4,100,F,5,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,SR,4,100,F,5,NA
+Green_Island,Strickland_West,Fished,25/1/2019,1100,3,SR,5,NA,NA,NA,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA1,1,250,F,1,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA1,1,50,F,2,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA1,2,40,F,3,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA1,3,120,F,4,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA1,3,110,F,4,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA1,3,140,F,5,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA1,3,90,F,6,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA1,3,70,F,7,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA1,4,300,F,8,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA1,4,70,F,9,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA1,4,70,F,9,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA1,4,70,F,9,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA1,4,120,F,10,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA1,4,90,F,11,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA1,4,90,F,11,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA1,4,90,F,11,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA1,4,90,F,11,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA1,4,90,F,11,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA1,4,90,F,11,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA1,4,90,F,11,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA1,4,130,F,12,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA1,5,NA,NA,NA,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA2,1,130,F,13,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA2,1,80,F,13,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA2,1,90,F,13,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA2,1,150,F,13,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA2,2,70,F,14,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA2,2,60,F,14,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA2,2,80,F,14,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA2,2,90,F,14,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA2,3,NA,NA,NA,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA2,4,150,F,15,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA2,4,170,F,15,NA
+Armstrong,Little_Armstrong_Bay_West,No-take,22/1/2019,NA,2,HA2,5,NA,NA,NA,NA
