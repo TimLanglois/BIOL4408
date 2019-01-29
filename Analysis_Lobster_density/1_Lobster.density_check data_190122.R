@@ -57,6 +57,8 @@ dir()
 
 # Read from local file
 gsheet.dat<-read_csv("lobster.density.gsheet.csv")
+
+str(gsheet.dat)
 # OR
 #Read from github
 gsheet.dat<-read.csv(text=getURL("https://raw.githubusercontent.com/TimLanglois/BIOL4408/master/Analysis_Lobster_density/Data/lobster.density.gsheet.csv"))
@@ -91,7 +93,7 @@ table(gsheet.dat$site,gsheet.dat$year)
 
 
 # Check how we have used site names - are they unique between levels of status? 
-table(gsheet.dat$site,gsheet.dat$status)
+table(gsheet.dat$year,gsheet.dat$status)
 
 
 
@@ -99,9 +101,29 @@ table(gsheet.dat$site,gsheet.dat$status)
 
 # Make corrections and re-formating----
 dat<-gsheet.dat %>%
+  dplyr::mutate(status = fct_recode(status,
+                                    "No-take" = "No-Take"))%>%
+  dplyr::mutate(sanctuary = fct_recode(sanctuary,
+                                    "Parker Point" = "Parker_Pt",
+                                    "Green Island" = "Green_Island",
+                                    "Armstrong Bay" = "Armstrong"))%>%
+  
 #recode the site names
+  
     dplyr::mutate(site = fct_recode(site,
-                           "Salmon Bay" = "eastsalmon"))%>%
+                           "Salmon Bay" = "eastsalmon",
+                           "City of York" = "City of York Bay",
+                           "Ricey Beach" = "Ricey_Bay",
+                           "Salmon Bay" = "East_Salmon",
+                           "Little Salmon" = "Little_Salmon",
+                           "Parker Point" = "Poc_Reef",
+                           "Green Island" = "Green_Island",
+                           "Parakeet Bay" = "Parakeet_Bay",
+                           "Salmon Bay" = "West_Salmon_Bay",
+                           "Little Armstrong" = "Little_Armstrong_Bay",
+                           "Geordie Bay" = "Geordie_Bay",
+                           "Mary Cove" = "Mary_Cove",
+                           "Strickland Bay" = "East_Strickland"))%>%
     
   #filter out sites only done once
     filter(!site%in%c(
@@ -123,18 +145,51 @@ dat<-gsheet.dat %>%
 
 
 
+unique(dat$sanctuary) #unique levels of sanctuary
+
+unique(dat$site) #unique levels of sanctuary
+
+
+str(dat)
 
 
 # Use dat and make new varialbes for sum of legal and sub.legal-----
 dat<-gsheet.dat%>% 
-  dplyr::mutate(site = fct_recode(site,"Salmon Bay" = "eastsalmon"))%>%
+  dplyr::mutate(status = fct_recode(status,
+                                    "No-take" = "No-Take"))%>%
+  dplyr::mutate(sanctuary = fct_recode(sanctuary,
+                                       "Parker Point" = "Parker_Pt",
+                                       "Green Island" = "Green_Island",
+                                       "Armstrong Bay" = "Armstrong"))%>%
+  dplyr::mutate(site = fct_recode(site,
+                                  "Salmon Bay" = "eastsalmon",
+                                  "City of York" = "City of York Bay",
+                                  "Ricey Beach" = "Ricey_Bay",
+                                  "Salmon Bay" = "East_Salmon",
+                                  "Little Salmon" = "Little_Salmon",
+                                  "Parker Point" = "Poc_Reef",
+                                  "Green Island" = "Green_Island",
+                                  "Parakeet Bay" = "Parakeet_Bay",
+                                  "Salmon Bay" = "West_Salmon_Bay",
+                                  "Little Armstrong" = "Little_Armstrong_Bay",
+                                  "Geordie Bay" = "Geordie_Bay",
+                                  "Mary Cove" = "Mary_Cove",
+                                  "Strickland Bay" = "East_Strickland"))%>%
   filter(!site%in%c(
     "Armstrong Point",
-    "Longreach",
+    # "Longreach",
     "Rocky Bay",
     "Stark Bay"))%>%
   filter(!year==2017)%>%
   droplevels()%>%
+  # replace(is.na(.), 0)%>%
+  
+  mutate_at(vars(starts_with("x")), funs(ifelse(is.na(.),0,.)))%>%
+  mutate_at(vars(starts_with("unsi")), funs(ifelse(is.na(.),0,.)))%>%
+  mutate_at(vars(starts_with("legal")), funs(ifelse(is.na(.),0,.)))%>%
+  mutate_at(vars(starts_with("sub")), funs(ifelse(is.na(.),0,.)))%>%
+  
+  # mutate_at(vars(ends_with("delay")), funs(abs, round))
   dplyr::mutate(site.new=paste(site,status,sep="."))%>%
   # make the legal sum
   dplyr::mutate(legal=(legal.unsized+x80+x85+x90+x95+x100+x105+x110+x115+x120+x125+x130+x135+x140+x145+x150))%>%

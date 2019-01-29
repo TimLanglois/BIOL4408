@@ -88,7 +88,7 @@ ggplot(dat, aes(x=status, y=count)) +
 # Jittered point plot with one factor facetted----
 ggplot(dat, aes(x=status, y=count)) + 
   geom_point(position = position_jitter(),alpha = 1/4)+
-  facet_grid(size.class~.) #facet by factor
+  facet_grid(size.class~year) #facet by factor
 
 
 #jittered point plot with two factors faceted-----
