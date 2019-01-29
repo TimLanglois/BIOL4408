@@ -61,6 +61,8 @@ plot.dir=paste(work.dir,"Plots",sep="/")
 
 # Read in the checked data-----
 # From local files
+setwd(data.dir)
+dir()
 
 length.dat<-read.csv("western.king.wrasse.csv")%>%
   glimpse()

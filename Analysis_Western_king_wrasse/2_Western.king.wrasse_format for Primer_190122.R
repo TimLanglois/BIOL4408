@@ -101,21 +101,23 @@ ratio.dat<-read.csv(text=getURL("https://raw.githubusercontent.com/TimLanglois/B
 glimpse(sum.dat)
 
 sum.response<-sum.dat%>%
-  select(sample.no,count,metric)%>%
+  select(transect.id,count,metric)%>%
   spread(metric,count, fill = 0)%>% #to make the dat.sum wide for PRIMER
   glimpse()
 
+tail(sum.response)
+head(sum.dat)
 
 # Make the factor dat.suma----
 sum.factors<-sum.dat%>%
-  select(c(sample.no,sanctuary,status,group.id))%>%
+  select(c(transect.id,sanctuary,status,group.id))%>%
   distinct()%>% #only unique combinations - to match the wide dat.suma
   glimpse()
 
 
 sum.response.factors<-sum.factors%>%
-  inner_join(sum.response,by="sample.no")%>% #join the data
-  select(sample.no,M,`F`,J,school.count,everything())%>% #orders the colums
+  inner_join(sum.response,by="transect.id")%>% #join the data
+  select(transect.id,M,`F`,J,school.count,everything())%>% #orders the colums
   append_col(., list(blank=NA), after="school.count")%>% #appends blank colum
   plyr::rename(.,replace =c("blank"="") )%>% #makes the column name blank
   glimpse()
