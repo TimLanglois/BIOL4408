@@ -9,8 +9,9 @@ Analysis_Lobster_density/.DS_Store
 #Analysis_Western_king_wrasse/Primer/
 Analysis_Western_king_wrasse/.DS_Store
 
-#Analysis_Lobster_por distribution/Plots/
-Analysis_Lobster_pot distribution/
+Analysis_Lobster_por distribution/Development/
+Analysis_Lobster_por distribution/Functions/
+#Analysis_Lobster_pot distribution/
 #Analysis_Lobster_pot distribution/X_Lobster.pot.distribution_import from shapefiles.R
 
 #Analysis_Lobster_pot distribution/00_Lobster.pot.distribution_import from shapefiles.R
