@@ -30,8 +30,8 @@ study<-"lobster.density"
 # Functions----
 # functions for summarising data in plots
 se <- function(x) sd(x) / sqrt(length(x))
-se.min <- function(x) (mean(x)) - se(x)
-se.max <- function(x) (mean(x)) + se(x)
+se.min <- function(x) (mean(x)) - se(x) #to make SE min.
+se.max <- function(x) (mean(x)) + se(x) #to make SE max.
 
 
 
@@ -76,32 +76,38 @@ dat<-read.csv(text=getURL("https://raw.githubusercontent.com/TimLanglois/BIOL440
 
 
 # Point plot----
-ggplot(data=dat, aes(x=status, y=count)) + 
-  geom_point()
+ggplot(data=dat, aes(x=status, y=count)) +  #aes is the aesthetic of the plot - sets the appearance
+  geom_point() #adds a geom point
 
 
 # Jittered point plot (great for checking data)----
+ggplot(dat, aes(x=status, y=count)) + #we don't need to write 'data=', first objcet in function is taken as data
+  geom_point(position = position_jitter()) #jitter the points
+
+
+# Jittered point plot with transparency (great for checking data)----
 ggplot(dat, aes(x=status, y=count)) + 
   geom_point(position = position_jitter(),alpha = 1/4) #alpha gives transparency
+
 
 
 # Jittered point plot with one factor facetted----
 ggplot(dat, aes(x=status, y=count)) + 
   geom_point(position = position_jitter(),alpha = 1/4)+
-  facet_grid(size.class~year) #facet by factor
+  facet_grid(size.class~.) #facet by one factor
 
 
 #jittered point plot with two factors faceted-----
 ggplot(dat, aes(x=status, y=count, colour=status)) + 
-  geom_point(position = position_jitter(width = 0.1, h = 0),alpha = 1/4)+
-  facet_grid(size.class~year)
+  geom_point(position = position_jitter(width = 0.1, height = 0),alpha = 1/4)+ #limit to jitter by width 
+  facet_grid(size.class~year)#facet by two factors
 
 
 # Box plot (does not look very good!)----
 ggplot(dat, aes(x=status, y=count)) + 
-  geom_boxplot(outlier.shape = NA, notch=FALSE, width=0.8)+
-  geom_point(position = position_jitter(width = 0.1, h = 0),alpha = 1/4, size=1)+
-  stat_summary(fun.y=mean, geom="point", shape=2, size=4)+ #adds mean
+  geom_point(position = position_jitter(width = 0.1, h = 0),alpha = 1/4)+
+  geom_boxplot(outlier.shape = NA, notch=FALSE, width=0.8)+ #add boxplot
+  stat_summary(fun.y=mean, geom="point", shape=2, size=4, colour="red")+ #adds mean as shape=2 - triangle
   facet_grid(size.class~sanctuary)
 
 
@@ -116,25 +122,25 @@ dir()
 
 # Barplot By Status----
 ggplot(dat%>%filter(size.class=="legal"), aes(x=status, y=count,fill=status)) + 
-  stat_summary(fun.y=mean, geom="bar") +
-  stat_summary(fun.ymin = se.min, fun.ymax = se.max, geom = "errorbar", width = 0.1) +
+  stat_summary(fun.y=mean, geom="bar") + #add bar at mean
+  stat_summary(fun.ymin = se.min, fun.ymax = se.max, geom = "errorbar", width = 0.1) + #add error bars
   ggtitle("Legal lobster") #add a title
 # facet_grid(.~sanctuary)
 
 
 # Save the plot----
-ggsave("status.barplot.png") #save the last plot made - can be confuding when you have lots of plots
+ggsave("status.barplot.png") #save the last plot made - can be confusing when you have lots of plots
 
 
 
 # Barplot By Status----
-status.barplot<-
+status.barplot<- #make an object with the plot
 ggplot(dat%>%filter(size.class=="legal"), aes(x=status, y=count,fill=status)) + 
   stat_summary(fun.y=mean, geom="bar") +
   stat_summary(fun.ymin = se.min, fun.ymax = se.max, geom = "errorbar", width = 0.1) +
   ggtitle("Legal lobster")+
   facet_grid(.~sanctuary)
-status.barplot
+status.barplot #call object to see the plot
 
 ggsave("status.barplot.png",status.barplot,width = 15, height = 8,units = "cm")
 
