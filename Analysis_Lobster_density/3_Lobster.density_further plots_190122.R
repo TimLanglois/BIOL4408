@@ -207,37 +207,62 @@ ggsave(status.year.sanctuary,file="status.year.sanctuary.png",width = 15, height
 
 
 
-# Temporal plot----
-glimpse(dat)
 
-status.year.size<-ggplot(dat, aes(x=year, y=count,colour=status)) + 
+
+
+
+# PLOTS of significant effects/interactions from ANOVA/ANCOVA----
+
+
+
+# All years - Year x Status
+ggplot(dat%>%filter(size.class=="legal"), aes(x=year, y=count,colour=status)) + 
   stat_summary(fun.y=mean, geom="point") +
   stat_summary(fun.y=mean, geom="line") +
   stat_summary(fun.ymin = se.min, fun.ymax = se.max, geom = "errorbar", width = 0.1) +
-  theme_bw()+
-  Theme1+
-  #Add a facet?
-  facet_grid(size.class~sanctuary,scale="free")
+  theme_bw()
+
+
   
-status.year.size
+# All years - Year x Sanctuary
+ggplot(dat%>%filter(size.class=="legal"), aes(x=year, y=count,colour=sanctuary)) + 
+  stat_summary(fun.y=mean, geom="point") +
+  stat_summary(fun.y=mean, geom="line") +
+  stat_summary(fun.ymin = se.min, fun.ymax = se.max, geom = "errorbar", width = 0.1) +
+  theme_bw()
 
 
 
-
-
-# Plot of lobster with co-variate geom_smooth()----
-# geom_smooth()? #be careful with geom_smooth()
-
-
-legal.status.complexity<-
+# All years - complexity x Sanctuary x Status
   ggplot(dat%>%filter(size.class=="legal"), aes(x=complexity, y=count,colour=status)) + 
-  # smoother - by defauly uses loess and adds a standard error
-  geom_smooth()+
-  # geom_smooth(method=lm, size=0.5,se=F)+
+  geom_smooth(method=lm, size=0.5,se=F)+
   theme_bw()+
   facet_grid(sanctuary~.)
-legal.status.complexity
 
 
+  
+  
+  
+  # 2019 - Sanctuary x Status  -------
+  
+  ggplot(dat%>%filter(size.class=="legal"&year==2019),aes(x=status, y=count,fill=status)) +
+    stat_summary(fun.y=mean, geom="bar", colour="black") +
+    stat_summary(fun.ymin = se.min, fun.ymax = se.max, geom = "errorbar", width = 0.1) +
+    facet_grid(.~sanctuary)
+  
+  
+  
+  
+  # 2019 -  Complexity x Sanctuary -------
+  
+  ggplot(dat%>%filter(size.class=="legal"&year==2019), aes(x=complexity, y=count,colour=sanctuary)) + 
+    geom_smooth(method=lm, size=0.5,se=F)+
+    coord_cartesian(ylim = c(0, 3), expand = FALSE)
+  
+  
+  
+  
+  
+  
 
 
