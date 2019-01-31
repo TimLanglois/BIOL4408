@@ -16,12 +16,17 @@ rm(list=ls())
 
 
 
+if(!requireNamespace("devtools")) install.packages("devtools")
+devtools::install_github("dkahle/ggmap", ref = "tidyup",force = TRUE)
+
+
 # load librarys----
 library(tidyr) #to tidy data
 library(dplyr) #to transform data
 library(readr) #to write data
 library(ggplot2) #to plot data
-install.packages("ggmap") #Run once then # out
+# install.packages("ggmap") #Run once then # out
+
 library(ggmap)
 
 
