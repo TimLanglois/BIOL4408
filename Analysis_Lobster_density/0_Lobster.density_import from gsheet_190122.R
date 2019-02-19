@@ -53,7 +53,7 @@ data.dir=paste(work.dir,"Data",sep="/")
 # Read in the data from gsheet and check it----
 
 # # For Rstudio Desktop
-# options(httr_oob_default=FALSE) 
+options(httr_oob_default=FALSE)
 # 
 # # For Rstudio Server
 # options(httr_oob_default=TRUE) 
