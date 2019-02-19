@@ -1,7 +1,9 @@
 # User created folders
 #Analysis_Lobster_density/Data/
-#Analysis_Lobster_density/Plots/
+Analysis_Lobster_density/Plots/
 # Analysis_Lobster_density/Primer/
+Analysis_Lobster_density/ModelOut/
+
 Analysis_Lobster_density/.DS_Store
 
 #Analysis_Western_king_wrasse/Data/
@@ -11,6 +13,8 @@ Analysis_Western_king_wrasse/.DS_Store
 
 Analysis_Lobster_pot distribution/Development/
 Analysis_Lobster_pot distribution/Functions/
+Analysis_Lobster_pot distribution/Plots/
+
 #Analysis_Lobster_pot distribution/
 #Analysis_Lobster_pot distribution/X_Lobster.pot.distribution_import from shapefiles.R
 
