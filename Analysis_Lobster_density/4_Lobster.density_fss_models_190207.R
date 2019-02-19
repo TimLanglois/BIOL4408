@@ -130,13 +130,15 @@ dat <-dat.raw%>%
   #no need to do any transformations here
   dplyr::rename(response=count,group=size.class)%>% #rename variable
   group_by(group)%>%
-  dplyr::mutate(random=rnorm(n(), mean=10, sd=2))%>%
+  dplyr::mutate(random=rnorm(n(), mean=10, sd=2))%>% #Added a random predictor to make function work
   ungroup()%>%
   glimpse()
 
 
 # Re-set continous predictor variables----
-cont.pred.vars=c("complexity","random") # BECKY - how come I have to have two cont.pred.vars?
+cont.pred.vars=c("complexity","random") 
+
+# BECKY - how come I have to have two cont.pred.vars?
 
 
 #If I only have the "complexity" pred var. The function throws the error 
