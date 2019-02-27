@@ -136,23 +136,9 @@ dat <-dat.raw%>%
 
 
 # Re-set continous predictor variables----
-cont.pred.vars=c("complexity","random") 
-
-# BECKY - how come I have to have two cont.pred.vars?
+cont.pred.vars=c("complexity") 
 
 
-#If I only have the "complexity" pred var. The function throws the error 
-# "Error in generate.model.set(use.dat = use.dat, test.fit = Model1, pred.vars.cont = cont.pred.vars,  : 
-#   Model max.predictors is greater than the number of predictors."
-
-# I would have thought I could run the model with only:
-#   cont.pred.vars=c("complexity")
-#   lin.pred.vars=c("year") 
-#   factor.vars=c("status")
-
-# Is the function not counting one of the lin.pred.vars or factor.vars in its count of Model max.predictors?
-  
-  
   
 
 # Set linear predictor variables----
@@ -160,7 +146,7 @@ lin.pred.vars=c("year")
 
 
 # Set factor predictor variables----
-factor.vars=c("status")# Status as a Factor with two levels, "sanctuary" as a facotr with 3 levels
+factor.vars=c("status","sanctuary")# Status as a Factor with two levels, "sanctuary" as a facotr with 3 levels
 
 
 # Check to make sure Response vector has not more than 80% zeros----
@@ -192,7 +178,7 @@ var.imp=list()
 
 # Inspect the model set for FSSgam
 
-Model1=gam(response~ s(complexity,bs="cr",k=3)+s(sanctuary,site.new,bs="re"),
+Model1=gam(response~ s(complexity,bs="cr",k=3)+s(site.new,bs="re"),
            family=tw(),  data=use.dat)
 
 model.set=generate.model.set(use.dat=use.dat,
@@ -217,7 +203,7 @@ var.imp=list()
 for(i in 1:length(resp.vars)){
   use.dat=dat[which(dat$group==resp.vars[i]),]
   
-  Model1=gam(response~s(complexity,bs="cr",k=3)+s(sanctuary,site.new,bs="re"),
+  Model1=gam(response~s(complexity,bs="cr",k=3)+s(site.new,bs="re"),
              family=tw(),  data=use.dat)
   
   model.set=generate.model.set(use.dat=use.dat,
@@ -227,7 +213,7 @@ for(i in 1:length(resp.vars)){
                                pred.vars.fact=factor.vars,
                                k=3,
                                max.predictors = 3,
-                               null.terms="s(sanctuary,site.new,bs='re')")
+                               null.terms="s(site.new,bs='re')")
   
   # Runs the actuall FSSgam function--
   out.list=fit.model.set(model.set,
