@@ -58,3 +58,7 @@ BUT BE CAREFUL - git pull will overwrite any changes you have made to the script
 
 I suggest you make you own version of the code in the Analysis folders that you can edit and annotate
 
+
+Ideas for teaching
+https://jules32.github.io/2016-07-12-Oxford/dplyr_tidyr/
+
