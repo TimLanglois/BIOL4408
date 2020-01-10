@@ -236,8 +236,6 @@ write_csv(dat,paste(study,"csv",sep = "."))
 ```
 
 
-
-
 [Go to Lobster denisty 3. Basic plots to check the data](https://github.com/TimLanglois/BIOL4408/blob/c5aa4f8881ad41e1352c8618091e4de530171b0f/Analysis_Lobster_density/3_lobster-density_basic-plots-to-check-data.md)
 
 

@@ -4,7 +4,6 @@ TimLanglois
 09/01/2020
 
 ## 2\. Check the data and make corrections.
-
 Load extra librarys
 
 ``` r
