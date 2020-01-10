@@ -3,7 +3,7 @@ BIOL4408 Marine Ecology: Lobster density 2.
 TimLanglois
 09/01/2020
 
-## 2\. Check the data and make some quick plots
+## 2\. Check the data and make corrections.
 
 Load extra librarys
 
@@ -268,9 +268,12 @@ table(gsheet.dat$site,gsheet.dat$status)
 ## Corrections to the data
 
 We have some corrections to make. It is always good to have our source
-data as ‘correct’ as possible. Here, we will make these corrections in
-our R import script so that we can keep a record of the
+data as ‘correct’ as possible. However, in this case we will make these
+corrections in our R import script so that we can keep a record of the
 changes/corrections we are making to the data.
+
+We can use this list of corrections to go back and check and correct the
+raw data if we want.
 
 Make corrections and re-format.
 
@@ -531,31 +534,5 @@ dir() #look in the directory
 write_csv(dat,paste(study,"csv",sep = "."))
 ```
 
-# Basic plots to check out the data—-
-
-# Point plot—-
-
-ggplot(data=dat, aes(x=status, y=count)) + geom\_point()
-
-# Jittered point plot (great for checking data)—-
-
-ggplot(dat, aes(x=status, y=count)) + geom\_point(position =
-position\_jitter(),alpha = 1/4) \#alpha gives transparency
-
-# Jittered point plot with one factor facetted—-
-
-ggplot(dat, aes(x=status, y=count)) + geom\_point(position =
-position\_jitter(),alpha = 1/4)+ facet\_grid(.~year) \#facet by factor
-
-\#jittered point plot with two factors faceted—– ggplot(dat,
-aes(x=status, y=count, colour=status)) + geom\_point(position =
-position\_jitter(width = 0.1, h = 0),alpha = 1/4)+
-facet\_grid(size.class~year)
-
-# Box plot (does not look very good\!)—-
-
-ggplot(dat, aes(x=status, y=count)) + geom\_boxplot(outlier.shape = NA,
-notch=FALSE, width=0.8)+ geom\_point(position = position\_jitter(width =
-0.1, h = 0),alpha = 1/4, size=1)+ stat\_summary(fun.y=mean,
-geom=“point”, shape=2, size=4)+ \#adds mean
-facet\_grid(size.class~sanctuary)
+[Go to Lobster denisty 3. Basic plots to check the
+data](https://github.com/TimLanglois/BIOL4408/blob/c5aa4f8881ad41e1352c8618091e4de530171b0f/Analysis_Lobster_density/3_lobster-density_basic-plots-to-check-data.md)
