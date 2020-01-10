@@ -38,6 +38,7 @@ library(RCurl) #needed to download data from GitHub
 # install FSSgam package----
 # devtools::install_github("beckyfisher/FSSgam_package") #run once
 library(FSSgam)
+library(here)
 
 rm(list=ls())
 

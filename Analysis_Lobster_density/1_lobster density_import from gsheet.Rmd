@@ -1,0 +1,65 @@
+---
+title: "BIOL4408 Marine Ecology: Lobster density 1."
+author: "TimLanglois"
+date: "09/01/2020"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## 1. Import lobster density data from a google sheet
+
+First we load some librarys
+```{r libs1, message=FALSE, warning=FALSE}
+library(googlesheets4) #to read gsheet
+library(tidyr) #to tidy data
+library(dplyr) #to transform data
+library(readr) #to write data
+library(here) #to make robust links to files
+```
+
+It is useful to set a study name
+```{r name, message=FALSE, warning=FALSE}
+study<-"lobster.density"
+```
+
+Read in the data from the google sheet and check it
+```{r read, message=FALSE, warning=FALSE}
+#We need the URL for the google sheet
+url <- "https://docs.google.com/spreadsheets/d/1Wqn7m2jopx11n5fdl9MHZAujRVkjBusdmIHq_gMhf0A"
+
+# Then we can read it in
+dat<-read_sheet(url, sheet = "lobster.density")%>%
+  as_tibble()%>%
+  select(-c('longitude','latitude','time','way.point','gps','depth','group'))%>%
+  glimpse()
+```
+
+
+Now we need to write the data.
+
+There are several ways to setting the directory where we will read data from or write data to.
+
+We are going to use the here() function.
+
+As long as the names on the folders are consistent this function will enable us to work across computers and operating systems.
+
+Let's use here() to make a shortcut to the "Data" directory.
+```{r here, message=FALSE, warning=FALSE}
+data.dir <- here("Analysis_Lobster_density","Data")
+```
+
+
+Now to write the data we have imported from the googlesheet.
+We will append the study name.
+```{r write, message=FALSE, warning=FALSE}
+setwd(data.dir)#this is our shortcut using here()
+dir()
+
+write_csv(dat,paste(study,"gsheet","csv",sep = "."))
+
+```
+

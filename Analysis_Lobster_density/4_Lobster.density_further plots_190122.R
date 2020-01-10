@@ -20,7 +20,7 @@ library(dplyr)
 library(readr)
 library(ggplot2)
 library(RCurl) #needed to download data from GitHub
-
+library(here)
 
 # Set name for study--
 study<-"lobster.density"
@@ -39,21 +39,22 @@ se.max <- function(x) (mean(x)) + se(x) #to make SE max.
 
 
 
-# Set work directory----
-# Set your own to match where the data sits on your computer
-
-work.dir=("~/GitHub/BIOL4408/Analysis_Lobster_density") #for Tim's desktop
-
-work.dir=("~/workspace/BIOL4408/Analysis_Lobster_density") #for ecocloud server
-# or
-#work.dir=("") #set this for your computer work directory
+# # Set work directory----
+# # Set your own to match where the data sits on your computer
+# 
+# work.dir=("~/GitHub/BIOL4408/Analysis_Lobster_density") #for Tim's desktop
+# 
+# work.dir=("~/workspace/BIOL4408/Analysis_Lobster_density") #for ecocloud server
+# # or
+# #work.dir=("") #set this for your computer work directory
 
 
 
 # Set sub-directories----
-data.dir=paste(work.dir,"Data",sep="/")
-plot.dir=paste(work.dir,"Plots",sep="/")
+dir.create(file.path(here("Analysis_Lobster_density"), "Plots")) #create Plots folder
 
+data.dir<-here("Analysis_Lobster_density","Data")
+plots.dir=here("Analysis_Lobster_density","Plots")
 
 
 
@@ -225,9 +226,8 @@ ggsave(status.year.sanctuary,file="status.year.sanctuary.png",width = 15, height
 ggplot(dat%>%filter(size.class=="legal"), aes(x=year, y=count,colour=status)) + 
   stat_summary(fun.y=mean, geom="point") +
   stat_summary(fun.y=mean, geom="line") +
-  stat_summary(fun.ymin = se.min, fun.ymax = se.max, geom = "errorbar", width = 0.1) +
+  stat_summary(fun.ymin = se.min, fun.ymax = se.max, geom = "errorbar", width = 0.1)+
   theme_bw()
-
 
   
 # All years - Year x Sanctuary
@@ -238,24 +238,19 @@ ggplot(dat%>%filter(size.class=="legal"), aes(x=year, y=count,colour=sanctuary))
   theme_bw()
 
 
-
 # All years - complexity x Sanctuary x Status
   ggplot(dat%>%filter(size.class=="legal"), aes(x=complexity, y=count,colour=status)) + 
   geom_smooth(method=lm, size=0.5,se=F)+
   theme_bw()+
   facet_grid(sanctuary~.)
 
-
-  
-  
   
   # 2019 - Sanctuary x Status  -------
-  
+
   ggplot(dat%>%filter(size.class=="legal"&year==2019),aes(x=status, y=count,fill=status)) +
     stat_summary(fun.y=mean, geom="bar", colour="black") +
     stat_summary(fun.ymin = se.min, fun.ymax = se.max, geom = "errorbar", width = 0.1) +
     facet_grid(.~sanctuary)
-  
   
   
   

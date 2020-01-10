@@ -15,36 +15,39 @@ rm(list=ls())
 
 
 # load librarys----
-library(googlesheets) #to read gsheet
+library(googlesheets4) #to read gsheet
 library(tidyr) #to tody data
 library(dplyr) #to transform data
 library(forcats) #to transform catagorical data
 library(readr) #to write data
 library(ggplot2) #to plot data
-
-
+library(here)
 
 
 # Set name for study--
 study<-"lobster.density"
 
 
-
-
-
 # Set work directory----
+# This is one way of setting a working directory
 # Set your own to match where the data sits on your computer
 
-work.dir=("~/GitHub/BIOL4408/Analysis_Lobster_density") #for Tim's desktop
+work.dir=("~/GitHub/BIOL4408/Analysis_Lobster_density") #for Tim's laptop
 
 work.dir=("~/workspace/BIOL4408/Analysis_Lobster_density") #for ecocloud server
 # or
 #work.dir=("") #set this for your computer work directory
 
-
-
 # Set sub-directories----
 data.dir=paste(work.dir,"Data",sep="/")
+
+
+# But this can break!
+
+# So we are going to use here()
+
+setwd(here("Analysis_Lobster_density","Data"))
+dir()
 
 
 
@@ -57,18 +60,23 @@ options(httr_oob_default=FALSE)
 # 
 # # For Rstudio Server
 # options(httr_oob_default=TRUE) 
-# gs_auth(new_user = TRUE) 
+# gs_auth(new_user = TRUE)
 
 
-gs_ls() #list gsheets you have access to
+url <- "https://docs.google.com/spreadsheets/d/1Wqn7m2jopx11n5fdl9MHZAujRVkjBusdmIHq_gMhf0A/edit#gid=25814706"
+dat<-read_sheet(url, sheet = "lobster.density")%>%
+  as_tibble()%>%
+  glimpse()
+  
+ dat<-dat%>%
+  select(-c('longitude','latitude','time','way.point','gps','depth','group'))%>%
+  glimpse()
+ 
 
-dat <- gs_title("BIOL4408.lobster.density")%>% #select the gsheet
-  gs_read_csv(ws = "lobster.density")%>% #select the worksheet within the workbook
-glimpse()
 
 # Write the gsheet data----
-setwd(data.dir) #set the directory
-dir() #look in the directory
+ setwd(here("Analysis_Lobster_density","Data"))
+ dir() #look in the directory
 
 # Write dat using study name and system date
 write_csv(dat,paste(study,"gsheet","csv",sep = "."))

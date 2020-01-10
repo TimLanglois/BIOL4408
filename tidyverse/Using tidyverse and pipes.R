@@ -48,34 +48,35 @@ iris %>%
 # "you take the Iris data, then you subset the data and then you aggregate the data".
 
 
+glimpse(iris)
 
 
 # Nested option:
 arrange(
   summarize(
     group_by(
-      filter(mtcars, carb > 1),
-      cyl
+      filter(iris, Petal.Length > 1),
+      Species
     ),
-    Avg_mpg = mean(mpg)
+    Avg_Sepal.Length = mean(Sepal.Length)
   ),
-  desc(Avg_mpg)
+  desc(Avg_Sepal.Length)
 )
 
 
 # Multiple Object Option:
-a <- filter(mtcars, carb > 1)
-b <- group_by(a, cyl)
-c <- summarise(b, Avg_mpg = mean(mpg))
-d <- arrange(c, desc(Avg_mpg))
+a <- filter(iris, Petal.Length > 1)
+b <- group_by(a, Species)
+c <- summarise(b, Avg_Sepal.Length = mean(Sepal.Length))
+d <- arrange(c, desc(Avg_Sepal.Length))
 print(d)
 
 
 # %>% Option:
-mtcars %>%
-  filter(carb > 1) %>%
-  group_by(cyl) %>%
-  summarise(Avg_mpg = mean(mpg)) %>%
-  arrange(desc(Avg_mpg))%>%
+iris %>%
+  filter(Petal.Length > 1) %>%
+  group_by(Species) %>%
+  summarise(Avg_Sepal.Length = mean(Sepal.Length)) %>%
+  arrange(desc(Avg_Sepal.Length))%>%
   glimpse()
 

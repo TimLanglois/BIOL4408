@@ -1,0 +1,236 @@
+---
+title: "BIOL4408 Marine Ecology: Lobster density 2."
+author: "TimLanglois"
+date: "09/01/2020"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## 2. Check the data and make corrections.
+
+Load extra librarys
+```{r libs2, message=FALSE, warning=FALSE}
+library(tidyr) #to tidy data
+library(dplyr) #to transform data
+library(readr) #to write data
+library(here) #to make robust links to files
+
+library(forcats) #to transform catagorical data
+library(ggplot2) #to plot data
+```
+
+
+Set a study name
+```{r name, message=FALSE, warning=FALSE}
+study<-"lobster.density"
+```
+
+
+Use here() to make a shortcut to the "Data" directory.
+```{r here, message=FALSE, warning=FALSE}
+data.dir <- here("Analysis_Lobster_density","Data")
+```
+
+
+Read in the data and glimpse the data.
+glimpse() shows the variable names, formats, head of the data.
+```{r read, message=FALSE, warning=FALSE}
+setwd(data.dir)#this is out shortcut using here()
+dir()
+
+gsheet.dat<-read_csv("lobster.density.gsheet.csv")%>%
+  glimpse()
+
+```
+This is wide format data.
+
+
+Check for unique levels of status.
+```{r check status, message=FALSE, warning=FALSE}
+unique(gsheet.dat$status)
+```
+there is a typo we need to correct in No-Take
+
+
+Check for unique levels of sanctuary.
+```{r check sanct, message=FALSE, warning=FALSE}
+unique(gsheet.dat$sanctuary)
+
+```
+We need to make these consistent.
+
+
+Check for unique levels of site.
+```{r check site, message=FALSE, warning=FALSE}
+unique(gsheet.dat$site)
+
+```
+"eastsalmon" should be "Salmon Bay"
+
+
+Check for unique levels of year.
+```{r check year, message=FALSE, warning=FALSE}
+unique(gsheet.dat$year)
+
+```
+We think the data from 2017 has errors in it. We should remove it.
+
+
+Check measures of habitat complexity.
+As this is a semi-continous variable we will use summary() to see the range.
+```{r check complex, message=FALSE, warning=FALSE}
+unique(gsheet.dat$complexity)
+
+summary(gsheet.dat$complexity)
+
+```
+The maximum value is supposed to be 4. Looks ok.
+
+
+Check measures of habitat cover.
+```{r check cover, message=FALSE, warning=FALSE}
+unique(gsheet.dat$algal.cover)
+
+summary(gsheet.dat$algal.cover)
+
+unique(filter(gsheet.dat,year=="2019")$algal.cover)
+
+```
+The maximum value is supposed to be 4.
+This does not look consistent. Suggest you only use the most recent years of data.
+
+
+Check what sites are missing between years.
+```{r check sites by years, message=FALSE, warning=FALSE}
+table(gsheet.dat$site,gsheet.dat$year)
+```
+"Armstrong Point","Longreach","Rocky Bay","Stark Bay" - are only sampled once and we should remove them.
+
+
+
+Check how we have used site names and that they are unique between levels of status?
+```{r check sites, message=FALSE, warning=FALSE}
+table(gsheet.dat$site,gsheet.dat$status)
+```
+
+## Corrections to the data
+
+We have some corrections to make.
+It is always good to have our source data as 'correct' as possible.
+However, in this case we will make these corrections in our R import script so that we can keep a record of the changes/corrections we are making to the data.
+
+We can use this list of corrections to go back and check and correct the raw data if we want.
+
+Make corrections and re-format.
+```{r correct, message=FALSE, warning=FALSE}
+
+correct.dat<-gsheet.dat %>%
+  dplyr::mutate(status = fct_recode(status,
+                                    "No-take" = "No-Take"))%>%
+  dplyr::mutate(sanctuary = fct_recode(sanctuary,
+                                    "Parker Point" = "Parker_Pt",
+                                    "Green Island" = "Green_Island",
+                                    "Armstrong Bay" = "Armstrong"))%>%
+  
+#recode the site names
+  
+    dplyr::mutate(site = fct_recode(site,
+                           "Salmon Bay" = "eastsalmon",
+                           "City of York" = "City of York Bay",
+                           "Ricey Beach" = "Ricey_Bay",
+                           "Salmon Bay" = "East_Salmon",
+                           "Little Salmon" = "Little_Salmon",
+                           "Parker Point" = "Poc_Reef",
+                           "Green Island" = "Green_Island",
+                           "Parakeet Bay" = "Parakeet_Bay",
+                           "Salmon Bay" = "West_Salmon_Bay",
+                           "Little Armstrong" = "Little_Armstrong_Bay",
+                           "Geordie Bay" = "Geordie_Bay",
+                           "Mary Cove" = "Mary_Cove",
+                           "Strickland Bay" = "East_Strickland"))%>%
+    
+  #filter out sites only done once
+    filter(!site%in%c(
+    "Armstrong Point",
+    "Longreach",
+    "Rocky Bay",
+    "Stark Bay"))%>%
+  
+  #filter out suspicous year  
+    filter(!year==2017)%>%
+  
+  #remove the levels for the filtered facotrs
+    droplevels()%>%
+  
+  # Make a new unique Site name - to account for Parker Point being used for inside and outside the NTZ.
+  dplyr::mutate(site.new=paste(site,status,sep="."))%>%
+  
+    glimpse()
+
+```
+
+
+Now we can check our corrections
+```{r recheck, message=FALSE, warning=FALSE}
+
+glimpse(correct.dat)
+
+unique(correct.dat$sanctuary) 
+
+unique(correct.dat$site) 
+
+unique(correct.dat$status)
+
+table(correct.dat$site.new,correct.dat$status)
+
+
+```
+
+
+Now make new varialbes for sum of legal and sub.legal.
+Make the data long format.
+```{r make sum}
+
+dat<-correct.dat%>%
+  
+  replace(is.na(.), 0)%>%
+  
+  mutate_at(vars(starts_with("x")), funs(ifelse(is.na(.),0,.)))%>%
+  mutate_at(vars(starts_with("unsi")), funs(ifelse(is.na(.),0,.)))%>%
+  mutate_at(vars(starts_with("legal")), funs(ifelse(is.na(.),0,.)))%>%
+  mutate_at(vars(starts_with("sub")), funs(ifelse(is.na(.),0,.)))%>%
+  
+  # make the legal sum
+  dplyr::mutate(legal=(legal.unsized+x80+x85+x90+x95+x100+x105+x110+x115+x120+x125+x130+x135+x140+x145+x150))%>%
+  
+  # make the sub.legal sum
+  dplyr::mutate(sub.legal=(sublegal.unsized+x25+x30+x35+x40+x45+x50+x55+x60+x65+x70+x75))%>%
+  
+  # make an all sum
+  dplyr::mutate(all=(legal+sub.legal+unsized))%>%
+  
+  # make a unique sample number
+  dplyr::mutate(sample.no=1:nrow(.))%>%
+  
+  # select the variables of interest
+  select(c(sample.no,year,date,sanctuary,status,site.new,complexity,algal.cover,legal,sub.legal,all))%>%
+  
+  # # # make the data long
+  gather(key="size.class",value="count",legal, sub.legal,all)%>%
+  glimpse()
+
+```
+
+Write the data
+```{r message=FALSE, warning=FALSE}
+setwd(data.dir) #set the directory
+dir() #look in the directory
+
+# Write dat using study name
+write_csv(dat,paste(study,"csv",sep = "."))
+
+```

@@ -25,7 +25,7 @@ library(plyr) #older R library that has a function we need - can cause conflicts
 library(dplyr)
 library(readr)
 library(RCurl) #needed to download data from GitHub
-
+library(here)
 
 # Set name for study--
 study<-"lobster.density"
@@ -50,23 +50,18 @@ append_col <- function(x, cols, after=length(x)) {
 
 
 
-# Set work directory----
-# Set your own to match where the data sits on your computer
-
-work.dir=("~/GitHub/BIOL4408/Analysis_Lobster_density") #for Tim's desktop
-
-work.dir=("~/workspace/BIOL4408/Analysis_Lobster_density") #for ecocloud server
-# or
-#work.dir=("") #set this for your computer work directory
-
-
+# # Set work directory----
+# # Set your own to match where the data sits on your computer
+# 
+# work.dir=("~/GitHub/BIOL4408/Analysis_Lobster_density") #for Tim's desktop
+# 
+# work.dir=("~/workspace/BIOL4408/Analysis_Lobster_density") #for ecocloud server
+# # or
+# #work.dir=("") #set this for your computer work directory
 
 
-
-# Set sub-directories----
-data.dir=paste(work.dir,"Data",sep="/")
-primer.dir=paste(work.dir,"Primer",sep="/")
-
+data.dir<-here("Analysis_Lobster_density","Data")
+primer.dir=here("Analysis_Lobster_density","Primer")
 
 
 

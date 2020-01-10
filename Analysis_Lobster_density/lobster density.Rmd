@@ -1,106 +1,166 @@
-# BIOL4408 Marine Ecology field trip
+---
+title: "lobster density"
+author: "TimLanglois"
+date: "09/01/2020"
+output: github_document
+---
 
-###### Import lobster density data from gsheet ######
-### Written by Tim Langlois 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
-
-##  What are we going to do with the data?----
-##  1. Check and save the data
-##  2. Rough-Plot of the data to explore and look for outliers.
-
-
-
-# Clear the workspace--
-rm(list=ls())
+#BIOL4408 Marine Ecology - lobster density
 
 
+## 0. Import lobster density data from a google sheet
 
-# load librarys----
+
+First we need to load some librarys
+
+```{r libs1, message=FALSE, warning=FALSE}
+library(googlesheets4) #to read gsheet
 library(tidyr) #to tody data
 library(dplyr) #to transform data
-library(forcats) #to transform catagorical data
 library(readr) #to write data
-library(ggplot2) #to plot data
-library(RCurl) #needed to download data from GitHub
+library(here) #to make robust links to files
+```
 
-
-
-# Set name for study--
+It is useful to set a study name
+```{r name, message=FALSE, warning=FALSE}
 study<-"lobster.density"
+```
 
 
+Read in the data from the google sheet and check it
+```{r read, message=FALSE, warning=FALSE}
+#We need the URL for the google sheet
+url <- "https://docs.google.com/spreadsheets/d/1Wqn7m2jopx11n5fdl9MHZAujRVkjBusdmIHq_gMhf0A/edit#gid=25814706"
+
+# Then we can read it in
+dat<-read_sheet(url, sheet = "lobster.density")%>%
+  as_tibble()%>%
+  select(-c('longitude','latitude','time','way.point','gps','depth','group'))%>%
+  glimpse()
+```
 
 
+Now we need to write the data.
 
-# Set work directory----
-# Set your own to match where the data sits on your computer
+There are several ways to setting the directory where we will read data from or write data to.
 
-work.dir=("~/GitHub/BIOL4408/Analysis_Lobster_density") #for Tim's desktop
+We are going to use the here() function.
 
-work.dir=("~/workspace/BIOL4408/Analysis_Lobster_density") #for ecocloud server
-# or
-#work.dir=("") #set this for your computer work directory
+As long as the names on the folders are consistent this function will enable us to work across computers and operating systems.
 
-
-
-# Set sub-directories----
-data.dir=paste(work.dir,"Data",sep="/")
+```{r here, message=FALSE, warning=FALSE}
+data.dir<-here("Analysis_Lobster_density","Data")
+dir()
+```
 
 
-
-
-
-# Read in the data and check it----
-
-setwd(data.dir)
+Now to write the data we have imported from the googlesheet.
+We will append the study name.
+```{r write, message=FALSE, warning=FALSE}
+setwd(data.dir)#this is out shortcut using here()
 dir()
 
-# Read from local file
-gsheet.dat<-read_csv("lobster.density.gsheet.csv")
+write_csv(dat,paste(study,"gsheet","csv",sep = "."))
 
-str(gsheet.dat)
-# OR
-#Read from github
-gsheet.dat<-read.csv(text=getURL("https://raw.githubusercontent.com/TimLanglois/BIOL4408/master/Analysis_Lobster_density/Data/lobster.density.gsheet.csv"))
-
-  
-  
-
-glimpse(gsheet.dat) #glimpse the data
-#variable names, formats, head of the data
+```
 
 
-unique(gsheet.dat$status) #unique levels of status
-unique(gsheet.dat$sanctuary) #unique levels of sanctuary
-unique(gsheet.dat$site) #unique levels of site
-# "eastsalmon" should be "Salmon Bay"
+## 1. Check the lobster density data and make some quick plots
+
+Load some extra librarys
+
+```{r libs2, message=FALSE, warning=FALSE}
+library(forcats) #to transform catagorical data
+library(ggplot2) #to plot data
+```
 
 
-unique(gsheet.dat$year) #unique levels of year 
-# we are worried about 2017 - we should remove it
+Read in the data and glimpse the variable names, formats, head of the data
+```{r read, message=FALSE, warning=FALSE}
+setwd(data.dir)#this is out shortcut using here()
+dir()
 
+gsheet.dat<-read_csv("lobster.density.gsheet.csv")%>%
+  glimpse()
+
+```
+
+
+Check for unique levels of status
+```{r check status, message=FALSE, warning=FALSE}
+unique(gsheet.dat$status)
+```
+there is a typo
+
+Check for unique levels of sanctuary
+```{r check sanct, message=FALSE, warning=FALSE}
+unique(gsheet.dat$sanctuary)
+
+```
+
+Check for unique levels of site
+```{r check site, message=FALSE, warning=FALSE}
+unique(gsheet.dat$site)
+
+```
+"eastsalmon" should be "Salmon Bay"
+
+
+Check for unique levels of year
+```{r check year, message=FALSE, warning=FALSE}
+unique(gsheet.dat$year)
+
+```
+we are worried about 2017 - we should remove it
+
+
+Check measures of habitat complexity
+```{r check complex, message=FALSE, warning=FALSE}
 unique(gsheet.dat$complexity)
-#looks consistent
 
+summary(gsheet.dat$complexity)
+
+```
+looks ok
+
+
+Check measures of habitat cover
+```{r check cover, message=FALSE, warning=FALSE}
 unique(gsheet.dat$algal.cover)
-#does not look consistent - suggest you only use for your year of data
+
+summary(gsheet.dat$algal.cover)
+
 unique(filter(gsheet.dat,year=="2019")$algal.cover)
 
+```
+does not look consistent - suggest you only use the most recent years of data
 
-# Check what sites are missing between years---
+
+Check what sites are missing between years
+```{r check sites, message=FALSE, warning=FALSE}
 table(gsheet.dat$site,gsheet.dat$year)
-# "Armstrong Point","Longreach","Rocky Bay","Stark Bay" - are only sampled once and we should remove them
+```
+"Armstrong Point","Longreach","Rocky Bay","Stark Bay" - are only sampled once and we should remove them
 
 
-# Check how we have used site names - are they unique between levels of status? 
+
+Check how we have used site names - are they unique between levels of status?
+```{r check sites, message=FALSE, warning=FALSE}
 table(gsheet.dat$year,gsheet.dat$status)
+```
+
+OK with have some corrections to make.
+It is always good to have our source data as 'correct' as possible.
+But by making these corrections in our R import script we will be able to keep a record of the changes/corrections we are making to the data.
 
 
-gsheet.dat%>%
-  filter()
+Make corrections and re-format
+```{r check sites, message=FALSE, warning=FALSE}
 
-
-# Make corrections and re-formating----
 dat<-gsheet.dat %>%
   dplyr::mutate(status = fct_recode(status,
                                     "No-take" = "No-Take"))%>%
@@ -144,16 +204,26 @@ dat<-gsheet.dat %>%
   
     glimpse()
 
+```
 
 
-unique(dat$sanctuary) #unique levels of sanctuary
+Now we can check our corections
+```{r check sites, message=FALSE, warning=FALSE}
 
-unique(dat$site) #unique levels of sanctuary
+unique(dat$sanctuary) 
 
+unique(dat$site) 
+
+unique(dat$status)
 
 str(dat)
 
-glimpse(gsheet.dat)
+
+
+```
+
+
+
 
 
 # Use dat and make new varialbes for sum of legal and sub.legal-----
@@ -211,6 +281,7 @@ dat<-gsheet.dat%>%
 
 
 # Write the long data----
+
 setwd(data.dir) #set the directory
 dir() #look in the directory
 write.csv(dat,"dat.csv")
@@ -253,5 +324,7 @@ ggplot(dat, aes(x=status, y=count)) +
   geom_point(position = position_jitter(width = 0.1, h = 0),alpha = 1/4, size=1)+
   stat_summary(fun.y=mean, geom="point", shape=2, size=4)+ #adds mean
   facet_grid(size.class~sanctuary)
+
+
 
 
